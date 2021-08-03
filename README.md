@@ -9,5 +9,7 @@
 - 오늘 깨달은 것
 - 도움이 되었던 링크의 주소
 ****
+날짜별로 정리하겠습니다.
 
-url : https://velog.io/@eonju
+- 0802 : https://velog.io/@eonju/Day-1
+- 0803 : https://velog.io/@eonju/Day-2
