@@ -28,10 +28,10 @@
 ## 🚀 진행방법
 
 1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/c/gitusername  
-   - 백엔드 P반은 be/1/p/gitusername
-   - 프론트 A반은 fe/1/a/gitusername
-   - 프론트 B반은 fe/1/b/gitusername
+   - 백엔드 C반은 be/1/C-gitusername  
+   - 백엔드 P반은 be/1/P-gitusername
+   - 프론트 A반은 fe/1/A-gitusername
+   - 프론트 B반은 fe/1/B-gitusername
 2. **TIL repo를 본인 계정에 fork**
 3. `fork`된 repository를 `clone` 받습니다.
 4. **README.md를 작성하여 꾸밉시다.**
