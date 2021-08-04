@@ -46,10 +46,8 @@
    여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
 
 ```
-- [8월 2일]
-- [8월 3일]
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+## Today I Learned
+
+- | 8월 2일 | Day1 TIL | 웹의 동작원리 | [링크] (https://velog.io/@dasssseul/TIL-Day182) |
+- | 8월 3일 | Day2 TIL | 이벤트 루프 | [링크] (https://velog.io/@dasssseul/TIL-Day283) |
+- | 8월 4일 | Day3 TIL | 연결 리스트 | [링크] (https://velog.io/@dasssseul/TIL-Day384) |
