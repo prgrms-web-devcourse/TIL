@@ -45,7 +45,7 @@
 8. PR을 아래 양식에 맞춰 내용을 작성합니다.
    여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
 
-```
+
 ## Today I Learned
 
 - | 8월 2일 | Day1 TIL | 웹의 동작원리 | [링크] (https://velog.io/@dasssseul/TIL-Day182) |
