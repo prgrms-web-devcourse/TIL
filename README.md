@@ -51,3 +51,7 @@
 |날짜|제목1|간단한 한 줄 설명|[링크]()|
 |날짜|제목1|간단한 한 줄 설명|[링크]()|
 ```
+
+# TIL
+
+- [8월 4일]|객체지향(Prototype)|Prototype의 개념 정리|[https://velog.io/@jins/TIL-Prototype%EC%9D%B4%EB%9E%80]()|
