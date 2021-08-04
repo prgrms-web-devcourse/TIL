@@ -1,7 +1,4 @@
 <br/>
-<p align="middle" >
-  <img width="200px;" src="./src/images/prgms-logo.png"/>
-</p>
 <h2 align="middle">프로그래머스 웹 데브코스 TIL</h2>
 <p align="middle">Today I Leared</p>
 <p align="middle">
