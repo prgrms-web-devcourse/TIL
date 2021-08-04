@@ -50,7 +50,8 @@
 
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|2021-08-03|ClassPath|클래스패스와 개발환경에서 궁금한 점 정리|[링크](https://cyk0825.tistory.com/42)|
+|2021-08-02|ClassPath|클래스패스와 개발환경에서 궁금한 점 정리|[링크](https://cyk0825.tistory.com/42)|
 |2021-08-03|1일차 정리 및 과제|Object 클래스, String, StringBuilder, StringBuffer|[링크](https://cyk0825.tistory.com/43)|
+|2021-08-03|객체지향과 디자인 패턴|23가지 디자인패턴 정리|[링크](https://cyk0825.tistory.com/44)|
 |2021-08-04|3일차 정리|함수형 인터페이스와 람다|[링크](https://cyk0825.tistory.com/45)|
-|2021-08-04|객체지향과 디자인 패턴|23가지 디자인패턴 정리|[링크](https://cyk0825.tistory.com/44)|
+
