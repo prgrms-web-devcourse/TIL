@@ -31,7 +31,7 @@
 ## 🚀 진행방법
 
 1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
+   - 백엔드 C반은 be/1/C-gitusername
    - 백엔드 P반은 be/1/P-gitusername
    - 프론트 A반은 fe/1/A-gitusername
    - 프론트 B반은 fe/1/B-gitusername
@@ -46,8 +46,8 @@
    여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
 
 ```
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
+
+|8월2일|자바스크립트 주요문법-1|기초적인 자바스크립트 및 웹브라우저 지식 학습|[링크](https://velog.io/@alajillo/Day.1-Javascript-%EA%B8%B0%EC%B4%882021.08.02)|
+|8월3일|자바스크립트 주요문법-2|자바스크립트의 동작원리와 정규표현식|[링크](https://velog.io/@alajillo/Day.2-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9522021.8.3)|
+|8월4일|자바스크립트 주요문법-3|자료구조 개념 및 구현|[링크](https://velog.io/@alajillo/Day.3-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9532021.8.4)
 ```
