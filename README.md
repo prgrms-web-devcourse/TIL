@@ -38,14 +38,14 @@
 5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push` 합니다.
 6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
 7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `main`
+   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
 8. PR을 아래 양식에 맞춰 내용을 작성합니다.
    여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
 
 ```
-|이름|주차|설명|링크|
+|날짜|제목|설명|링크|
 |---|---|---|---|
-| [1기 ㅇㅇㅇ]|[N주차]|M월 DD일 - 아티클 제목|링크 |
-| [1기 ㅇㅇㅇ]|[N주차]|M월 DD일 - 아티클 제목|링크 |
+|날짜|제목1|간단한 한 줄 설명|[링크]()|
+|날짜|제목1|간단한 한 줄 설명|[링크]()|
 ```
 
