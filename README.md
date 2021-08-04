@@ -45,13 +45,12 @@
 8. PR을 아래 양식에 맞춰 내용을 작성합니다.
    여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
 
-```
+# TIL
+
+
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+|8월 4일|객체지향(Prototype)|Prototype의 개념 정리|[링크](https://velog.io/@jins/TIL-Prototype%EC%9D%B4%EB%9E%80)|
 
-# TIL
 
-- [8월 4일]|객체지향(Prototype)|Prototype의 개념 정리|[https://velog.io/@jins/TIL-Prototype%EC%9D%B4%EB%9E%80]()|
