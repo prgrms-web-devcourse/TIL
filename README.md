@@ -1,4 +1,7 @@
 <br/>
+<p align="middle" >
+  <img width="200px;" src="./src/images/prgms-logo.png"/>
+</p>
 <h2 align="middle">프로그래머스 웹 데브코스 TIL</h2>
 <p align="middle">Today I Leared</p>
 <p align="middle">
@@ -48,4 +51,3 @@
 | [1기 ㅇㅇㅇ]|[N주차]|M월 DD일 - 아티클 제목|링크 |
 | [1기 ㅇㅇㅇ]|[N주차]|M월 DD일 - 아티클 제목|링크 |
 ```
-
