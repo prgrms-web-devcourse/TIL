@@ -10,7 +10,7 @@
 </p>
 
 <p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
+ <a href="https://velog.io/@alajillo">☕ 블로그 링크</a> 
 </p>
 
 <br/>
@@ -27,7 +27,7 @@
 ```
 | 날짜 | 제목  | 설명              | 링크     |
 | ---- | ----- | ----------------- | -------- |
-|8월2일|1일차 TIL|기초적인 자바스크립트 및 웹브라우저 지식 학습|[링크](https://velog.io/@alajillo/Day.1-Javascript-%EA%B8%B0%EC%B4%882021.08.02)|
-|8월3일|2일차 TIL|자바스크립트의 동작원리와 정규표현식, git&github특강|[링크](https://velog.io/@alajillo/Day.2-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9522021.8.3)|
-|8월4일|3일차 TIL|자료구조 개념 및 구현|[링크](https://velog.io/@alajillo/Day.|3-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9532021.8.4)|
+|8월2일|1일차 TIL | 자바스크립트 와 웹브라우저 기초 지식 | [링크](https://velog.io/@alajillo/Day.1-Javascript-%EA%B8%B0%EC%B4%882021.08.02)|
+|8월3일|2일차 TIL | 자바스크립트의 동작원리와 정규표현식 그리고 git&github특강 | [링크](https://velog.io/@alajillo/Day.2-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9522021.8.3)|
+|8월4일|3일차 TIL | 자료구조 | [링크](https://velog.io/@alajillo/Day.3-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9532021.8.4)|
 ```
