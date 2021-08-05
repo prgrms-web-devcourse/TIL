@@ -28,10 +28,10 @@
 
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|2021-08-02|[TIL] KDT Back-end W1D1|Build Tool 과 자바 기초|[링크](http://www.dskim.blog/post/27284325-71f2-4ce9-46e1-f9d2badcebd8)|
-|2021-08-03|[TIL] KDT Back-end W1D2|객체 지향 프로그래밍의 특성과 설계 원칙|[링크](http://www.dskim.blog/post/cc0cabaa-3ec7-40ba-5396-a21c870a08c4)|
-|2021-08-04|[TIL] KDT Back-end W1D3|interface, FunctionalInterface, Anonymouse class/method, method reference|[링크](http://www.dskim.blog/post/f83a9892-52b6-4284-7797-8d70f0218de1)|
-|2021-08-05|[TIL] KDT Back-end W1D4|Collection, Iterator, Stream, Optional|[링크](http://www.dskim.blog/post/1ff17859-92ed-4a42-4e88-facbb7985ae8)|
+|2021-08-02|[TIL] KDT Back-end W1D1|Build Tool 과 자바 기초|[Link](http://www.dskim.blog/post/27284325-71f2-4ce9-46e1-f9d2badcebd8)|
+|2021-08-03|[TIL] KDT Back-end W1D2|객체 지향 프로그래밍의 특성과 설계 원칙|[Link](http://www.dskim.blog/post/cc0cabaa-3ec7-40ba-5396-a21c870a08c4)|
+|2021-08-04|[TIL] KDT Back-end W1D3|interface, FunctionalInterface, Anonymous class/method, method reference|[Link](http://www.dskim.blog/post/f83a9892-52b6-4284-7797-8d70f0218de1)|
+|2021-08-05|[TIL] KDT Back-end W1D4|Collection, Iterator, Stream, Optional|[Link](http://www.dskim.blog/post/1ff17859-92ed-4a42-4e88-facbb7985ae8)|
 
 <br>
 
