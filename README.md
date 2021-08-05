@@ -10,7 +10,7 @@
 </p>
 
 <p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
+  <a href="https://suhyunsim.github.io">☕ 블로그 링크</a>  
 </p>
 
 <br/>
@@ -26,7 +26,7 @@
 
 ## 📖 블로그
 
-[블로그 TIL 카테고리 링크](https://suhyunsim.github.io/categories/TIL)
+[블로그 속 TIL 카테고리 링크](https://suhyunsim.github.io/categories/TIL)
 
 * 매일의 TIL에는 그날 배운 것들 중 새로 알게 된 내용들을 정리합니다. 기록 중 따로 정리할 필요를 느끼는 것들은 개별 포스트를 작성하고 TIL에 해당 포스트 링크를 걸어둡니다.
 
