@@ -31,7 +31,7 @@
 ## 🚀 진행방법
 
 1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
+   - 백엔드 C반은 be/1/C-gitusername
    - 백엔드 P반은 be/1/P-gitusername
    - 프론트 A반은 fe/1/A-gitusername
    - 프론트 B반은 fe/1/B-gitusername
@@ -51,3 +51,30 @@
 |날짜|제목1|간단한 한 줄 설명|[링크]()|
 |날짜|제목1|간단한 한 줄 설명|[링크]()|
 ```
+
+<table>
+  <tr>
+    <th>날짜</th>
+    <th>제목</th>
+    <th>설명</th>
+    <th>링크</th>
+  </tr>
+  <tr>
+    <th>0802</th>
+    <th>1일차</th>
+    <th>호이스팅, 메모리, https</th>
+    <th>https://velog.io/@94chl/TIL001</th>
+  </tr>
+  <tr>
+    <th>0803</th>
+    <th>2일차</th>
+    <th>프로그래밍 패러다임, 이벤트 루프</th>
+    <th>https://velog.io/@94chl/TIL002</th>
+  </tr>
+  <tr>
+    <th>0804</th>
+    <th>3일차</th>
+    <th>자료구조</th>
+    <th>https://velog.io/@94chl/TIL003</th>
+  </tr>
+</table>
