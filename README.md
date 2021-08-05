@@ -49,7 +49,7 @@
 |날짜|제목|설명|링크|
 |---|---|---|---|
 | 08/02 (월) | [TIL] 210802 |환경설정 및 알아두면 좋은 정보들|[링크](https://coicoding.tistory.com/14)|
-| 08/02 (월) |StringBuffer / StringBuilder의 차이점|String, StringBuffer, StringBuilder의 차이점|[링크](https://coicoding.tistory.com/18)|
+| 08/02 (월) |StringBuffer/Builder|String, StringBuffer, StringBuilder의 차이점|[링크](https://coicoding.tistory.com/18)|
 | 08/02 (월) |Constant Pool|Constant Pool에 관한 내용을 정리했습니다|[링크](https://coicoding.tistory.com/19)|
 | 08/03 (화) | [TIL] 210803 |객체지향 프로그래밍 JAVA|[링크](https://coicoding.tistory.com/16)|
 | 08/04 (수) | [TIL] 210804 |Java interface의 기능|[링크](https://coicoding.tistory.com/17)|
