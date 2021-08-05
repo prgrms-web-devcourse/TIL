@@ -31,7 +31,6 @@
 
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|21-07-30|OT, 데브코스와의 첫만남|OT 후기|[OT 후기](https://velog.io/@jeongs/OT-데브코스와의-첫만남)|
 |21-08-02|JS 기초 문법|JS 기본 문법 정리|[Week1 - Mon](https://velog.io/@jeongs/TIL-JS-기초-문법)|
 |21-08-03|프로그래밍 패러다임||[Week1 - Tue](https://velog.io/@jeongs/TIL-프로그래밍-패러다임)|
 |21-08-04|연결리스트와 코드 구현|연결리스트 정리, 보충 필요|[Week1 - Wed](https://velog.io/@jeongs/자료구조-연결리스트와-코드-구현)|
