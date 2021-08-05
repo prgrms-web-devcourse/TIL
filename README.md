@@ -24,14 +24,19 @@
 
 <br/>
 
-## TIL Table
-
+# TIL
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |2021-08-02|[TIL] KDT Back-end W1D1|Build Tool 과 자바 기초|[Link](http://www.dskim.blog/post/27284325-71f2-4ce9-46e1-f9d2badcebd8)|
 |2021-08-03|[TIL] KDT Back-end W1D2|객체 지향 프로그래밍의 특성과 설계 원칙|[Link](http://www.dskim.blog/post/cc0cabaa-3ec7-40ba-5396-a21c870a08c4)|
 |2021-08-04|[TIL] KDT Back-end W1D3|interface, FunctionalInterface, Anonymous class/method, method reference|[Link](http://www.dskim.blog/post/f83a9892-52b6-4284-7797-8d70f0218de1)|
 |2021-08-05|[TIL] KDT Back-end W1D4|Collection, Iterator, Stream, Optional|[Link](http://www.dskim.blog/post/1ff17859-92ed-4a42-4e88-facbb7985ae8)|
+
+# 아티클
+|이름|날짜 - 제목|링크|
+|---|---|---|
+| [1기 김동섭]| 08월 03일 - [Java] 객체지향의 특성|[Link](http://www.dskim.blog/post/6a384090-14e3-4651-53fe-71452bc5c547) |
+| [1기 김동섭]| 08월 03일 - [Java] 객체지향 설계의 5원칙 SOLID|[Link](http://www.dskim.blog/post/7c5a1bb9-ff6f-4717-6ea1-736e1a6edf9b) |
 
 <br>
 
