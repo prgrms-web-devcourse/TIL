@@ -13,9 +13,3 @@ Velog 바로가기 : [Velog Link](https://velog.io/@apparatus1)
 - [21. 8. 4(수) TIL(Javascript 단일 연결 리스트 구현)](https://velog.io/@apparatus1/21.-8.-4%EC%88%98-TILJavascript-%EB%8B%A8%EC%9D%BC-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EA%B5%AC%ED%98%84)
  - [21. 8. 5(목) TIL(트리, 트라이, 힙)](https://velog.io/@apparatus1/21.-8.-5%EB%AA%A9-TIL%ED%8A%B8%EB%A6%AC-%ED%8A%B8%EB%9D%BC%EC%9D%B4-%ED%9E%99)
  - [21. 8. 6(금) TIL(이진탐색, DFS, BFS, 그리디)](https://velog.io/@apparatus1/21.-8.-6%EA%B8%88-TIL%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-DFS-BFS-%EA%B7%B8%EB%A6%AC%EB%94%94)
-
- 
-
- ## Article
-
- - [Javascript 콜백함수, Promise, async, await](https://velog.io/@apparatus1/Javascript-%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98-Promise-async-await)
