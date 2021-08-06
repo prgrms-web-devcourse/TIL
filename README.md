@@ -54,6 +54,7 @@
 |---|---|---|---|
 |21.08.02|[TIL] 0802 Java command line 에서 컴파일 및 실행하기|command line 에서 컴파일 및 실행하기|[링크](https://daisy-day.tistory.com/191)|
 |21.08.05|[TIL] 0805 Java Collection|Java Collection|[링크](https://daisy-day.tistory.com/197)|
+|21.08.06|[TIL] 0806 Java 이것저것|Java 이것저것|[링크](https://daisy-day.tistory.com/198)|
 
 ## 📕 아티클
 |이름|날짜 - 아티클제목|링크|
