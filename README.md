@@ -22,3 +22,9 @@
 > 리누스 토르발스(Linus Torvalds)
 
 <br/>
+
+# TIL
+
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|2021-08-06|[TIL] DAY 1|TIL 1일차|[링크](https://barbera.tistory.com/43)|
