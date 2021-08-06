@@ -3,8 +3,7 @@
 |---|---|---|---|
 |2021.08.04|자료구조 & 알고리즘|3일차 자료구조와 알고리즘 TIL 정리|[링크](https://velog.io/@progwon/TIL-001-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
 |2021.08.05|자료구조 & 알고리즘2|4일차 자료구조와 알고리즘 TIL 정리|[링크](https://velog.io/@progwon/TIL-002-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2)|
-|2021.08.06|배열의 고차함수|5일차 배열의 고차함수 TIL 정리|[링크](
-https://velog.io/@progwon/TIL-003-%EB%B0%B0%EC%97%B4%EC%9D%98-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98)|
+|2021.08.06|배열의 고차함수|5일차 배열의 고차함수 TIL 정리|[링크](https://velog.io/@progwon/TIL-003-%EB%B0%B0%EC%97%B4%EC%9D%98-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98)|
 
 # Article
 |날짜|제목|설명|링크|
