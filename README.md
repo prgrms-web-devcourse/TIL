@@ -50,7 +50,9 @@
 
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|8월 4일|객체지향(Prototype)|Prototype의 개념 정리|[링크](https://velog.io/@jins/TIL-Prototype%EC%9D%B4%EB%9E%80)|
+
+|8월 4일|[TIL] Prototype이란?|Prototype의 개념 정리|[링크](https://velog.io/@jins/TIL-Prototype%EC%9D%B4%EB%9E%80)|
+|8월 5일|[TIL] Linked list|Linked list를 사용하는 이유|[링크](https://velog.io/@jins/TIL-Linked-list|
+|8월 6일|[TIL] Tree, Trie|Tree와 Trie 구조에 대한 개념 정립|[링크](https://velog.io/@jins/TIL-Tree-Trie|
 
 
