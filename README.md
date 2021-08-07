@@ -62,6 +62,7 @@
 
   - 객체 지향 프로그래밍(OOP)
   - 객체 지향의 특성
+  - UML
   - 객체 지향 설계
 
   </div>
@@ -71,6 +72,10 @@
   <summary>20210804 TIL(미완)</summary>
   <div markdown="1">
 
+  - 인터페이스 기능
+  - 디폴트 메소드
+  - 함수형 인터페이스
+  - 람다 표현식
 
   </div>
 </details>
@@ -79,6 +84,11 @@
   <summary>20210805 TIL(미완)</summary>
   <div markdown="1">
 
+  - Collection
+  - Iterator
+  - Stream
+  - Optional
+
   </div>
 </details>
 
@@ -86,6 +96,10 @@
   <summary>20210806 TIL(미완)</summary>
   <div markdown="1">
 
+  - Dependency
+  - 프로젝트 설계
+  - 프로젝트 구현 엔진 레이어
+  - 프로젝트 구현 어플리케이션 레이어
 
   </div>
 </details>
@@ -97,10 +111,13 @@
   - 클래스, 객체, 인스턴스
     - 객체와 인스턴스의 차이?
   - 클래스 멤버, 인스턴스 멤버
-    - 의문점 (해결)
+    - 의문점: 어떤 상황에 instance를 생성하는지?
   - 상속, 생성자
   - overriding, overloading
   - 접근제어자(Access Level Modifiers)
+  - final, abstract
+  - interface
+    - 의문점: interface와 abstract class의 차이?
 
   </div>
 </details>
