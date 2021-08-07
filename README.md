@@ -33,3 +33,12 @@
 |2021-08-04|W1D3|Interface이야기|[링크](https://good-wallflower-5ff.notion.site/210804-c08ed6524baa4c9cb62df137a94fe9a1)|
 |2021-08-05|W1D4|Collection이야기|[링크](https://good-wallflower-5ff.notion.site/210805-42d2d0b643a34ea4996c8364c259282f)|
 |2021-08-06|W1D5|실습과제_숫자야구게임|[링크](https://good-wallflower-5ff.notion.site/210806-fb848f431cf54a828b69592f85a3c312)|
+
+## 📌 Article
+
+|날짜|제목|설명|링크|
+|---|---|------------|---|
+|2021-08-08|String완전정복|String과 SB클래스|[링크](https://esoongan.tistory.com/171)|
+
+
+
