@@ -1,37 +1,15 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./src/images/prgms-logo.png"/>
-</p>
-<h2 align="middle">프로그래머스 웹 데브코스 TIL</h2>
-<p align="middle">Today I Leared</p>
-<p align="middle">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
-  <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
-</p>
+# 💻 프로그래머스 웹 데브코스 김정호의 TIL
 
-<p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
-</p>
-
-<br/>
-
-# 💻 프로그래머스 웹 데브코스 TIL
-
-> "Talk is cheap. Show me the code."
-> ("말은 쉽지, 코드를 보여줘.")
->
-> 리누스 토르발스(Linus Torvalds)
-
-<br/>
-
-## 📌 배움 기록은 어떻게 하나요?
-
-**TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
+| 날짜       | 제목  | 설명                 | 링크                                        |
+| ---------- | ----- | -------------------- | ------------------------------------------- |
+| 2021-08-02 | 제목1 | Hoisting에 대해      | [링크](https://velog.io/@flareon/TIL-Day-1) |
+| 2021-08-04 | 제목1 | Day3 느낀점          | [링크](https://velog.io/@flareon/TIL-DAY3)  |
+| 2021-08-06 | 제목1 | Day5 학습내용,느낀점 | [링크](https://velog.io/@flareon/TIL-Day5)  |
 
 ## 🚀 진행방법
 
 1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
+   - 백엔드 C반은 be/1/C-gitusername
    - 백엔드 P반은 be/1/P-gitusername
    - 프론트 A반은 fe/1/A-gitusername
    - 프론트 B반은 fe/1/B-gitusername
