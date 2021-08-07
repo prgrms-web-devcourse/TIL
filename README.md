@@ -52,29 +52,7 @@
 |날짜|제목1|간단한 한 줄 설명|[링크]()|
 ```
 
-<table>
-  <tr>
-    <th>날짜</th>
-    <th>제목</th>
-    <th>설명</th>
-    <th>링크</th>
-  </tr>
-  <tr>
-    <th>0802</th>
-    <th>1일차</th>
-    <th>호이스팅, 메모리, https</th>
-    <th>https://velog.io/@94chl/TIL001</th>
-  </tr>
-  <tr>
-    <th>0803</th>
-    <th>2일차</th>
-    <th>프로그래밍 패러다임, 이벤트 루프</th>
-    <th>https://velog.io/@94chl/TIL002</th>
-  </tr>
-  <tr>
-    <th>0804</th>
-    <th>3일차</th>
-    <th>자료구조</th>
-    <th>https://velog.io/@94chl/TIL003</th>
-  </tr>
-</table>
+|2021-08-02|1일차|호이스팅, 메모리, https|https://velog.io/@94chl/TIL001|
+|2021-08-03|2일차|프로그래밍 패러다임, 이벤트 루프|https://velog.io/@94chl/TIL002|
+|2021-08-04|3일차|자료구조|https://velog.io/@94chl/TIL003|
+|2021-08-06|CS스터디 1|HTTP 메서드|https://velog.io/@94chl/HTTP-request-method|
