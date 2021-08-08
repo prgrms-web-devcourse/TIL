@@ -25,10 +25,14 @@
 <br/>
 
 ## 📌 TIL LIST
-
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|2021-08-02|DAY 1 TIL (강의)|스코프, 호이스팅|[링크](https://github.com/MiranLeeeee/Today-I-Learned/blob/master/2021_08_02.md)|
+|2021-08-03|DAY 2 TIL (강의)|클로저|[링크](https://github.com/MiranLeeeee/Today-I-Learned/blob/master/2021_08_03.md)|
+|2021-08-07|DAY 6 TIL (숙제)|트리, 트라이|[링크](https://github.com/MiranLeeeee/Today-I-Learned/blob/master/2021_08_07.md)|
 <br/>
 
-**URL** 
+
 
 
 
