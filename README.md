@@ -27,4 +27,5 @@
 
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|2021-08-06|[TIL] DAY 1|TIL 1일차|[링크](https://barbera.tistory.com/43)|
+|2021-08-06|TIL 1|Thread-safe|[링크](https://barbera.tistory.com/43)|
+|2021-08-08|TIL 2|String 클래스|[링크](https://barbera.tistory.com/44)|
