@@ -10,7 +10,7 @@
 </p>
 
 <p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
+  <!-- <a href="#">☕ <!-- <a href="#">☕ https://velog.io/@seungrok-yoon </a> -->  </a> -->  
 </p>
 
 <br/>
@@ -32,4 +32,5 @@
 |---|---|---|---|
 |20210802|자바스크립트 기초 문법부터 다지는 알짜배기 강의|첫 수업과 그 감회를 주로 적은 TIL|[링크](https://velog.io/@seungrok-yoon/TIL-20210802)|
 |20210803|ES6의 새 기능들을 알아보자!|ES6와 클로저|[링크](https://velog.io/@seungrok-yoon/TIL-20210803)|
+|20210806|Map() 객체, .forEach(), spread 연산자 및 .flatmap() 사용법|ES6 Map객체와 새로 만난 매서드들|[링크](https://velog.io/@seungrok-yoon/TIL-20210806)|
 
