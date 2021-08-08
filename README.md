@@ -16,11 +16,20 @@
 
 | 날짜 | 주제  | 한 줄 내용         | Link     |
 | ---- | ----- | ----------------- | -------- |
-| 8월 6일 | 🥔week1 | 1주차 회고 TIL | [링크](https://velog.io/@minsgy/Week1-%EB%82%B4%EA%B0%80-%EA%B8%B0%EC%B4%88%EC%98%80%EB%8B%A4) |
 | 8월 5일 | 😃Day4 | 자료구조 심화 | [링크](https://minsgy.notion.site/Day4-e588e7a50bb04ceb9dcc424de467ecc4) |
 | 8월 4일 | 😃Day3 | 자료구조 기초 | [링크](https://minsgy.notion.site/Day1-ee60614570de462cbdc55aae5aeec964) |
 | 8월 3일 | 😃Day2 | Javascript 흐름  | [링크](https://minsgy.notion.site/Day2-45fefd8784004ed08e4966bfc91bbcc8) |
 | 8월 2일 | 😃Day1 | Javascript 기초 | [링크](https://minsgy.notion.site/Day3-682ee3d5a57e4860b7832ef136e117c3) |
+
+---
+
+🤔 주차 별 Velog 회고
+| 날짜 | 주제  | 한 줄 내용         | Link     |
+| ---- | ----- | ----------------- | -------- |
+| 8월 6일 | 🥔week1 | 1주차 회고 | [링크](https://velog.io/@minsgy/Week1-%EB%82%B4%EA%B0%80-%EA%B8%B0%EC%B4%88%EC%98%80%EB%8B%A4) |
+
+
+
 
 ---
 
@@ -29,4 +38,6 @@
 | 날짜 | 주제  | 한 줄 내용         | Link     |
 | ---- | ----- | ----------------- | -------- |
 | 8월 5일 | 🥰CS Week1 | WebStorage가 뭐야? | [링크](https://velog.io/@minsgy/Web-Storage-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A0%80%EC%9E%A5%ED%95%B4) |
+
+
 
