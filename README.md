@@ -118,6 +118,7 @@
   - final, abstract
   - interface
     - 의문점: interface와 abstract class의 차이?
+  - Object 클래스
 
   </div>
 </details>
