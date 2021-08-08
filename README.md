@@ -1,53 +1,32 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./src/images/prgms-logo.png"/>
-</p>
-<h2 align="middle">프로그래머스 웹 데브코스 TIL</h2>
-<p align="middle">Today I Leared</p>
-<p align="middle">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
-  <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
-</p>
 
-<p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
-</p>
+# ✨Programmers FE DevCourse [ TIL ]
 
-<br/>
+## 🙄 학습 규칙 
 
-# 💻 프로그래머스 웹 데브코스 TIL
+- 학습 기록 TIL은 매일매일 적기!
+- 매 주 1회 Week 회고 적기!
+- 모르겠으면 그냥 넘기지 말기😎
+- 물어보는 것에 겁먹지 말기😙
+- 매운 평가는 나에게 좋은 것😛
+- **TroubleShooting** 에 대해서는 항상 남기기 🤔
 
-> "Talk is cheap. Show me the code."
-> ("말은 쉽지, 코드를 보여줘.")
->
-> 리누스 토르발스(Linus Torvalds)
+---
 
-<br/>
+😁TIL 
 
-## 📌 배움 기록은 어떻게 하나요?
+| 날짜 | 주제  | 한 줄 내용         | Link     |
+| ---- | ----- | ----------------- | -------- |
+| 8월 6일 | 🥔week1 | 1주차 회고 TIL | [링크](https://velog.io/@minsgy/Week1-%EB%82%B4%EA%B0%80-%EA%B8%B0%EC%B4%88%EC%98%80%EB%8B%A4) |
+| 8월 5일 | 😃Day4 | 자료구조 심화 | [링크](https://minsgy.notion.site/Day4-e588e7a50bb04ceb9dcc424de467ecc4) |
+| 8월 4일 | 😃Day3 | 자료구조 기초 | [링크](https://minsgy.notion.site/Day1-ee60614570de462cbdc55aae5aeec964) |
+| 8월 3일 | 😃Day2 | Javascript 흐름  | [링크](https://minsgy.notion.site/Day2-45fefd8784004ed08e4966bfc91bbcc8) |
+| 8월 2일 | 😃Day1 | Javascript 기초 | [링크](https://minsgy.notion.site/Day3-682ee3d5a57e4860b7832ef136e117c3) |
 
-**TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
+---
 
-## 🚀 진행방법
+😎 CS Study Article
 
-1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
-   - 백엔드 P반은 be/1/P-gitusername
-   - 프론트 A반은 fe/1/A-gitusername
-   - 프론트 B반은 fe/1/B-gitusername
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository를 `clone` 받습니다.
-4. **README.md를 작성하여 꾸밉시다.**
-5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push` 합니다.
-6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
-7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
-8. PR을 아래 양식에 맞춰 내용을 작성합니다.
-   여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
+| 날짜 | 주제  | 한 줄 내용         | Link     |
+| ---- | ----- | ----------------- | -------- |
+| 8월 5일 | 🥰CS Week1 | WebStorage가 뭐야? | [링크](https://velog.io/@minsgy/Web-Storage-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A0%80%EC%9E%A5%ED%95%B4) |
 
-```
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
