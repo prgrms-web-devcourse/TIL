@@ -60,3 +60,11 @@ TIL은 <b>Today I Learn</b> 의 약어이며, 오늘 공부 한 내용을 매일
 | 2021.08.05 | TIL - Day 4  | Programmers Web Devcourse FE 1th - Day 4의 TIL을 기록  | [링크](https://velog.io/@codenmh0822/TIL-Day-4)  |
 | 2021.08.06 | TIL - Day 5  | Programmers Web Devcourse FE 1th - Day 5의 TIL을 기록  | [링크](https://velog.io/@codenmh0822/TIL-Day-5)  |
 | 2021.08.07 | TIL - Week 1 | Programmers Web Devcourse FE 1th - Week 1의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Week-1) |
+
+<br>
+
+## ✍ Week 2
+
+| 날짜       | 제목        | 설명                                                  | 링크                                            |
+| ---------- | ----------- | ----------------------------------------------------- | ----------------------------------------------- |
+| 2021.08.10 | TIL - Day 6 | Programmers Web Devcourse FE 1th - Day 6의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-6) |
