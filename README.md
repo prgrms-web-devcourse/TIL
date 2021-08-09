@@ -16,6 +16,7 @@
 
 | 날짜 | 주제  | 한 줄 내용         | Link     |
 | ---- | ----- | ----------------- | -------- |
+| 8월 9일 | 😃Day6 | 함수형 프로그래밍 기초 및 ES6 | [링크](https://minsgy.notion.site/Day6-173f7755287f4ea08a830f20d3f98445) |
 | 8월 5일 | 😃Day4 | 자료구조 심화 | [링크](https://minsgy.notion.site/Day4-e588e7a50bb04ceb9dcc424de467ecc4) |
 | 8월 4일 | 😃Day3 | 자료구조 기초 | [링크](https://minsgy.notion.site/Day1-ee60614570de462cbdc55aae5aeec964) |
 | 8월 3일 | 😃Day2 | Javascript 흐름  | [링크](https://minsgy.notion.site/Day2-45fefd8784004ed08e4966bfc91bbcc8) |
