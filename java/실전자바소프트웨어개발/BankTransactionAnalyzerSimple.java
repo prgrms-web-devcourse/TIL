@@ -61,38 +61,31 @@ public class BankTransaction {
     }
 }
 
-// 1. 입력 읽기, 3. 결과 처리, 4. 결과 요약리포트
+// 1. 입력 읽기,  4. 결과 요약리포트
 public class BankTransactionAnalyzerSimple {
     private static final String RESOURCES = "src/main/resources/";
+    private static final BankStatementCSVParser bankStatementParser = new BankStatementCSVParser();
 
     public static void main(String[] args) throws IOException {
-        final BankStatementCSVParser bankStatementCSVParser = new BankStatementCSVParser()
 
         final String filename = args[0];
         final Path path = Paths.get(RESOURCES + filename);
         final List<String> lines = Files.readAllLines(path);
 
-        final List<BankTransaction> bankTransactions = bankStatementCSVParser.parseLinesFromCSV(lines);
+        final List<BankTransaction> bankTransactions = bankStatementParser.parseLinesFromCSV(lines);
+        final BankStatementProcessor bankStatementProcessor = new BankStatementProcessor(bankTransactions);
 
-        System.out.println("The total for all transaction is " + calculateTotalAmount(bankTransactions));
-        System.out.println("Transaction in January " + selectInMonth(bankTransactions, Month.JANUARY));
+        collectSummary(bankStatementProcessor);
     }
 
-    public static double calculateTotalAmount(final List<BankTransaction> bankTransactions) {
-        double total = 0d;
-        for (final BankTransaction bankTransaction: bankTransactions) {
-            total += bankTransaction.getAmount();
-        }
-        return total;
-    }
+    public static void collectSummary(final BankStatementProcessor bankStatementProcessor) {
+        System.out.println("The total for all transaction is " + bankStatementProcessor.calculateTotalAmount());
 
-    public static List<BankTransaction> selectInMonth(final List<BankTransaction> bankTransactions, final Month month) {
-        final List<BankTransaction> bankTransactionsInMonth = new ArrayList<>();
-        for (final BankTransaction bankTransaction: bankTransactions) {
-            if (bankTransaction.getDate().getMonth() == month)
-                bankTransactionsInMonth.add(bankTransaction);
-        }
-        return bankTransactionsInMonth;
+        System.out.println("Transaction in January is " + bankStatementProcessor.calculateTotalInMonth(Month.JANUARY));
+        System.out.println("Transaction in February is " + bankStatementProcessor.calculateTotalInMonth(Month.FEBRUARY));
+
+        System.out.println("the total salary received is " + bankStatementProcessor.calculateTotalForCategory("Salary"));;
+
     }
 }
 
@@ -116,5 +109,40 @@ public class BankStatementCSVParser {
             bankTransactions.add(parseFromCSV(line));
         }
         return bankTransactions;
+    }
+}
+
+// 3. 결과 처리,
+public class BankStatementProcessor {
+    private final List<BankTransaction> bankTransactions;
+
+    public BankStatementProcessor(final List<BankTransaction> bankTransactions) {
+        this.bankTransactions = bankTransactions;
+    }
+
+    public double calculateTotalAmount() {
+        double total = 0;
+        for (final BankTransaction bankTransaction: bankTransactions) {
+            total += bankTransaction.getAmount();
+        }
+        return total;
+    }
+
+    public double calculateTotalInMonth(final Month month) {
+        double total = 0;
+        for (final BankTransaction bankTransaction: bankTransactions) {
+            if (bankTransaction.getDate().getMonth() == month)
+                total += bankTransaction.getAmount();
+        }
+        return total;
+    }
+
+    public double calculateTotalForCategory(final String category) {
+        double total = 0;
+        for (final BankTransaction bankTransaction: bankTransactions) {
+            if (bankTransaction.getDescription().equals(category))
+                total += bankTransaction.getAmount();
+        }
+        return total;
     }
 }
