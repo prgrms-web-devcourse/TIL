@@ -57,3 +57,4 @@ TIL은 <b>Today I Learn</b> 의 약어이며, 오늘 공부 한 내용을 매일
 - [8월 5일(목) - Day 4](https://velog.io/@codenmh0822/TIL-Day-4)
 - [8월 6일(금) - Day 5](https://velog.io/@codenmh0822/TIL-Day-5)
 - [8월 7일(토) - 1주차 정리(1)](https://velog.io/@codenmh0822/TIL-1%EC%A3%BC%EC%B0%A8-%EC%A0%95%EB%A6%AC1)
+- [8월 9일(월) - Day 6](https://velog.io/@codenmh0822/TIL-Day-6)
