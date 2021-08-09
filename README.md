@@ -14,40 +14,49 @@
 </p>
 
 <br/>
+<br/>
+<br/>
+<br/>
 
-# 💻 프로그래머스 웹 데브코스 TIL
+# 📌 배움을 기록합니다.
+
+<br>
+
+## 📄 TIL ?
+
+<br>
+
+TIL은 <b>Today I Learn</b> 의 약어이며, 오늘 공부 한 내용을 매일매일 기록하는 방법입니다.
+
+<br>
 
 > "Talk is cheap. Show me the code."
 > ("말은 쉽지, 코드를 보여줘.")
 >
 > 리누스 토르발스(Linus Torvalds)
+> **TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
 
-<br/>
+<br><br>
 
-## 📌 배움 기록은 어떻게 하나요?
+## ❓ 왜 TIL을 작성하게 되었는가
 
-**TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
+<br>
+5개월간의 쉽지 않은 프로그래머스 데브코스 프론트엔드 과정을 후회 없이 수료하고자 하며 수료까지의 과정을 의미 있는 기록으로 남기고 싶어  작성하게 되었습니다.
+<br><br>
 
-## 🚀 진행방법
+무엇보다 당일 공부한 내용이 가장 잘 기억나는 그 당일에 배움을 기록하는게 가장 의미 있다 생각합니다.
 
-1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
-   - 백엔드 P반은 be/1/P-gitusername
-   - 프론트 A반은 fe/1/A-gitusername
-   - 프론트 B반은 fe/1/B-gitusername
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository를 `clone` 받습니다.
-4. **README.md를 작성하여 꾸밉시다.**
-5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push` 합니다.
-6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
-7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
-8. PR을 아래 양식에 맞춰 내용을 작성합니다.
-   여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
+<br><br>
 
-```
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+# 📚 TIL List
+
+## ✍ Week 1
+
+| 날짜       | 제목         | 설명                                                   | 링크                                             |
+| ---------- | ------------ | ------------------------------------------------------ | ------------------------------------------------ |
+| 2021.08.02 | TIL - Day 1  | Programmers Web Devcourse FE 1th - Day 1의 TIL을 기록  | [링크](https://velog.io/@codenmh0822/TIL-Day-1)  |
+| 2021.08.03 | TIL - Day 2  | Programmers Web Devcourse FE 1th - Day 2의 TIL을 기록  | [링크](https://velog.io/@codenmh0822/TIL-Day-2)  |
+| 2021.08.04 | TIL - Day 3  | Programmers Web Devcourse FE 1th - Day 3의 TIL을 기록  | [링크](https://velog.io/@codenmh0822/TIL-Day-3)  |
+| 2021.08.05 | TIL - Day 4  | Programmers Web Devcourse FE 1th - Day 4의 TIL을 기록  | [링크](https://velog.io/@codenmh0822/TIL-Day-4)  |
+| 2021.08.06 | TIL - Day 5  | Programmers Web Devcourse FE 1th - Day 5의 TIL을 기록  | [링크](https://velog.io/@codenmh0822/TIL-Day-5)  |
+| 2021.08.07 | TIL - Week 1 | Programmers Web Devcourse FE 1th - Week 1의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Week-1) |
