@@ -10,6 +10,10 @@
     2. 주어진 형식의 입력 파싱
     3. 결과 처리
     4. 결과 요약리포트
+
+  - 결합도
+    1. BankStatementAnalyzerSimple은 BankStatementCSVParser에 의존한다.
+        -> 인터페이스를 사용하여 여러 컴포넌트의 결합도를 제거하자
  */
 
 // 0. 입출금 내역 도메인 클래스
@@ -62,17 +66,16 @@ public class BankTransaction {
 }
 
 // 1. 입력 읽기,  4. 결과 요약리포트
+// 결합도 1. 인터페이스를 사용하여 BankTransactionParser를 인수로 받는 analyze() 메서드를 만들어 특정 구현에 종속되지 않도록 클래스를 개선한다.
+//  => 클래스가 더 이상 특정 구현에 종속되지 않도록 개선되었으므로 요구 사항이 바뀌어도 쉽게 대응할 수 있다.
 public class BankTransactionAnalyzerSimple {
     private static final String RESOURCES = "src/main/resources/";
-    private static final BankStatementCSVParser bankStatementParser = new BankStatementCSVParser();
-
-    public static void main(String[] args) throws IOException {
-
-        final String filename = args[0];
-        final Path path = Paths.get(RESOURCES + filename);
+    
+    public void analyze(final String fileName, final BankStatementParser bankStatementParser) throws IOException {
+        final Path path = Paths.get(RESOURCES + fileName);
         final List<String> lines = Files.readAllLines(path);
 
-        final List<BankTransaction> bankTransactions = bankStatementParser.parseLinesFromCSV(lines);
+        final List<BankTransaction> bankTransactions = bankStatementParser.parseLinesFrom(lines);
         final BankStatementProcessor bankStatementProcessor = new BankStatementProcessor(bankTransactions);
 
         collectSummary(bankStatementProcessor);
@@ -90,10 +93,12 @@ public class BankTransactionAnalyzerSimple {
 }
 
 // 2. 파싱 로직을 추출해 한 클래스로 만듦
-public class BankStatementCSVParser {
+// 결합도 1. BankStatementParser 인터페이스를 구현한다.
+public class BankStatementCSVParser implements BankStatementParser {
     private static final DateTimeFormatter DATE_PATTERN = DateTimeFormatter.ofPattern("dd-MM-yyyy");
 
-    private BankTransaction parseFromCSV(final String line) {
+    @Override
+    public BankTransaction parseFrom(final String line) {
         final String[] columns = line.split(",");
 
         final LocalDate date = LocalDate.parse(columns[0], DATE_PATTERN);
@@ -103,10 +108,11 @@ public class BankStatementCSVParser {
         return new BankTransaction(date, amount, description);
     }
 
-    public List<BankTransaction> parseLinesFromCSV(final List<String> lines) {
+    @Override
+    public List<BankTransaction> parseLinesFrom(final List<String> lines) {
         final List<BankTransaction> bankTransactions = new ArrayList<>();
         for (final String line : lines) {
-            bankTransactions.add(parseFromCSV(line));
+            bankTransactions.add(parseFrom(line));
         }
         return bankTransactions;
     }
@@ -144,5 +150,26 @@ public class BankStatementProcessor {
                 total += bankTransaction.getAmount();
         }
         return total;
+    }
+}
+
+// 결합도 1. BankStatementParser interface를 만든다.
+public interface BankStatementParser {
+    BankTransaction parseFrom(String line);
+    List<BankTransaction> parseLinesFrom(List<String> lines);
+}
+
+// 결합도 1. 메인 응용프로그램에서 지금까지 구현한 코드를 사요하자.
+public class Main {
+    public static void main(String[] args) throws IOException {
+
+        final BankTransactionAnalyzerSimple bankTransactionAnalyzerSimple
+                = new BankTransactionAnalyzerSimple();
+
+        final BankStatementParser bankStatementParser
+                = new BankStatementCSVParser();
+
+        bankTransactionAnalyzerSimple.analyze(args[0], bankStatementParser);
+        
     }
 }
