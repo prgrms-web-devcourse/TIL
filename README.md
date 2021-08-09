@@ -25,10 +25,10 @@
 > -Sylvester Stallone (Rocky)-
 <br/>
 
-| 날짜 | 제목  | 설명              | 링크     |
-| ---- | ----- | ----------------- | -------- |
-|2021년 8월 2일 | TIL - 2021.08.02 | 수업 내용에 대한 정리 | [링크](https://white-board.tistory.com/160)|
-|2021년 8월 3일 | TIL - 2021.08.03 | 수업 내용에 대한 정리 | [링크](https://white-board.tistory.com/161)|
-|2021년 8월 4일 | TIL - 2021.08.04 | 수업 내용에 대한 정리 | [링크](https://white-board.tistory.com/162)|
-|2021년 8월 5일 | TIL - 2021.08.05 | 수업 내용에 대한 정리 | [링크](https://white-board.tistory.com/163)|
-|2021년 8월 8일 | [Java] 동일성 비교와 동등성 비교 | 동등성 비교와 동일성 비교에 대한 개념과 자바에서 제공하는 기능 이야기 | [링크](https://white-board.tistory.com/164)|
+| 날짜 | 제목  | 설명              | 파일      | 링크     |
+| ---- | ----- | ----------------- |----------| -------- |
+|2021.08.02 | TIL - 2021.08.02 | 수업 내용에 대한 정리 || [링크](https://white-board.tistory.com/160)|
+|2021.08.03  | TIL - 2021.08.03 | 수업 내용에 대한 정리 || [링크](https://white-board.tistory.com/161)|
+|2021.08.04  | TIL - 2021.08.04 | 수업 내용에 대한 정리 || [링크](https://white-board.tistory.com/162)|
+|2021.08.05 | TIL - 2021.08.05 | 수업 내용에 대한 정리 || [링크](https://white-board.tistory.com/163)|
+|2021.08.08  | [Java] 동일성 비교와 동등성 비교 | 동일성과 동등성 개념 및 자바 이야기 | [링크](./article/동일성과동등성.md)| [링크](https://white-board.tistory.com/164)|
