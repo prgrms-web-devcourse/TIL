@@ -34,5 +34,3 @@
 |21-08-02|JS 기초 문법|JS 기본 문법 정리|[Week1 - Mon](https://velog.io/@jeongs/TIL-JS-기초-문법)|
 |21-08-03|프로그래밍 패러다임||[Week1 - Tue](https://velog.io/@jeongs/TIL-프로그래밍-패러다임)|
 |21-08-04|연결리스트와 코드 구현|연결리스트 정리, 보충 필요|[Week1 - Wed](https://velog.io/@jeongs/자료구조-연결리스트와-코드-구현)|
-|21-08-08|DOM과 Virtual DOM|DOM 구조, DOM Tree rendering, Virtual DOM|[Week2 - Sun](https://velog.io/@jeongs/TIL-DOM과-Virtual-DOM)|
-|21-08-09|함수형 JS 기본|일급함수, 고차함수, iterable, iterator, generator|[Week2 - Mon](https://velog.io/@jeongs/TIL-함수형-프로그래밍)|
