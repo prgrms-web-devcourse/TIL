@@ -1,3 +1,10 @@
+/**
+  - 요구사항
+    - 은행 입출금 내역의 총 수입과 총 지출은 각각 얼마인가? 결과가 양수인가 음수인가?
+    - 특정 달엔 몇 건의 입출금 내역이 발생했는가?
+    - 지출이 가장 높은 상위 10건은 무엇인가?
+    - 돈을 가장 많이 소비하는 항목은 무엇인가?
+ */
 public class BankTransactionAnalyzerSimple {
     private static final String RESOURCES = "src/main/resources/";
 
@@ -7,10 +14,15 @@ public class BankTransactionAnalyzerSimple {
 
         double total = 0d;
 
+        final DateTimeFormatter DATE_PATTERN = DateTimeFormatter.ofPattern("dd-MM-yyyy");
+
         for (final String line : lines) {
             final String[] columns = line.split(",");
-            final double amount = Double.parseDouble(columns[1]);
-            total += amount;
+            final LocalDate date = LocalDate.parse(columns[0], DATE_PATTERN);
+            if (date.getMonth() == Month.JANUARY) {
+                final double amount = Double.parseDouble(columns[1]);
+                total += amount;
+            }
         }
 
         System.out.println("The total for all transaction is " + total);
