@@ -24,8 +24,9 @@
 
 <br/>
 
-| 날짜       | 제목          | 설명                               | 링크                                                        |
-| ---------- | ------------- | ---------------------------------- | ----------------------------------------------------------- |
-| 2021.08.03 | TIL Day1      | JavaScript의 변수 선언과 HTTPS     | [링크](https://velog.io/@yes3427/binary-tree-and-traversal) |
-| 2021.08.04 | RESTful API란 | RESTful API                        | [링크](https://velog.io/@yes3427/network-about-RESTfulAPI)  |
-| 2021.08.05 | 문제풀이      | [프로그래머스] 베스트앨범 문제풀이 | [링크](https://velog.io/@yes3427/programmers-bestAlbum)     |
+| 날짜       | 제목          | 설명                                                  | 링크                                                        |
+| ---------- | ------------- | ----------------------------------------------------- | ----------------------------------------------------------- |
+| 2021.08.03 | TIL Day1      | JavaScript의 변수 선언과 HTTPS                        | [링크](https://velog.io/@yes3427/binary-tree-and-traversal) |
+| 2021.08.04 | RESTful API란 | RESTful API                                           | [링크](https://velog.io/@yes3427/network-about-RESTfulAPI)  |
+| 2021.08.05 | 문제풀이      | [프로그래머스] 베스트앨범 문제풀이                    | [링크](https://velog.io/@yes3427/programmers-bestAlbum)     |
+| 2021.08.06 | 이진트리      | 이진 트리 (binary tree) 와 이진트리의 순회(traversal) | [링크](https://velog.io/@yes3427/binary-tree-and-traversal) |
