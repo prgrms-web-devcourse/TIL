@@ -6,7 +6,7 @@ Velog 바로가기 : [Velog Link](https://velog.io/@apparatus1)
 
 <hr>
 
-## TIL
+## 주차별 TIL(Today I Leaned)
 
 #### 1주차(21-08-02 ~ 21-08-08)
 
