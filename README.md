@@ -22,8 +22,8 @@
 <br>
 
 ## DB
-+ [스키마](./2. DB/til1.md)
-+ [프로비저닝, IaaS/PaaS/SaaS](./2. DB/til2.md)
++ [스키마](./DB/til1.md)
++ [프로비저닝, IaaS/PaaS/SaaS](./DB/til2.md)
 
 <br>
 
