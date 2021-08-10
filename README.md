@@ -25,6 +25,7 @@
 | 2021.08.02 | 20210804 - 자료구조와 알고리즘1 | 배열,연결리스트, 스택, 큐, 해시테블,그래프        | [링크](https://velog.io/@younoah/TIL-20210804)                        |
 | 2021.08.04 | 20210805 - 자료구와 알고리즘2   | 트리, 힙, 트라이, 정렬, 이진탐색, BFS/DFS, 그리디 | [링크](https://velog.io/@younoah/TIL-20210805)                        |
 | 2021.08.09 | 20210809 - 함수형 프로그래밍1   | 함수형 프로그래밍 개념과 재료들                   | [링크](https://velog.io/@younoah/TIL-20210805-functional-programming) |
+| 2021.08.10 | 20210810 - 함수형 프로그래밍2   | 지연성과 지연성을 지원하는 함수들 구현            | [링크](https://velog.io/@younoah/TIL-20210810)                        |
 
 ### 💧Article
 
@@ -34,3 +35,4 @@
 | 2021.08.03 | Day1 Article      | 실행컨텍스트와 호이스팅, 스코프체인, 클로저에 대해 알아보자. | [링크](https://velog.io/@younoah/execution-context)      |
 | 2021.08.03 | Day2 Article      | 다양한 프로그래밍 패러다임을 알아보자.                       | [링크](https://velog.io/@younoah/programming-paradigm)   |
 | 2021.08.04 | CS 스터디 Article | 브라우저 렌더링 과정을 알아보자.                             | [링크](https://velog.io/@younoah/browser-rendering-path) |
+| 2021.08.10 | CS 스터디 Article | 자바스크립트에서 동기와 비동기                               | [링크](https://velog.io/@younoah/js-sync-async)          |
