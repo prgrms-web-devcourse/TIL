@@ -9,45 +9,13 @@
   <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
 </p>
 
-<p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
-</p>
-
-<br/>
-
-# 💻 프로그래머스 웹 데브코스 TIL
-
-> "Talk is cheap. Show me the code."
-> ("말은 쉽지, 코드를 보여줘.")
->
-> 리누스 토르발스(Linus Torvalds)
-
-<br/>
-
-## 📌 배움 기록은 어떻게 하나요?
-
-**TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
-
-## 🚀 진행방법
-
-1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
-   - 백엔드 P반은 be/1/P-gitusername
-   - 프론트 A반은 fe/1/A-gitusername
-   - 프론트 B반은 fe/1/B-gitusername
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository를 `clone` 받습니다.
-4. **README.md를 작성하여 꾸밉시다.**
-5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push` 합니다.
-6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
-7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
-8. PR을 아래 양식에 맞춰 내용을 작성합니다.
-   여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
-
-```
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+# 📝TIL
+|날짜|제목|설명|링크|상태|
+|---|---|---|---|---|
+|2021.08.02|1주차 (1) Java 이야기|개발환경 설정, 빌드툴(Gradle), 이외 팁|[Link](https://healtheefart.notion.site/2021-08-02-TIL-Java-Story-129f1b01b1b74631b54786765dd058c1)|⭕|
+|2021.08.03|1주차 (2) OOP 이야기|객체지향에 대한 개념|[Link](https://healtheefart.notion.site/2021-08-03-TIL-OOP-Story-283a07cacaf142df89fbd561088cba3e)|⭕|
+|2021.08.04|1주차 (3) Interface 이야기|Interface의 개념과 사용|[Link](https://healtheefart.notion.site/2021-08-04-TIL-Interface-Story-48ddc9532dc24c60b0ba9482f7d8b946)|❌|
+|2021.08.05|1주차 (4) Collection 이야기|Collection, Iterator, Stream, Optional의 개념과 사용|[Link](https://healtheefart.notion.site/2021-08-05-TIL-Collection-Story-05b84a13919d48ed885da04125a0e1bf)|❌|
+|2021.08.06|1주차 (5) 실습프로젝트|숫자야구게임 만들기|[Link](https://healtheefart.notion.site/2021-08-06-TIL-8d16ccfc49554034984359d5a2f42bdf)|❌|
+|2021.08.09|2주차 (1) 실리콘밸리에서 날아온 데이터베이스|DB, SQL소개 등|[Link](https://www.notion.so/healtheefart/2021-08-09-TIL-1-f43a5ae742f149dd900bd052c561f7da)|❌|
+|2021.08.10|2주차 (2) 실리콘밸리에서 날아온 데이터베이스|MySQL, 클라우드 등|[Link](https://www.notion.so/healtheefart/2021-08-10-TIL-2-07b5391ac50c4d179d24f44c2cc87900)|❌|
