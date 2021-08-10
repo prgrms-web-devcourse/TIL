@@ -34,10 +34,10 @@
 | 2021-08-02 | Day1 | JS기초(1)                  | [링크](https://ghost4551.tistory.com/119) |
 | 2021-08-03 | Day2 | JS기초(2)                  | [링크](https://ghost4551.tistory.com/120) |
 | 2021-08-04 | Day3 | 자료구조&알고리즘(1)       | [링크](https://ghost4551.tistory.com/121) |
-| 2021-08-04 | Day4 | 자료구조&알고리즘(2)       | [링크](https://ghost4551.tistory.com/122) |
-| 2021-08-04 | Day5 | 자료구조&알고리즘 문제풀이 | [링크](https://ghost4551.tistory.com/123) |
-| 2021-08-04 | Day5 | 스터디는 왜 할까?          | [링크](https://ghost4551.tistory.com/124) |
-| 2021-08-04 | Day5 | 코드리뷰 방식 정하기       | [링크](https://ghost4551.tistory.com/125) |
+| 2021-08-05 | Day4 | 자료구조&알고리즘(2)       | [링크](https://ghost4551.tistory.com/122) |
+| 2021-08-06 | Day5 | 자료구조&알고리즘 문제풀이 | [링크](https://ghost4551.tistory.com/123) |
+| 2021-08-09 | Day6 | 스터디는 왜 할까?          | [링크](https://ghost4551.tistory.com/124) |
+| 2021-08-10 | Day7 | 코드리뷰 방식 정하기       | [링크](https://ghost4551.tistory.com/125) |
 
 ---
 
