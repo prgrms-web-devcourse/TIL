@@ -22,9 +22,8 @@
 <br>
 
 ## DB
-+ [Internet vs Web](./WEB/web.md)
-+ [Web Hosting vs Server Hosting vs Cloud](./WEB/cloud.md)
-+ [Private IP, NAT](./WEB/NAT.md)
++ [스키마](./2. DB/til1.md)
++ [프로비저닝, IaaS/PaaS/SaaS](./2. DB/til2.md)
 
 <br>
 
