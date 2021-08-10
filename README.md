@@ -29,10 +29,10 @@
 
 ### 💧Article
 
-| 날짜       | 제목              | 설명                                                         | 링크                                                     |
-| ---------- | ----------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
-| 2021.08.02 | Day1 Article      | 자바스크립트 스코프에 대해 알아보자.                         | [링크](https://velog.io/@younoah/js-scope)               |
-| 2021.08.03 | Day1 Article      | 실행컨텍스트와 호이스팅, 스코프체인, 클로저에 대해 알아보자. | [링크](https://velog.io/@younoah/execution-context)      |
-| 2021.08.03 | Day2 Article      | 다양한 프로그래밍 패러다임을 알아보자.                       | [링크](https://velog.io/@younoah/programming-paradigm)   |
-| 2021.08.04 | CS 스터디 Article | 브라우저 렌더링 과정을 알아보자.                             | [링크](https://velog.io/@younoah/browser-rendering-path) |
-| 2021.08.10 | CS 스터디 Article | 자바스크립트에서 동기와 비동기                               | [링크](https://velog.io/@younoah/js-sync-async)          |
+| 날짜       | 제목                    | 설명                                                         | 링크                                                     |
+| ---------- | ----------------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| 2021.08.02 | Day1 Article            | 자바스크립트 스코프에 대해 알아보자.                         | [링크](https://velog.io/@younoah/js-scope)               |
+| 2021.08.03 | Day1 Article            | 실행컨텍스트와 호이스팅, 스코프체인, 클로저에 대해 알아보자. | [링크](https://velog.io/@younoah/execution-context)      |
+| 2021.08.03 | Day2 Article            | 다양한 프로그래밍 패러다임을 알아보자.                       | [링크](https://velog.io/@younoah/programming-paradigm)   |
+| 2021.08.04 | CS 스터디 1주차 Article | 브라우저 렌더링 과정을 알아보자.                             | [링크](https://velog.io/@younoah/browser-rendering-path) |
+| 2021.08.10 | CS 스터디 2주차 Article | 자바스크립트에서 동기와 비동기                               | [링크](https://velog.io/@younoah/js-sync-async)          |
