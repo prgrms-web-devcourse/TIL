@@ -18,3 +18,4 @@
 |---|---|---|---|
 |08/03|StringBuffer/StringBuilder|String, StringBuffer, StringBuilder의 차이점|[#1 StringBuffer 왜 쓰는가!](https://velog.io/@eunseo2/JAVA-StringBuffer-%EC%99%9C-%EC%93%B0%EB%8A%94%EA%B0%80)|
 |08/04|Object 클래스|Object 클래스가 제공하는 주요 메서드 toString(), equals(), hashCode()|[#2 Object 탐구해보자!](https://velog.io/@eunseo2/Object%EA%B0%9D%EC%B2%B4%ED%83%90%EA%B5%AC%ED%95%98%EA%B8%B0)|
+|08/10|[web] session|관계형 데이터베이스 예제 - 웹서비스 사용자 / 세션 정보|[TIL #5 [web] session](https://velog.io/@eunseo2/TIL-5-web-session)|
