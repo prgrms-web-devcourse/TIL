@@ -1,1 +1,0 @@
-javatest_file
