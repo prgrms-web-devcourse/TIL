@@ -9,4 +9,8 @@ ___
   - SQL
   - DDL
   - DML
+- 20210810 TIL
+  - 클라우드 컴퓨팅
+  - AWS
+  - Docker
 ___
