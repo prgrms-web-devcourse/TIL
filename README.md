@@ -24,3 +24,4 @@ Velog 바로가기 : [Velog Link](https://velog.io/@apparatus1)
 
 - [21. 8. 9(월) TIL(DOM, 브라우저 Rendering 과정)](https://velog.io/@apparatus1/21.-8.-9%EC%9B%94-TILDOM)
 - [21. 8. 9(월) TIL(이터러블, 이터레이터, 제너레이터)](https://velog.io/@apparatus1/21.-8.-9%EC%9B%94-TIL%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0)
+- [21. 8. 10(화) TIL(go, pipe, curry)](https://velog.io/@apparatus1/21.-8.-10%ED%99%94-TILgo-pipe-curry)
