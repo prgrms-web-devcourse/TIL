@@ -37,4 +37,5 @@
 |21-08-08|DOM과 Virtual DOM|DOM 구조, DOM Tree rendering, Virtual DOM|[Week2 - Sun](https://velog.io/@jeongs/TIL-DOM과-Virtual-DOM)|
 |21-08-09|- 함수형 JS 기본 |일급함수, 고차함수, iterable, iterator, generator|[Week2 - Mon](https://velog.io/@jeongs/TIL-함수형-프로그래밍)|
 |21-08-10|- 함수형 JS - map, filter, reduce<br> - go, pipe, curry 함수로 코드 표현력 높이기|- map, filter, reduce 함수와 go, pipe, curry 함수 활용한 재사용성 높이기|[Week2 - Tue (1)](https://velog.io/@jeongs/TIL-함수형-JS-map-filter-reduce)<br>[Week2 - Tue (2)](https://velog.io/@jeongs/TIL-go-pipe-함수로-코드-표현력-높이기)|
+|21-08-11|함수형 JS와 지연성|range, take, L.range, L.filter, L.map, L.flatten...|[Week2 - Wed](https://velog.io/@jeongs/TIL-함수형-JS와-지연성)|
 
