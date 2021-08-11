@@ -13,4 +13,13 @@ ___
   - 클라우드 컴퓨팅
   - AWS
   - Docker
+- 20210811 TIL
+  - DML 기본 문법
+    - DISTINCT
+    - COUNT
+    - CASE WHEN
+    - NULL
+    - WHERE
+    - STRING Functions
+    - ORDER BY
 ___
