@@ -9,10 +9,6 @@
   <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
 </p>
 
-<p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
-</p>
-
 <br/>
 <br/>
 <br/>
@@ -69,3 +65,4 @@ TIL은 <b>Today I Learn</b> 의 약어이며, 오늘 공부 한 내용을 매일
 | ---------- | ----------- | ----------------------------------------------------- | ----------------------------------------------- |
 | 2021.08.09 | TIL - Day 6 | Programmers Web Devcourse FE 1th - Day 6의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-6) |
 | 2021.08.10 | TIL - Day 7 | Programmers Web Devcourse FE 1th - Day 7의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-7) |
+| 2021.08.11 | TIL - Day 8 | Programmers Web Devcourse FE 1th - Day 7의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-8) |
