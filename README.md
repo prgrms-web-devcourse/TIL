@@ -31,4 +31,7 @@
 |8월3일|2일차 TIL | 자바스크립트의 동작원리와 정규표현식 그리고 git&github특강 | [링크](https://velog.io/@alajillo/Day.2-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9522021.8.3)|
 |8월4일|3일차 TIL | 자료구조 | [링크](https://velog.io/@alajillo/Day.3-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9532021.8.4)|
 |8월5일|4일차 TIL | 자료구조와알고리즘 | [링크](https://velog.io/@alajillo/Day.4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9532021.8.5)|
+|8월9일|6일차 TIL |함수형프로그래밍 및 특강| [링크](https://velog.io/@alajillo/Day.6-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.09) |
+|8월10일|7일차 TIL |함수형프로그래밍| [링크] (https://velog.io/@alajillo/Day.7-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.10) |
+|8월11일|8일차 TIL |함수형프로그래밍 | [링크] (https://velog.io/@alajillo/Day.8-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.11) |
 ```
