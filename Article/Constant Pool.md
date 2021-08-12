@@ -1,6 +1,6 @@
 Constant pool은 리터럴 상수 값을 저장하는 곳이다.
 
-```
+``` java
   String a = "String Pool";
   String b = "String Pool";
   String c = new String("String Pool");
