@@ -6,6 +6,7 @@
 |2021-08-06|[TIL] 04|JS / DOM, 브라우저 렌더링 |[Day5](https://velog.io/@kimin3004/TIL-032021-08-07)|
 |2021-08-09|[TIL] 05|JS / Virtual DOM, Iterable |[Day6](https://velog.io/@kimin3004/TIL-042021-08-09-wmxy2k6q)|
 |2021-08-10|[TIL] 06|JS / Iterable, Generator |[Day7](https://velog.io/@kimin3004/TIL-042021-08-09)|
+|2021-08-12|[TIL] 07|JS / 프로미스(Promise) |[Day9](https://velog.io/@kimin3004/TIL-062021-08-12-m5tengn4)|
 
 
 
