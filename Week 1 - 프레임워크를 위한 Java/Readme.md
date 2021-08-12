@@ -17,10 +17,13 @@ ___
   - UML
   - 객체 지향 설계
 - 20210804 TIL (미완)
-  - 인터페이스 기능
-  - 디폴트 메소드
+  - Interface의 기능
+    - 의존성 역전
+  - Default Method
   - 함수형 인터페이스
+  - 익명 클래스
   - 람다 표현식
+  - Method Reference
 - 20210805 TIL (미완)
   - Collection
   - Iterator
