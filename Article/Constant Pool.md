@@ -15,7 +15,7 @@ Constant pool은 리터럴 상수 값을 저장하는 곳이다.
 
 String 변수를 생성하는 방법은 2가지가 있다.
 
-```
+``` java
   String a = "String Pool"; //literal
   String b = "String Pool"; //literal
   String c = new String("String Pool"); //new
@@ -42,7 +42,7 @@ JAVA의 경우 함수에 전달되는 인자의 데이터 타입에 따라서 (p
 primative type의 경우 Call by value,  
 reference type의 경우 Call by reference로 동작한다.
 
-```
+``` java
   static void swap(int a){
     int temp = x;
     x = y;
@@ -62,7 +62,7 @@ reference type의 경우 Call by reference로 동작한다.
 위 함수를 실행했을 때의 결과는 a = 10, b = 20이다. int형은 primitive이기 때문에 주소에 접근하지 않고 연산하게 되서 swap 연산을 하는 함수를 호출한 후 다시 main에서 출력해도 값이 바뀌지 않고 그대로 출력된다.  
 그렇다면 반대로 reference형 변수를 이용해서 연산할 경우는 어떻게될까?
 
-```
+``` java
 Class CallByReference{
   int value;
 
@@ -89,7 +89,7 @@ Class CallByReference{
 
 추가로 한가지 예시를 더 살펴보자.
 
-```
+``` java
   static void sumTen(int a){
     a *= 10;
   }
