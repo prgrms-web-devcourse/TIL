@@ -32,4 +32,5 @@
 |2021-08-02|자바스크립트의 싱글스레드 기반의 비동기 처리방식|1일차 TIL 중 비동기 처리방식을 정리 |[링크](https://velog.io/@te-ing/What-the-heck-is-the-event-loop-anyway)|
 |2021-08-03|데브코스 2일차 TIL: 자바스크립트|프로그래밍 패러다임, 모듈 등 2일차 학습내용 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-2%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)|
 |2021-08-04|데브코스 3일차 TIL: 자료구조 & 알고리즘|자료구조 & 알고리즘 소감 및 SinglyLinkedList과제|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-3%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
-```
+|2021-08-08|데브코스 1주차 스터디: 웹 스토리지|웹스토리지와 IndexedDB|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9B%B9-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80)|
+|2021-08-08|데브코스 WEEK1 마무리|멘토링, 스터디 소감 및 1주차 소감|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-WEEK1-%EB%A7%88%EB%AC%B4%EB%A6%AC)|
