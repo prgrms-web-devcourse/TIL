@@ -17,5 +17,5 @@
 |2021/08/09|[TIL] 데브코스 W2D1|관계형 데이터베이스|[링크](https://velog.io/@clapkong/%EA%B4%80%EA%B3%84%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)|
 |2021/08/10|[TIL] 데브코스 W2D2|클라우드와 AWS|[링크](https://velog.io/@clapkong/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%99%80-AWS)|
 |2021/08/11|[TIL] 데브코스 W2D3|[MySQL] SELECT, GROUP BY문|[링크](https://velog.io/@clapkong/MySQL-SELECT-GROUP-BY%EB%AC%B8)|
-|2021/08/12|[TIL] 데브코스 W2D4|[MySQL]|[링크]()|
+|2021/08/12|[TIL] 데브코스 W2D4|[MySQL] JOIN|[링크](https://velog.io/@clapkong/MySQL-JOIN)|
 |2021/08/13|[TIL] 데브코스 W2D5|[MySQL]|[링크]()|
