@@ -35,3 +35,4 @@
 |2021-08-06|[TIL] DAY 5|TIL 5일차|[링크](https://hidelookit.tistory.com/256?category=1039705)|
 |2021-08-07|[TIL] DAY 6|TIL 6일차|[링크](https://hidelookit.tistory.com/259?category=1039705)|
 |2021-08-08|[TIL] DAY 7|TIL 7일차|[링크](https://hidelookit.tistory.com/260?category=1039705)|
+|2021-08-09|[TIL] DAY 8|TIL 8일차|[링크](https://hidelookit.tistory.com/261?category=1039705)|
