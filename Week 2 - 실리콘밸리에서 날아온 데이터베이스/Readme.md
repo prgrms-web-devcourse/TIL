@@ -22,4 +22,7 @@ ___
     - WHERE
     - STRING Functions
     - ORDER BY
+- 20210812 TIL
+  - Column Type
+  - JOIN
 ___
