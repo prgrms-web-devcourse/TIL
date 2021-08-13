@@ -17,5 +17,5 @@
 
 |2021-08-12|TIL-day9|es6의 지연성|[https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-TIL-day8-es6%EC%9D%98-%EC%A7%80%EC%97%B0%EC%84%B1]|
 
-|2021-08-12|TIL-day9-1|ES6-비동기적 동시성 함수
+|2021-08-12|TIL-day9-1|ES6-비동기 동시성 함수
 |[https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-TIL-DAY9-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%A0%81-%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%95%A8%EC%88%98]|
