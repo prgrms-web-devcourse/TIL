@@ -25,4 +25,11 @@ ___
 - 20210812 TIL
   - Column Type
   - JOIN
+- 20210813 TIL
+  - Transaction
+  - View
+  - Stored Procedure
+  - Stored Function
+  - Trigger
+  - Index
 ___
