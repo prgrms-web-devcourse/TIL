@@ -16,7 +16,6 @@ Velog 바로가기 : [Velog Link](https://velog.io/@apparatus1)
  - [21. 8. 5(목) TIL(트리, 트라이, 힙)](https://velog.io/@apparatus1/21.-8.-5%EB%AA%A9-TIL%ED%8A%B8%EB%A6%AC-%ED%8A%B8%EB%9D%BC%EC%9D%B4-%ED%9E%99)
  - [21. 8. 6(금) TIL(이진탐색, DFS, BFS, 그리디)](https://velog.io/@apparatus1/21.-8.-6%EA%B8%88-TIL%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-DFS-BFS-%EA%B7%B8%EB%A6%AC%EB%94%94)
 
-
 <hr>
 
 #### 2주차(21-08-09 ~ 21-08-15)
@@ -26,3 +25,4 @@ Velog 바로가기 : [Velog Link](https://velog.io/@apparatus1)
 - [21. 8. 9(월) TIL(이터러블, 이터레이터, 제너레이터)](https://velog.io/@apparatus1/21.-8.-9%EC%9B%94-TIL%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0)
 - [21. 8. 10(화) TIL(go, pipe, curry)](https://velog.io/@apparatus1/21.-8.-10%ED%99%94-TILgo-pipe-curry)
 - [21. 8. 11(수) TIL(지연성 함수))](https://velog.io/@apparatus1/21.-8.-11%EC%88%98-TIL%EC%A7%80%EC%97%B0%EC%84%B1-%ED%95%A8%EC%88%98)
+- [21. 8. 13(금) TIL(Promise 지연 평가, 지연성 함수의 병렬 실행))](https://velog.io/@apparatus1/21.-8.-13%EA%B8%88-TILPromise-%EC%A7%80%EC%97%B0-%ED%8F%89%EA%B0%80-%EC%A7%80%EC%97%B0%EC%84%B1-%ED%95%A8%EC%88%98%EC%9D%98-%EB%B3%91%EB%A0%AC-%EC%8B%A4%ED%96%89)
