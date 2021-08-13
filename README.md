@@ -4,4 +4,4 @@
 | 2021-08-07 | [TIL] 8월 7일      | generator에 대해 알아보자!           | [링크](https://velog.io/@jinn2u/제너레이터란)                        |
 | 2021-08-08 | [TIL] 8월 7일      | 자동완성의 내부로직!                 | [링크](https://velog.io/@jinn2u/8월-8일-TIL)                         |
 | 2021-08-10 | [TIL] 8월 10일     | 3-way handshake를 생각하며 느낀점    | [링크](https://velog.io/@jinn2u/8월-10일-TIL)                        |
-| 2021-08-10 | [ARTICLE] 8월 12일 | iterator와 iterable에 대해 알아보자! | [링크](https://velog.io/@jinn2u/iterator와-iterable에-대해-알아보자) |
+| 2021-08-12 | [ARTICLE] 8월 12일 | iterator와 iterable에 대해 알아보자! | [링크](https://velog.io/@jinn2u/iterator와-iterable에-대해-알아보자) |
