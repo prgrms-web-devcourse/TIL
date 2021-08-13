@@ -1,8 +1,4 @@
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 691e4ba6bbfe9a229279798d89d39a37cf677c9b
 |2021-08-02|TIL-day1|js&네트워크 기초|[https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-1day-TIL]|
 
 |2021-08-03|TIL-day2|js특징&쿠키-세션,웹스토리지|[https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-2DAYs-TIL]|
