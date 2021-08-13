@@ -8,4 +8,4 @@
 |2021-08-09|TIL-day6|DOM,이너레이터,제너레이터|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-TIL-day6-DOM%EC%9D%B4%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0)|
 |2021-08-10|TIL-day7|map,filter,reduce,pipe,go,|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-TIL-DAY7-mapfilterreducepipegocury)|
 |2021-08-11|TIL-day8|es6의 지연성|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-TIL-day8-es6%EC%9D%98-%EC%A7%80%EC%97%B0%EC%84%B1)|
-|2021-08-12|TIL-day9-1|ES6-비동기 동시성 함수|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-TIL-DAY9-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%A0%81-%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%95%A8%EC%88%98)|
+|2021-08-12|TIL-day9|ES6-비동기 동시성 함수|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-TIL-DAY9-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%A0%81-%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%95%A8%EC%88%98)|
