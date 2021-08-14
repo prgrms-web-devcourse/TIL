@@ -9,21 +9,23 @@
 
 > 백엔드 - 1기 - C - 한재원
 
-## TIL
+## 1주차 TIL
 
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|`08-02`|Java 기초 및 개발환경 세팅|이제부터 TIL 시작!!|[블로그](https://hanjo8813.github.io/til/1/)|
-|`08-03`|객체지향 프로그래밍(OOP)|객체지향 이론|[블로그](https://hanjo8813.github.io/til/2/)|
-|`08-03`|Git 야무지게 사용하기|진유림님 Git 특강|[블로그](https://hanjo8813.github.io/til/3/)|
-|`08-04`|Interface 이야기|Interface, Lambda|[블로그](https://hanjo8813.github.io/til/4/)|
-|`08-05`|Collection 이야기|Collection, Stream, Optional|[블로그](https://hanjo8813.github.io/til/5/)|
-|`08-06`|Gradle로 프로젝트 만들기|Gradle, Lombok, 숫자야구|[블로그](https://hanjo8813.github.io/til/6/)|
+|날짜|제목|링크|
+|---|---|---|
+|`W1D1`|Java 기초 및 개발환경 세팅|[블로그](https://hanjo8813.github.io/til/1/)|
+|`W1D2`|객체지향 프로그래밍(OOP)|[블로그](https://hanjo8813.github.io/til/2/)|
+|`W1D2`|Git 야무지게 사용하기|[블로그](https://hanjo8813.github.io/til/3/)|
+|`W1D3`|Interface 이야기|[블로그](https://hanjo8813.github.io/til/4/)|
+|`W1D4`|Collection 이야기|[블로그](https://hanjo8813.github.io/til/5/)|
+|`W1D5`|Gradle로 프로젝트 만들기|[블로그](https://hanjo8813.github.io/til/6/)|
 
+## 2주차 TIL
 
-## Article
-
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|`08-05`|Functional Interface의 종류|Runnable, Consumer 등등...|[블로그](https://hanjo8813.github.io/java/4/)|
-|`08-06`|Final이 궁금하다 (feat. Lambda)|Fianl, Lambda|[블로그](https://hanjo8813.github.io/java/5/)|
+|날짜|제목|링크|
+|---|---|---|
+|`W2D1`|데이터베이스 기초|[블로그](https://hanjo8813.github.io/til/7/)|
+|`W2D2`|MySQL, Docekr 사용법|[블로그](https://hanjo8813.github.io/til/8/)|
+|`W2D3`|SELECT, GROUP BY|[블로그](https://hanjo8813.github.io/til/9/)|
+|`W2D4`|Insert, Update, Join|[블로그](https://hanjo8813.github.io/til/10/)|
+|`W2D5`|MySQL 고급기능 사용하기|[블로그](https://hanjo8813.github.io/til/11/)|
