@@ -16,6 +16,9 @@
 | 210802 | day01. 프로그래머스 데브코스 첫 날 | 첫 수업 소감 & 프론트엔드의 뼈대 기초개념학습(브라우저, js의 메모리와 구조, 네트워크, 암호화) | [링크](https://velog.io/@rlacksals96/TIL-01.-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EC%B2%AB-%EB%82%A0) |
 | 210803 | day02-1. JS 프로토타입             | 객체지향과 JS 프로토타입                                                                      | [링크](https://velog.io/@rlacksals96/TIL-day02-1.-JS-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85)                                                           |
 | 210804 | day03. 자료구조&알고리즘           | 학습한 자료구조와 알고리즘 + 추가학습 예정 주제                                               | [링크](https://velog.io/@rlacksals96/TIL-day03.-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)                                     |
+| 210809 | day06. DOM / Iterator           | DOM의 개념과 브라우저의 랜더링 과정 + iterator의 구조                 | [링크](https://velog.io/@rlacksals96/TIL-day06.-DOM-Iterator)                                     |
+| 210810 | day07. 고차함수와 go,pipe, curry            | 고차함수에 대한 이해, 함수형 프로그래밍 방식으로 iterator 다루기    | [링크](https://velog.io/@rlacksals96/TIL-07.-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98%EC%99%80-gopipecurry)                                     |
+| 210811 | day08. 지연함수            |   함수형 프로그래밍의 특징을 사용하여 지연함수 구현          | [링크](https://velog.io/@rlacksals96/TIL-day08-10)                                     |
 
 ## ✍Article✍
 
