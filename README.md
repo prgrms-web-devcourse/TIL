@@ -1,20 +1,3 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./src/images/prgms-logo.png"/>
-</p>
-<h2 align="middle">프로그래머스 웹 데브코스 TIL</h2>
-<p align="middle">Today I Leared</p>
-<p align="middle">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
-  <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
-</p>
-
-<p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
-</p>
-
-<br/>
-
 # 💻 프로그래머스 웹 데브코스 TIL
 
 > "Talk is cheap. Show me the code."
@@ -24,30 +7,19 @@
 
 <br/>
 
-## 📌 배움 기록은 어떻게 하나요?
+## 📝TIL📝
 
-**TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
+### 오늘 배운건 오늘 소화하자는 목표 아래 학습한 내용들을 되돌아 보고, 추가로 학습할 주제들을 정리하고자 단순한 일기 형식으로 작성하고자 합니다. 자세히 알고 싶은 개념들은 Article로 분류하여 별도의 시리즈로 포스팅할 예정입니다!
 
-## 🚀 진행방법
+| 날짜   | 제목                               | 설명                                                                                          | 링크                                                                                                                                                          |
+| ------ | ---------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 210802 | day01. 프로그래머스 데브코스 첫 날 | 첫 수업 소감 & 프론트엔드의 뼈대 기초개념학습(브라우저, js의 메모리와 구조, 네트워크, 암호화) | [링크](https://velog.io/@rlacksals96/TIL-01.-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EC%B2%AB-%EB%82%A0) |
+| 210803 | day02-1. JS 프로토타입             | 객체지향과 JS 프로토타입                                                                      | [링크](https://velog.io/@rlacksals96/TIL-day02-1.-JS-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85)                                                           |
+| 210804 | day03. 자료구조&알고리즘           | 학습한 자료구조와 알고리즘 + 추가학습 예정 주제                                               | [링크](https://velog.io/@rlacksals96/TIL-day03.-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)                                     |
+| 210809 | day06. DOM / Iterator           | DOM의 개념과 브라우저의 랜더링 과정 + iterator의 구조                 | [링크](https://velog.io/@rlacksals96/TIL-day06.-DOM-Iterator)                                     |
+| 210810 | day07. 고차함수와 go,pipe, curry            | 고차함수에 대한 이해, 함수형 프로그래밍 방식으로 iterator 다루기    | [링크](https://velog.io/@rlacksals96/TIL-07.-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98%EC%99%80-gopipecurry)                                     |
+| 210811 | day08. 지연함수            |   함수형 프로그래밍의 특징을 사용하여 지연함수 구현          | [링크](https://velog.io/@rlacksals96/TIL-day08-10)                                     |
 
-1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
-   - 백엔드 P반은 be/1/P-gitusername
-   - 프론트 A반은 fe/1/A-gitusername
-   - 프론트 B반은 fe/1/B-gitusername
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository를 `clone` 받습니다.
-4. **README.md를 작성하여 꾸밉시다.**
-5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push` 합니다.
-6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
-7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
-8. PR을 아래 양식에 맞춰 내용을 작성합니다.
-   여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
+## ✍Article✍
 
-```
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+## | 날짜 | 제목 | 설명 | 링크
