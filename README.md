@@ -18,4 +18,19 @@
 |2021/08/10|[TIL] 데브코스 W2D2|클라우드와 AWS|[링크](https://velog.io/@clapkong/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%99%80-AWS)|
 |2021/08/11|[TIL] 데브코스 W2D3|[MySQL] SELECT, GROUP BY문|[링크](https://velog.io/@clapkong/MySQL-SELECT-GROUP-BY%EB%AC%B8)|
 |2021/08/12|[TIL] 데브코스 W2D4|[MySQL] JOIN|[링크](https://velog.io/@clapkong/MySQL-JOIN)|
-|2021/08/13|[TIL] 데브코스 W2D5|[MySQL]|[링크]()|
+|2021/08/13|[TIL] 데브코스 W2D5|[MySQL] 고급기능 살펴보기|[링크](https://velog.io/@clapkong/MySQL-%EA%B3%A0%EA%B8%89%EA%B8%B0%EB%8A%A5-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)|
+||||
+|2021/08/16|[TIL] 데브코스 W3D1||[링크]()|
+|2021/08/17|[TIL] 데브코스 W3D1||[링크]()|
+|2021/08/18|[TIL] 데브코스 W3D1||[링크]()|
+|2021/08/19|[TIL] 데브코스 W3D1||[링크]()|
+|2021/08/20|[TIL] 데브코스 W3D1||[링크]()|
+
+<!--
+||||
+|2021/08/|[TIL] 데브코스 W3D1||[링크]()|
+|2021/08/|[TIL] 데브코스 W3D1||[링크]()|
+|2021/08/|[TIL] 데브코스 W3D1||[링크]()|
+|2021/08/|[TIL] 데브코스 W3D1||[링크]()|
+|2021/08/|[TIL] 데브코스 W3D1||[링크]()|
+-->
