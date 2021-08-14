@@ -20,6 +20,8 @@
 |`W1D4`|Collection 이야기|[블로그](https://hanjo8813.github.io/til/5/)|
 |`W1D5`|Gradle로 프로젝트 만들기|[블로그](https://hanjo8813.github.io/til/6/)|
 
+<br>
+
 ## 2주차 TIL
 
 |날짜|제목|링크|
