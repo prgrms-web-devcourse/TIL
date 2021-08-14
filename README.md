@@ -9,7 +9,7 @@
 </p>
 
 <p align="middle">
-  <a href="https://sanoopark.github.io/">어제보다 더 나은 오늘 🌅</a>
+  <a href="https://velog.io/@sanoopark">더 나은 오늘 🌅</a>
 </p>
 
 <br/>
@@ -26,11 +26,11 @@
 
 ### 📚 TIL 목록
 
-- [21-08-02](https://sanoopark.github.io/21-08-02-TIL/)
-- [21-08-03](https://sanoopark.github.io/21-08-03-TIL/)
-- [21-08-04](https://sanoopark.github.io/21-08-04-TIL/)
-- [21-08-05](https://sanoopark.github.io/21-08-05-TIL/)
+- [21-08-02](https://velog.io/@sanoopark/TIL-21-08-02)
+- [21-08-03](https://velog.io/@sanoopark/TIL-21-08-03)
+- [21-08-04](https://velog.io/@sanoopark/TIL-21-08-04)
+- [21-08-05](https://velog.io/@sanoopark/TIL-21-08-05)
 
 ### ✏️ Article 목록
 
-- [21-08-06 : 실행 컨텍스트는 어떻게 코드를 관리할까?](https://sanoopark.github.io/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EA%B4%80%EB%A6%AC%ED%95%A0%EA%B9%8C/)
+- [21-08-06 : 실행 컨텍스트, 어떻게 코드를 관리할까?](https://velog.io/@sanoopark/JS-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
