@@ -36,4 +36,5 @@
 | 2021.08.03 | Day2 Article            | 다양한 프로그래밍 패러다임을 알아보자.                       | [링크](https://velog.io/@younoah/programming-paradigm)   |
 | 2021.08.04 | CS 스터디 1주차 Article | 브라우저 렌더링 과정을 알아보자.                             | [링크](https://velog.io/@younoah/browser-rendering-path) |
 | 2021.08.10 | CS 스터디 2주차 Article | 자바스크립트의 비동기 동시성 프로그래밍                      | [링크](https://velog.io/@younoah/js-sync-async)          |
-| 2021.08.14 | CS 스터디 2주차 Article | 자바스크립트의 비동기 프로그래밍 방법                        | [링크](https://velog.io/@younoah/js-async-programming)   |
+| 2021.08.14 | JS Article              | 자바스크립트의 비동기 프로그래밍 방법                        | [링크](https://velog.io/@younoah/js-async-programming)   |
+
