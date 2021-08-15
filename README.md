@@ -1,53 +1,19 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./src/images/prgms-logo.png"/>
-</p>
-<h2 align="middle">프로그래머스 웹 데브코스 TIL</h2>
-<p align="middle">Today I Leared</p>
-<p align="middle">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
-  <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
-</p>
+✨1주차 TIL✨
+----------
+| 날짜 | 제목  | 설명              | 링크     |
+| ---- | ----- | ----------------- | -------- |
+| 08월 02일 | 1일차 TIL | JS의 기초 시작 | [링크](https://velog.io/@gyulhana/TIL-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-01-%EB%87%8C%EA%B0%80-%ED%84%B0%EC%A7%80%EA%B3%A0-%EC%9E%88%EC%96%B4%EC%9A%94) |
+| 08월 05일 | 4일차 TIL | JS의 객체 생성 | [링크](https://velog.io/@gyulhana/TIL-JS-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95) |
+| 08월 08일 | 7일차 TIL | 트리, 트라이 활용 과제 | [링크](https://velog.io/@gyulhana/TIL-JS-트리-트라이-과제하기) |
 
-<p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
-</p>
+📝1주차 아티클
+----------
+| 1ST WEEK | 1주차 스터디 | \[JS\] 정규 표현식 | [링크](https://velog.io/@gyulhana/JS-%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D) |
 
-<br/>
-
-# 💻 프로그래머스 웹 데브코스 TIL
-
-> "Talk is cheap. Show me the code."
-> ("말은 쉽지, 코드를 보여줘.")
->
-> 리누스 토르발스(Linus Torvalds)
-
-<br/>
-
-## 📌 배움 기록은 어떻게 하나요?
-
-**TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
-
-## 🚀 진행방법
-
-1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
-   - 백엔드 P반은 be/1/P-gitusername
-   - 프론트 A반은 fe/1/A-gitusername
-   - 프론트 B반은 fe/1/B-gitusername
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository를 `clone` 받습니다.
-4. **README.md를 작성하여 꾸밉시다.**
-5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push` 합니다.
-6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
-7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
-8. PR을 아래 양식에 맞춰 내용을 작성합니다.
-   여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
-
-```
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+✨2주차 TIL✨
+----------
+| 날짜 | 제목  | 설명              | 링크     |
+| 08월 09일 | 8일차 TIL | 이터러블/이터레이터 프로토콜 | [링크](https://velog.io/@gyulhana/TIL-데브코스-6일차) |
+| 08월 10일 | 9일차 TIL | 함수를 사용하는 여러가지 방법 | [링크](https://velog.io/@gyulhana/TIL-JS-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%EB%B2%95) |
+| 08월 12일 | 11일차 TIL | JS의 여러가지 메소드 하루만에 머리에 집어넣기 | [링크](https://velog.io/@gyulhana/TIL-JS-%EA%B5%AC%EC%A1%B0-%EB%B6%84%ED%95%B4-%EC%98%B5%EC%85%94%EB%84%90-%EC%B2%B4%EC%9D%B4%EB%8B%9D-%EA%B7%B8-%EC%99%B8-%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80-%EB%A9%94%EC%86%8C%EB%93%9CforEach-map-find-filter-some-every) |
+| 08월 13일 | 12일차 TIL | ES6+ 함수형 프로그래밍 | [링크](https://velog.io/@gyulhana/TIL-ES6-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) |
