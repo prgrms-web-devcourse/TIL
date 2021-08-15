@@ -24,9 +24,16 @@
 
 <br/>
 
-| 날짜       | 제목          | 설명                                                  | 링크                                                        |
-| ---------- | ------------- | ----------------------------------------------------- | ----------------------------------------------------------- |
-| 2021.08.03 | TIL Day1      | JavaScript의 변수 선언과 HTTPS                        | [링크](https://velog.io/@yes3427/binary-tree-and-traversal) |
-| 2021.08.04 | RESTful API란 | RESTful API                                           | [링크](https://velog.io/@yes3427/network-about-RESTfulAPI)  |
-| 2021.08.05 | 문제풀이      | [프로그래머스] 베스트앨범 문제풀이                    | [링크](https://velog.io/@yes3427/programmers-bestAlbum)     |
-| 2021.08.06 | 이진트리      | 이진 트리 (binary tree) 와 이진트리의 순회(traversal) | [링크](https://velog.io/@yes3427/binary-tree-and-traversal) |
+| 날짜       | 제목          | 설명                                                  | 링크                                                                   |
+| ---------- | ------------- | ----------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2021.08.03 | TIL Day1      | JavaScript의 변수 선언과 HTTPS                        | [링크](https://velog.io/@yes3427/binary-tree-and-traversal)            |
+| 2021.08.04 | RESTful API란 | RESTful API                                           | [링크](https://velog.io/@yes3427/network-about-RESTfulAPI)             |
+| 2021.08.05 | 문제풀이      | [프로그래머스] 베스트앨범 문제풀이                    | [링크](https://velog.io/@yes3427/programmers-bestAlbum)                |
+| 2021.08.06 | 이진트리      | 이진 트리 (binary tree) 와 이진트리의 순회(traversal) | [링크](https://velog.io/@yes3427/binary-tree-and-traversal)            |
+| 2021.08.09 | TIL Day2      | css에서 id와 class의 차이점                           | [링크](https://velog.io/@yes3427/TIL-Day2)                             |
+| 2021.08.10 | javascript    | 두 배열을 합치는 방법 3가지                           | [링크](https://velog.io/@yes3427/JavaScript-array-join)                |
+| 2021.08.10 | javascript    | 평가와 일급                                           | [링크](https://velog.io/@yes3427/JavaScript-evaluation-and-firstClass) |
+| 2021.08.11 | javascript    | 이터러블과 제너레이터                                 | [링크](https://velog.io/@yes3427/JavaScript-iterable-generator)        |
+| 2021.08.11 | javascript    | map, filter, reduce 정리                              | [링크](https://velog.io/@yes3427/JavaScript-map-filter-reduce)         |
+| 2021.08.15 | 문제풀이      | [프로그래머스] 모의고사 문제풀이                      | [링크](https://velog.io/@yes3427/programmers-exam)                     |
+| 2021.08.15 | 문제풀이      | [프로그래머스] 기능개발 문제풀이                      | [링크](https://velog.io/@yes3427/programmers-function)                 |
