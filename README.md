@@ -50,5 +50,6 @@
 |---|---|---|---|
 |8월 9일|TIL Day 6|HTML, CSS, DOM, 함수형 프로그래밍 기초|[링크](https://velog.io/@dorrdorr9311/TIL-Day-6)|
 |8월 10일|TIL Day 7|iterable, iterator, generator|[링크](https://velog.io/@dorrdorr9311/TIL-Day-7)|
+|8월 13일|TIL Day 10|함수형 프로그래밍 지연성|[링크](https://velog.io/@dorrdorr9311/TIL-Day-10)|
 
 ```
