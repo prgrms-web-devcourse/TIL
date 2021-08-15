@@ -55,6 +55,11 @@
 |21.08.02|[TIL] 0802 Java command line 에서 컴파일 및 실행하기|command line 에서 컴파일 및 실행하기|[링크](https://daisy-day.tistory.com/191)|
 |21.08.05|[TIL] 0805 Java Collection|Java Collection|[링크](https://daisy-day.tistory.com/197)|
 |21.08.06|[TIL] 0806 Java 이것저것|Java 이것저것|[링크](https://daisy-day.tistory.com/198)|
+|21.08.09|[TIL] 0809 Database 이것저것1|Database 배운 내용|[링크](https://daisy-day.tistory.com/201)|
+|21.08.10|[TIL] 0810 Database 이것저것2|Database 배운 내용|[링크](https://daisy-day.tistory.com/202)|
+|21.08.11|[TIL] 0811 Database 이것저것3|Database 배운 내용|[링크](https://daisy-day.tistory.com/205)|
+|21.08.12|[TIL] 0812 Database 이것저것4|Database 배운 내용|[링크](https://daisy-day.tistory.com/206)|
+|21.08.13|[TIL] 0813 Database 이것저것5|Database 배운 내용|[링크](https://daisy-day.tistory.com/207)|
 
 ## 📕 아티클
 |이름|날짜 - 아티클제목|링크|
