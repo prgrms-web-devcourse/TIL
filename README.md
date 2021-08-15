@@ -35,4 +35,4 @@
 
 - 말보단 행동을!!
 
-![노션 링크](https://www.notion.so/a237e24098764d808649b3bebb78f9c3?v=0c03da092390485dad62aa502a0e2012)
+![2주차 TIL](https://www.notion.so/2-TIL-0802976369f44f09a0830de6ebaa5ca9)
