@@ -32,6 +32,12 @@
 |2021-08-04|[TIL] KDT Back-end W1D3|interface, FunctionalInterface, Anonymous class/method, method reference|[Link](http://www.dskim.blog/post/f83a9892-52b6-4284-7797-8d70f0218de1)|
 |2021-08-05|[TIL] KDT Back-end W1D4|Collection, Iterator, Stream, Optional|[Link](http://www.dskim.blog/post/1ff17859-92ed-4a42-4e88-facbb7985ae8)|
 |2021-08-06|[TIL] KDT Back-end W1D5|Collection, Iterator, Stream, Optional|[Link](http://www.dskim.blog/post/ce56af36-270b-4620-6461-fa247c077093)|
+|2021-08-10|[TIL] 2021-08-10|배움의 태도, 시스템 구성, SQL 타입|[Link](http://www.dskim.blog/post/d76568bf-ca51-4515-753b-7df19a948746)|
+|2021-08-10|[TIL] 2021-08-11|SQL|[Link](http://www.dskim.blog/post/af7d0e9c-f5e7-482b-4ebf-1089f3e9dcf2)|
+|2021-08-10|[TIL] 2021-08-12|MySQL Safe Update Mode, MySQL Full Join, ENUM type|[Link](http://www.dskim.blog/post/00e081e5-cb48-4d73-541d-0b4cdecdb3bf)|
+|2021-08-10|[TIL] 2021-08-13|MySQL advanced features|[Link](http://www.dskim.blog/post/9a260870-2cf2-4739-4d38-7e3ed00708f9)|
+
+
 
 # 아티클
 |이름|날짜 - 제목|링크|
@@ -41,6 +47,9 @@
 | [1기 김동섭]| 08월 06일 - [Gradle] Dependency 추가|[Link](http://www.dskim.blog/post/18e5d9a6-49e3-4d1c-5c7b-3798d879ad75) |
 | [1기 김동섭]| 08월 06일 - [Lombok] Lombok 단축키|[Link](http://www.dskim.blog/post/de5848d5-9b98-4460-5039-bd91724f85b0) |
 | [1기 김동섭]| 08월 06일 - [Java] Race Condition 방지|[Link](http://www.dskim.blog/post/409d3102-01c9-4f66-6fc7-00a006d70217) |
+| [1기 김동섭]| 08월 10일 - [DB] SQL Intro & MySQL |[Link](http://www.dskim.blog/post/024f54b3-d3d7-4aae-78d7-d34ae1865220) |
+| [1기 김동섭]| 08월 10일 - [DB] sql vs nosql |[Link](http://www.dskim.blog/post/b44fe863-9a05-414d-442c-e1488a5d719d) |
+
 
 
 <br>
