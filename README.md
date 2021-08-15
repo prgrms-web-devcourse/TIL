@@ -32,6 +32,9 @@
 |210804|Interface & Lambda Expression|1. Interface 2. default method 3. functional Interface 4. Lambda Expression|[TIL003](https://velog.io/@pro-park-gation/TIL-210803)|
 |210805|다양한 데이터 소스 다루기|1. Collection, 2. Iterator, 3. Stream, 4. Optional|[TIL004](https://velog.io/@pro-park-gation/TIL-210805)|
 |210806|외부 lib 활용하여 객체지향적으로 프로젝트 설계 및 구현|1. Gradle 활용(외부 lib 설치), 2. 숫자야구 project 설계/구현-Engine, App Layer|[TIL005](https://velog.io/@pro-park-gation/TIL-210806)|
-|210810|배움의 자세와 데이터베이스 소개|1. 배움의 자세, 2. 데이터베이스란 3. Backend(2/3 Tier) 4. RDB와 SQL|[TIL006](https://velog.io/@pro-park-gation/TIL-210809)|
-|210811|MySql과 Cloud(AWS)|1.MySQL의 Scaling 2. Cloud&AWS 3. MySQL on Docker 4. AWS RDS 5. DDL 예제|[TIL007](https://velog.io/@pro-park-gation/TIL-210810)|
+|210809|배움의 자세와 데이터베이스 소개|1. 배움의 자세, 2. 데이터베이스란 3. Backend(2/3 Tier) 4. RDB와 SQL|[TIL006](https://velog.io/@pro-park-gation/TIL-210809)|
+|210810|MySql과 Cloud(AWS)|1. MySQL의 Scaling 2. Cloud&AWS 3. MySQL on Docker 4. AWS RDS 5. DDL 예제|[TIL007](https://velog.io/@pro-park-gation/TIL-210810)|
+|210811|MySql과 Cloud(AWS)|1. SELECT 2. GROUPBY|[TIL008](https://velog.io/@pro-park-gation/TIL-210811)|
+|210812|MySql과 Cloud(AWS)|1. Data Type 2. DML 3. JOIN|[TIL009](https://velog.io/@pro-park-gation/TIL-210812)|
+|210813|MySql과 Cloud(AWS)|1.Transaction,Auto Commit 2. View 3. Stored Procedure,Function 4. Trigger 5. 성능 튜닝 - Explain, Index|[TIL010](https://velog.io/@pro-park-gation/TIL-210813-31kmo9xr)|
  
