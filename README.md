@@ -39,6 +39,7 @@
 |0803|Day2|프레임워크를 위한 JAVA 2|[링크](https://github.com/16min99/TIL/blob/main/0803dev.md)|
 |0804|Day3|프레임워크를 위한 JAVA 3|[링크](https://github.com/16min99/TIL/blob/main/0804dev.md)|
 |0806|Day4|프레임워크를 위한 JAVA 4|[링크](https://github.com/16min99/TIL/blob/main/0806.md)|
+|0813|W2|실리콘밸리에서 날아온 DB|[링크](https://github.com/16min99/TIL/blob/main/2주차DB.md)|
 
 
 <br/>
