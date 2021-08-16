@@ -27,7 +27,10 @@
 
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|2021-08-06|TIL 1|Thread-safe|[링크](https://barbera.tistory.com/43)|
-|2021-08-08|TIL 2|String 클래스|[링크](https://barbera.tistory.com/44)|
-|2021-08-09|TIL 3|String, StringBuffer, StringBuilder|[링크](https://barbera.tistory.com/45)|
-|2021-08-10|TIL 4|Object클래스|[링크](https://barbera.tistory.com/46)|
+|210806|과제1 포스팅|Thread-safe|[링크](https://barbera.tistory.com/43)|
+|210808|과제1 포스팅|String 클래스|[링크](https://barbera.tistory.com/44)|
+|210809|과제1 포스팅|String, StringBuffer, StringBuilder|[링크](https://barbera.tistory.com/45)|
+|210810|과제1 포스팅|Object클래스|[링크](https://barbera.tistory.com/46)|
+|210813|SQL 문법공부|Join 전까지 기본문법 공부|[링크](https://meadow-click-c8b.notion.site/Today-I-Learn-d56b2111dc39444bb0823519909a2506)|
+|210814|알고리즘|토스코테응시, 알고리즘공부|[링크](https://meadow-click-c8b.notion.site/Today-I-Learn-d56b2111dc39444bb0823519909a2506)|
+|210815|SQL 고득점 kit|IS NULL까지 풀이, 강의복습|[링크](https://meadow-click-c8b.notion.site/Today-I-Learn-d56b2111dc39444bb0823519909a2506)|
