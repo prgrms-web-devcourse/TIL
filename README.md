@@ -29,6 +29,6 @@ Velog 바로가기 : [Velog Link](https://velog.io/@apparatus1)
 
 <hr>
 
-#### 3주차(21-08-09 ~ 21-08-15)
+#### 3주차(21-08-16 ~ 21-08-22)
 
 - [21. 8. 17(화) TIL(Javascript Object에서 함수 사용법)](https://velog.io/@apparatus1/21.-8.-17%ED%99%94-TILJavascript-Object%EC%97%90%EC%84%9C-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%EB%B2%95)
