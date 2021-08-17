@@ -27,6 +27,14 @@
 |2021.08.04|[TIL] 데브코스 3일차|[링크](https://www.notion.so/aeno/3-8deeb8d4a5664076a5aec0ec875c1f31)|
 |2021.08.05|[TIL] 데브코스 4일차|[링크](https://www.notion.so/aeno/4-3cf647b507174442b5791a9fdc2eb7ca)|
 |2021.08.06|[TIL] 데브코스 5일차|[링크](https://www.notion.so/aeno/5-bef7f03096324e7da2669e34cd6fea5d)|
+|2021.08.07 ~ 08|[TIL] 데브코스 주말|[링크](https://www.notion.so/aeno/6-7-08b237955ef8488d97baf35f942022a0)|
+|2주차|||
+|2021.08.09|[TIL] 데브코스 8일차|[링크](https://www.notion.so/aeno/8-a331bd4273434be5bd77e8f9caf42ef8)|
+|2021.08.10|[TIL] 데브코스 9일차|[링크](https://www.notion.so/aeno/9-b981e7bfbc914e6880829ae6d23786f2)|
+|2021.08.11|[TIL] 데브코스 10일차|[링크](https://www.notion.so/aeno/10-8baa81d930e940c1a3402f14db1551f8)|
+|2021.08.12|[TIL] 데브코스 11일차|[링크](https://www.notion.so/aeno/11-309cb489514a452fb6d81098f13953d0)|
+|2021.08.13|[TIL] 데브코스 12일차|[링크](https://www.notion.so/aeno/12-d703e86260034a88aa211490ce4df65b)|
+|2021.08.14 ~ 15|[TIL] 데브코스 주말|[링크](https://www.notion.so/aeno/13-14-35e1fb45e21b4b609bc4f54f32505853)|
 <br>
 
 # 💻 프로그래머스 웹 데브코스 TIL
