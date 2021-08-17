@@ -43,8 +43,8 @@
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |21-08-03|프로그래밍 패러다임|명령형, 선언형, 절차지향, 객체지향, 함수형 프로그래밍|[Week1 - Tue](https://velog.io/@jeongs/TIL-프로그래밍-패러다임)|
-|21-08-17|가깝지만 먼 당신...this|this와 바인딩, call, apply, bind 메서드|[Week3 - Tue](https://velog.io/@jeongs/TIL-프로그래밍-패러다임)|
+|21-08-17|가깝지만 먼 당신...this|this와 바인딩, call, apply, bind 메서드|[Week3 - Tue](https://velog.io/@jeongs/ARTICLE-가깝지만-먼-당신...-this)|
 ## 💻 CS STUDY
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|21-08-13|네트워크, OSI 7 계층 그림과 함께 이해하기|네트워크, OSI 7 계층, TCP/IP|[Week2 - Fri](https://velog.io/@jeongs/TIL-프로그래밍-패러다임)|
+|21-08-13|네트워크, OSI 7 계층 그림과 함께 이해하기|네트워크, OSI 7 계층, TCP/IP|[Week2 - Fri](https://velog.io/@jeongs/네트워크-OSI-7-계층-그림과-함께-이해하기)|
