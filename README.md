@@ -8,11 +8,14 @@
 
 📝1주차 아티클 📝
 ----------
+| 날짜 | 제목  | 설명              | 링크     |
+| ---- | ----- | ----------------- | -------- |
 | 1ST WEEK | 1주차 스터디 | \[JS\] 정규 표현식 | [링크](https://velog.io/@gyulhana/JS-%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D) |
 
 ✨2주차 TIL✨
 ----------
 | 날짜 | 제목  | 설명              | 링크     |
+| ---- | ----- | ----------------- | -------- |
 | 08월 09일 | 8일차 TIL | 이터러블/이터레이터 프로토콜 | [링크](https://velog.io/@gyulhana/TIL-데브코스-6일차) |
 | 08월 10일 | 9일차 TIL | 함수를 사용하는 여러가지 방법 | [링크](https://velog.io/@gyulhana/TIL-JS-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%EB%B2%95) |
 | 08월 12일 | 11일차 TIL | JS의 여러가지 메소드 하루만에 머리에 집어넣기 | [링크](https://velog.io/@gyulhana/TIL-JS-%EA%B5%AC%EC%A1%B0-%EB%B6%84%ED%95%B4-%EC%98%B5%EC%85%94%EB%84%90-%EC%B2%B4%EC%9D%B4%EB%8B%9D-%EA%B7%B8-%EC%99%B8-%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80-%EB%A9%94%EC%86%8C%EB%93%9CforEach-map-find-filter-some-every) |
