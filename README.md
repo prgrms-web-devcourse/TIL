@@ -11,3 +11,15 @@
 
 [210805](https://velog.io/@khw970421/TIL-4%EC%9D%BC%EC%B0%A8)
 >트리 / 트라이 / 정렬 / 탐색 / BFS / DFS / 그리디
+
+[210810](https://velog.io/@khw970421/TIL-6%EC%9D%BC%EC%B0%A8)
+>함수형 프로그래밍의 바로계산 / 지연계산
+
+[210812](https://velog.io/@khw970421/TIL-7%EC%9D%BC%EC%B0%A8)
+>Promise / Callback
+
+[210816](https://velog.io/@khw970421/TIL-8%EC%9D%BC%EC%B0%A8)
+>프로젝트 관리 방법론 / this란?
+
+[210817](https://velog.io/@khw970421/TIL-9%EC%9D%BC%EC%B0%A8)
+> 명령형/선언형 , 상태유지(this.state / this.render)
