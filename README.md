@@ -54,4 +54,4 @@
 | 2021-08-02 | JS기초(1)                    | 브라우저 접속시 네트워크 과정, 브라우저 동작원리, 변수 선언, 스코프와 클로저 | [링크](https://ghost4551.tistory.com/119) |
 | 2021-08-03 | JS기초(2)                    | 함수형 프로그래밍, 프로토타입, 이벤트 루프                                   | [링크](https://ghost4551.tistory.com/120) |
 | 2021-08-18 | Cookie, Local Storage 사용법 | Client Side에서 데이터를 저장하기                                            | [링크](https://ghost4551.tistory.com/132) |
-| 2021-08-18 | Queue 구현 및 시간 복잡도    | Queue 구현 및 시간 복잡도                                                    | [링크](https://ghost4551.tistory.com/132) |
+| 2021-08-18 | Queue 구현 및 시간 복잡도    | Queue 구현 및 시간 복잡도                                                    | [링크](https://ghost4551.tistory.com/133) |
