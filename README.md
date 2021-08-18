@@ -44,6 +44,7 @@
 |---|---|---|---|
 |21-08-03|프로그래밍 패러다임|명령형, 선언형, 절차지향, 객체지향, 함수형 프로그래밍|[Week1 - Tue](https://velog.io/@jeongs/TIL-프로그래밍-패러다임)|
 |21-08-17|가깝지만 먼 당신...this|this와 바인딩, call, apply, bind 메서드|[Week3 - Tue](https://velog.io/@jeongs/ARTICLE-가깝지만-먼-당신...-this)|
+|21-08-18|실행 컨텍스트|실행컨텍스트, 환경정보, 렉시컬 환경, 식별자 정보, 외부환경정보, 호이스팅|[Week3 - Wed](https://velog.io/@jeongs/ARTICLE-실행-컨텍스트)|
 ## 💻 CS STUDY
 |날짜|제목|설명|링크|
 |---|---|---|---|
