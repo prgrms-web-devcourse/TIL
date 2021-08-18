@@ -33,4 +33,5 @@
 | 8월 6일  | TIL 5일차 |                     힙, 정렬                     | [TIL_day5](https://sunjae95.github.io/posts/TIL_5/) |
 | 8월 10일 | TIL 6일차 |                HTML,CSS,DOM, 함수                | [TIL_day6](https://sunjae95.github.io/posts/TIL_6/) |
 | 8월 11일 | TIL 7일차 |            순회, 이터러블, 제너레이터            | [TIL_day7](https://sunjae95.github.io/posts/TIL_7/) |
-| 8월 12일 | TIL 8일차 |               함수의표현과 지연성                | [TIL_day5](https://sunjae95.github.io/posts/TIL_8/) |
+| 8월 12일 | TIL 8일차 |               함수의표현과 지연성                | [TIL_day8](https://sunjae95.github.io/posts/TIL_8/) |
+| 8월 15일 | TIL 9일차 |              Promise,Monad,Kleisli               | [TIL_day9](https://sunjae95.github.io/posts/TIL_9/) |
