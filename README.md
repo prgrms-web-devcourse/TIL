@@ -32,7 +32,7 @@
   |:-:|:-:|:-:|:-:|
   |W1D1|2021-08-02|프레임워크를 위한 Java_Day 1|[20210802 TIL.md](Week%201%20-%20프레임워크를%20위한%20Java/20210802%20TIL.md)|
   |W1D2|2021-08-03|프레임워크를 위한 Java_Day 2|[20210803 TIL.md](Week%201%20-%20프레임워크를%20위한%20Java/20210803%20TIL.md)|
-  |W1D3|2021-08-04|프레임워크를 위한 Java_Day 3|준비중 [20210804 TIL.md](Week%201%20-%20프레임워크를%20위한%20Java/20210804%20TIL.md)|
+  |W1D3|2021-08-04|프레임워크를 위한 Java_Day 3|[20210804 TIL.md](Week%201%20-%20프레임워크를%20위한%20Java/20210804%20TIL.md)|
   |W1D4|2021-08-05|프레임워크를 위한 Java_Day 4|준비중 [20210805 TIL.md](Week%201%20-%20프레임워크를%20위한%20Java/20210805%20TIL.md)|
   |W1D5|2021-08-06|프레임워크를 위한 Java_Day 5|준비중 [20210806 TIL.md](Week%201%20-%20프레임워크를%20위한%20Java/20210806%20TIL.md)|
   |W1-추가 학습|2021-08-04|JAVA 기초 학습|[JAVA 기초 학습.md](https://github.com/cse0518/TIL/blob/main/JAVA/JAVA%20%EA%B8%B0%EC%B4%88%20%ED%95%99%EC%8A%B5.md)|
@@ -51,7 +51,7 @@
 
   |Week/Day|날짜|제목|링크|
   |:-:|:-:|:-:|:-:|
-  |W3D1|2021-08-16|SpringBoot Part 1_Day 1|준비중 [20210816 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210816%20TIL.md)|
+  |W3D1|2021-08-16|SpringBoot Part 1_Day 1|[20210816 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210816%20TIL.md)|
   |W3D2|2021-08-17|SpringBoot Part 1_Day 2|준비중 [20210817 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210817%20TIL.md)|
   |W3D3|2021-08-18|SpringBoot Part 1_Day 3|준비중 [20210818 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210818%20TIL.md)|
   |W3D4|2021-08-19|SpringBoot Part 1_Day 4|준비중 [20210819 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210819%20TIL.md)|
