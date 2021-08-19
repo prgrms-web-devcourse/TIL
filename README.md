@@ -28,6 +28,7 @@
 | 2021.08.10 | 20210810 - 함수형 프로그래밍2   | 지연성과 지연성을 지원하는 함수들 구현            | [링크](https://velog.io/@younoah/TIL-20210810) |
 | 2021.08.16 | 20210816 - this에 대해서        | 자바스크립트의 this에 대해서 알아보자.            | [링크](https://velog.io/@younoah/TIL-20210816) |
 | 2021.08.17 | 20210817 TIL                    | 컴포넌트 프로그래밍 방식과 특강                   | [링크](https://velog.io/@younoah/TIL-20210817) |
+| 2021.08.19 | 20210819 TIL                    | 멘토링, 모듈화, 비동기                            | [링크](https://velog.io/@younoah/TIL-20210819) |
 
 ### 💧Article
 
@@ -42,3 +43,4 @@
 | 2021.08.16 | JS Article              | 자바스크립트 핵심 문제                                       | [링크](https://velog.io/@younoah/js-core-question)       |
 | 2021.08.16 | JS Article              | 자바스크립트 this                                            | [링크](https://velog.io/@younoah/js-this)                |
 | 2021.08.18 | JS Article              | 클라이언트 사이드에서 데이터 저장하기                        | [링크](https://velog.io/@younoah/js-storage)             |
+| 2021.08.19 | JS Article              | 자바스크립트의 모듈화                                        | [링크](https://velog.io/@younoah/js-module)              |
