@@ -51,6 +51,12 @@
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |2021.08.02 - 2021.08.05|KDT 프론트엔드 week1|희진이의 개발일기|[링크](https://velog.io/@chloe41297/KDT-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-week2)|
+|2021.08.02|Hoisting이란?|hoisting에 대해 간단한 설명|[링크](https://velog.io/@chloe41297/Hoisting-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)|
+|2021.08.02|http와 https의 차이|http와 https|[링크](https://velog.io/@chloe41297/http-%EC%99%80-https-%EC%9D%98-%EC%B0%A8%EC%9D%B4)|
+|2021.08.03|객체지향과 함수형프로그래밍|객체지향과 함수형프로그래밍|[링크](https://velog.io/@chloe41297/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EA%B3%BC-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)|
+|2021.08.03|Browser 작동원리|Browser 작동원리|[링크](https://velog.io/@chloe41297/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-Browser%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC)|
+|2021.08.05|stack과 queue|stack과 queue|[링크](https://velog.io/@chloe41297/%EC%8A%A4%ED%83%9DStack%EA%B3%BC-%ED%81%90Queue)|
+|2021.08.05|시간복잡도와 bigO|시간복잡도와 bigO|[링크](https://velog.io/@chloe41297/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84-Big-O)|
 
 ## 📌 week2
 
