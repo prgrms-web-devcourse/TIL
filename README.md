@@ -41,9 +41,10 @@
 | 2021-08-11 | Day8  | 함수형프로그래밍2                      | [링크](https://ghost4551.tistory.com/126) |
 | 2021-08-12 | Day9  | 함수형프로그래밍3                      | [링크](https://ghost4551.tistory.com/127) |
 | 2021-08-13 | Day10 | 과제 및 특강                           | [링크](https://ghost4551.tistory.com/128) |
-| 2021-08-16 | Day12 | 프로젝트 관리 방법론                   | [링크](https://ghost4551.tistory.com/129) |
-| 2021-08-17 | Day13 | 특강 및 VanillaJS (1)                  | [링크](https://ghost4551.tistory.com/130) |
-| 2021-08-18 | Day14 | VanillaJS (2)                          | [링크](https://ghost4551.tistory.com/131) |
+| 2021-08-16 | Day11 | 프로젝트 관리 방법론                   | [링크](https://ghost4551.tistory.com/129) |
+| 2021-08-17 | Day12 | 특강 및 VanillaJS (1)                  | [링크](https://ghost4551.tistory.com/130) |
+| 2021-08-18 | Day13 | VanillaJS (2)                          | [링크](https://ghost4551.tistory.com/131) |
+| 2021-08-19 | Day14 | VanillaJS 비동기 (3)                   | [링크](https://ghost4551.tistory.com/134) |
 
 ---
 
