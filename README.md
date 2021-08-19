@@ -23,3 +23,9 @@
 
 [210817](https://velog.io/@khw970421/TIL-9%EC%9D%BC%EC%B0%A8)
 > 명령형/선언형 , 상태유지(this.state / this.render)
+
+[210818](https://velog.io/@khw970421/TIL-10%EC%9D%BC%EC%B0%A8)
+> 쿠키 로컬스토리지 컴포넌트
+
+[210819](https://velog.io/@khw970421/TIL-11%EC%9D%BC%EC%B0%A8)
+>비동기 처리 
