@@ -37,4 +37,4 @@
 | 8월16일 | 11일차 TIL | 자가진단 및 This                                           | [링크](https://velog.io/@alajillo/Day.11-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%90%EA%B0%80%EC%A7%84%EB%8B%A82021.08.16) |
 | 8월17일 | 12일차 TIL | UI기반 컴포넌트 및 구조분해할당                            | [링크](https://velog.io/@alajillo/Day.12-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.17)          |
 | 8월19일 | 14일차 TIL | 로컬스토리지,Try&Catch,모듈                                | [링크](https://velog.io/@alajillo/Day.14-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.19)          |
-| 8월20일 | 15일차 TIL | Promise내장함수,async/await,fetchAPI                       | [링크](https://velog.io/@alajillo/Day.15-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.20)          |
+| 8월20일 | 15일차 TIL | Promise내장함수,async&await,fetchAPI                       | [링크](https://velog.io/@alajillo/Day.15-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.20)          |
