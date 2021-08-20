@@ -24,13 +24,17 @@
 
 <br/>
 
-| 날짜    | 제목      | 설명                                                       | 링크                                                                                                                                          |
-| ------- | --------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8월2일  | 1일차 TIL | 자바스크립트 와 웹브라우저 기초 지식                       | [링크](https://velog.io/@alajillo/Day.1-Javascript-%EA%B8%B0%EC%B4%882021.08.02)                                                              |
-| 8월3일  | 2일차 TIL | 자바스크립트의 동작원리와 정규표현식 그리고 git&github특강 | [링크](https://velog.io/@alajillo/Day.2-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9522021.8.3) |
-| 8월4일  | 3일차 TIL | 자료구조                                                   | [링크](https://velog.io/@alajillo/Day.3-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9532021.8.4) |
-| 8월5일  | 4일차 TIL | 자료구조와알고리즘                                         | [링크](https://velog.io/@alajillo/Day.4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9532021.8.5) |
-| 8월9일  | 6일차 TIL | 함수형프로그래밍 및 특강                                   | [링크](https://velog.io/@alajillo/Day.6-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.09)      |
-| 8월10일 | 7일차 TIL | 함수형프로그래밍                                           | [링크](https://velog.io/@alajillo/Day.7-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.10)      |
-| 8월11일 | 8일차 TIL | 함수형프로그래밍                                           | [링크](https://velog.io/@alajillo/Day.8-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.11)      |
-| 8월12일 | 9일차 TIL | 프로미스 객체                                              | [링크](https://velog.io/@alajillo/Day.9-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.12)      |
+| 날짜    | 제목       | 설명                                                       | 링크                                                                                                                                            |
+| ------- | ---------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8월2일  | 1일차 TIL  | 자바스크립트 와 웹브라우저 기초 지식                       | [링크](https://velog.io/@alajillo/Day.1-Javascript-%EA%B8%B0%EC%B4%882021.08.02)                                                                |
+| 8월3일  | 2일차 TIL  | 자바스크립트의 동작원리와 정규표현식 그리고 git&github특강 | [링크](https://velog.io/@alajillo/Day.2-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9522021.8.3)   |
+| 8월4일  | 3일차 TIL  | 자료구조                                                   | [링크](https://velog.io/@alajillo/Day.3-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9532021.8.4)   |
+| 8월5일  | 4일차 TIL  | 자료구조와알고리즘                                         | [링크](https://velog.io/@alajillo/Day.4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A3%BC%EC%9A%94%EB%AC%B8%EB%B2%9532021.8.5)   |
+| 8월9일  | 6일차 TIL  | 함수형프로그래밍 및 특강                                   | [링크](https://velog.io/@alajillo/Day.6-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.09)        |
+| 8월10일 | 7일차 TIL  | 함수형프로그래밍                                           | [링크](https://velog.io/@alajillo/Day.7-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.10)        |
+| 8월11일 | 8일차 TIL  | 함수형프로그래밍                                           | [링크](https://velog.io/@alajillo/Day.8-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.11)        |
+| 8월12일 | 9일차 TIL  | 프로미스 객체                                              | [링크](https://velog.io/@alajillo/Day.9-%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BCES6-2021.08.12)        |
+| 8월16일 | 11일차 TIL | 자가진단 및 This                                           | [링크](https://velog.io/@alajillo/Day.11-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%90%EA%B0%80%EC%A7%84%EB%8B%A82021.08.16) |
+| 8월17일 | 12일차 TIL | UI기반 컴포넌트 및 구조분해할당                            | [링크](https://velog.io/@alajillo/Day.12-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.17)          |
+| 8월19일 | 14일차 TIL | 로컬스토리지,Try&Catch,모듈                                | [링크](https://velog.io/@alajillo/Day.14-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.19)          |
+| 8월20일 | 15일차 TIL | Promise내장함수,async/await,fetchAPI                       | [링크](https://velog.io/@alajillo/Day.15-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.20)          |
