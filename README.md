@@ -10,7 +10,7 @@
 </p>
 
 <p align="middle">
-  <a href="#">[블로그 링크](https://kimbangg.tistory.com/)</a>
+  <a href="#">[블로그링크](https://kimbangg.tistory.com/)</a>
 </p>
 
 <br/>
