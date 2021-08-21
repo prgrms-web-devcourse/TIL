@@ -22,4 +22,6 @@
 | 08.08 | 데브코스의 맛은?   | 1주차 동안 맛본 데브코스에 대한 정리       | [링크](https://pingpongdev.tistory.com/8)  |
 | 08.15 | 폭풍전야의 2주차   | 데브코스 2주차 정리                        | [링크](https://pingpongdev.tistory.com/12) |
 | 08.15 | 함께 자라기를 읽고 | 독서 스터디 책인 함께 자라기를 읽은 독후감 | [링크](https://pingpongdev.tistory.com/9)  |
+| 08.21 | 태풍 주의보 발령   | 데브코스 3주차 정리                        | [링크](https://pingpongdev.tistory.com/15) |
+
 
