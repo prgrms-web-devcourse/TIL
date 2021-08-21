@@ -38,6 +38,8 @@
 |21-08-10|- 함수형 JS - map, filter, reduce<br> - go, pipe, curry 함수로 코드 표현력 높이기|- map, filter, reduce 함수와 go, pipe, curry 함수 활용한 재사용성 높이기|[Week2 - Tue (1)](https://velog.io/@jeongs/TIL-함수형-JS-map-filter-reduce)<br>[Week2 - Tue (2)](https://velog.io/@jeongs/TIL-go-pipe-함수로-코드-표현력-높이기)|
 |21-08-11|함수형 JS와 지연성|range, take, L.range, L.filter, L.map, L.flatten...|[Week2 - Wed](https://velog.io/@jeongs/TIL-함수형-JS와-지연성)|
 |21-08-17|Vanila JS 기본역량|this, 스코프, 클로저, 호이스팅...|[Week3 - Tue](https://velog.io/@jeongs/TIL-Vanila-JS-기본-역량)|
+|21-08-21|2 ~ 3 주차 회고|회고록|[Week3 - Sat](https://velog.io/@jeongs/1-2주차-회고)|
+
 
 ## 📃 ARTICLE
 |날짜|제목|설명|링크|
@@ -45,6 +47,7 @@
 |21-08-03|프로그래밍 패러다임|명령형, 선언형, 절차지향, 객체지향, 함수형 프로그래밍|[Week1 - Tue](https://velog.io/@jeongs/TIL-프로그래밍-패러다임)|
 |21-08-17|가깝지만 먼 당신...this|this와 바인딩, call, apply, bind 메서드|[Week3 - Tue](https://velog.io/@jeongs/ARTICLE-가깝지만-먼-당신...-this)|
 |21-08-18|실행 컨텍스트|실행컨텍스트, 환경정보, 렉시컬 환경, 식별자 정보, 외부환경정보, 호이스팅|[Week3 - Wed](https://velog.io/@jeongs/ARTICLE-실행-컨텍스트)|
+|21-08-21|클로저|실행컨텍스트, 스코프 체이닝, 메모리 관리, 콜백함수|[Week3 - Sat](https://velog.io/@jeongs/ARTICLE-클로저)|
 ## 💻 CS STUDY
 |날짜|제목|설명|링크|
 |---|---|---|---|
