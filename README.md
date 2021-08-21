@@ -43,3 +43,4 @@
 | 8월 12일 | TIL 8일차  |               함수의표현과 지연성                |  [TIL_day8](https://sunjae95.github.io/posts/TIL_8/)  |
 | 8월 15일 | TIL 9일차  |              Promise,Monad,Kleisli               |  [TIL_day9](https://sunjae95.github.io/posts/TIL_9/)  |
 | 8월 17일 | TIL 10일차 |              함수형 프로그래밍 응용              | [TIL_day10](https://sunjae95.github.io/posts/TIL_10/) |
+| 8월 20일 | 3주차 회고 |                 3주차 나의 일기                  |   [3week](https://sunjae95.github.io/posts/week3/)    |
