@@ -26,11 +26,22 @@
 
 ### 📚 TIL 목록
 
+> 1주차
+
 - [21-08-02](https://velog.io/@sanoopark/TIL-21-08-02)
 - [21-08-03](https://velog.io/@sanoopark/TIL-21-08-03)
 - [21-08-04](https://velog.io/@sanoopark/TIL-21-08-04)
 - [21-08-05](https://velog.io/@sanoopark/TIL-21-08-05)
 
+> 2주차
+
+- [21-08-09](https://velog.io/@sanoopark/TIL-21-08-09)
+- [21-08-10](https://velog.io/@sanoopark/TIL-21-08-10)
+- [21-08-13](https://velog.io/@sanoopark/TIL-21-08-13)
+- [21-08-14](https://velog.io/@sanoopark/TIL-21-08-14)
+- [21-08-15](https://velog.io/@sanoopark/TIL-21-08-15)
+
 ### ✏️ Article 목록
 
 - [21-08-06 : 실행 컨텍스트, 어떻게 코드를 관리할까?](https://velog.io/@sanoopark/JS-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
+- [21-08-15 : 이터레이션 프로토콜의 필요성](https://velog.io/@sanoopark/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%EC%85%98-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
