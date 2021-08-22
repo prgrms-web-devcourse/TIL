@@ -11,3 +11,4 @@
 |2021.08.17|함수형 프로그래밍|제너레이터 / 이터레이터, map / filter / reduce|[링크](https://velog.io/@krungy/TIL21.8.17)|
 |2021.08.18|VanillaJS|var / let / const, 클로저, 명령형 / 선언형 프로그래밍|[링크](https://velog.io/@krungy/TIL21.8.18)|
 |2021.08.21|함수형 프로그래밍|go / pipe / curry, 함수형의 조합|[링크](https://velog.io/@krungy/TIL21.8.21)|
+|2021.08.22|VanillaJS|토글 버튼 만들기|[링크](https://velog.io/@krungy/TIL21.08.22)|
