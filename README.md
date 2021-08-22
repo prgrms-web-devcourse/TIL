@@ -27,7 +27,7 @@
 |--|---|---|---|---|
 |1|210818|Javacsript 변수와 Hoisting|javascript의 변수 선언방식의 변화와 이에 따른 호이스팅 기능의 변화와 특징을 비교|[링크](https://velog.io/@rlacksals96/Article-Javascript-%EB%B3%80%EC%88%98%EC%99%80-Hoisting)|
 
-## 🖋회고록🖋
+## 🖋회고록🖋  
 ## | 날짜 | 제목 | 설명 | 링크
 |--|---|---|---|---|
 |1|210820|8월 회고|KDT 수료과정 3주차에 진행하는 회고|[링크](https://velog.io/@rlacksals96/8%EC%9B%94-%ED%9A%8C%EA%B3%A0)|
