@@ -15,6 +15,7 @@
 
 | 날짜     | 주제    | 한 줄 내용                      | Link                                                                      |
 | -------- | ------- | ------------------------------- | ------------------------------------------------------------------------- |
+| 8월 20일 | 😃Day15 | fetch 활용                      | [링크](https://minsgy.notion.site/Day15-7fb4370b236e472ea9a2dc00ec7df22a) |
 | 8월 19일 | 😃Day14 | Promise, Async, Await           | [링크](https://minsgy.notion.site/Day14-fc1400983af44a048a974b3f95b566a0) |
 | 8월 18일 | 😃Day13 | TO-DO-List                      | [링크](https://minsgy.notion.site/Day13-eb2c7594243d49a99ce1f939aa82aa81) |
 | 8월 17일 | 😃Day12 | VanilaJS를 통한 DOM 다루기      | [링크](https://minsgy.notion.site/Day12-c12a08865bae4d9db9171eb54d000b11) |
@@ -32,6 +33,7 @@
 🤔 주차 별 Velog 회고
 | 날짜 | 주제 | 한 줄 내용 | Link |
 | ---- | ----- | ----------------- | -------- |
+| 8월 19일 | 🥔week3 | 3주차 회고 | [링크](https://velog.io/@minsgy/week3-%EC%9D%B4-%ED%8C%A8%ED%84%B4%EC%9D%80-%EB%A7%B5%EB%8B%A8%EB%A7%B5%EB%8B%A8) |
 | 8월 13일 | 🥔week2 | 2주차 회고 | [링크](https://velog.io/@minsgy/week2-FP%EB%9D%BC%EB%8A%94-%EC%8B%A0%EC%84%B8%EA%B3%84) |
 | 8월 6일 | 🥔week1 | 1주차 회고 | [링크](https://velog.io/@minsgy/Week1-%EB%82%B4%EA%B0%80-%EA%B8%B0%EC%B4%88%EC%98%80%EB%8B%A4) |
 
