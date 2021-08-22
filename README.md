@@ -26,13 +26,16 @@
 
 ## 📌 TIL
 
-| 날짜       | 제목       | 설명                                | 링크                                            |
-| ---------- | ---------- | ----------------------------------- | ----------------------------------------------- |
-| 2021-08-02 | DAY 1 TIL  | 첫 적응기                           | [링크](https://hongjungkim-dev.tistory.com/707) |
-| 2021-08-03 | DAY 2 TIL  | 할것이 많아서 더 열심히! 알찬 세션! | [링크](https://hongjungkim-dev.tistory.com/713) |
-| 2021-08-07 | DAY 6 TIL  | 두근두근 CS스터디발표               | [링크](https://hongjungkim-dev.tistory.com/729) |
-| 2021-08-13 | DAY 12 TIL | 즐거운(?) 함수형 프로그래밍         | [링크](https://hongjungkim-dev.tistory.com/744) |
-| 2021-08-14 | DAY 13 TIL | 할게 정말 많아!                     | [링크](https://hongjungkim-dev.tistory.com/747) |
-| 2021-08-15 | DAY 14 TIL | 살려주세요                          | [링크](https://hongjungkim-dev.tistory.com/751) |
+| 날짜       | 제목       | 설명                                 | 링크                                            |
+| ---------- | ---------- | ------------------------------------ | ----------------------------------------------- |
+| 2021-08-02 | DAY 1 TIL  | 첫 적응기                            | [링크](https://hongjungkim-dev.tistory.com/707) |
+| 2021-08-03 | DAY 2 TIL  | 할것이 많아서 더 열심히! 알찬 세션!  | [링크](https://hongjungkim-dev.tistory.com/713) |
+| 2021-08-07 | DAY 6 TIL  | 두근두근 CS스터디발표                | [링크](https://hongjungkim-dev.tistory.com/729) |
+| 2021-08-13 | DAY 12 TIL | 즐거운(?) 함수형 프로그래밍          | [링크](https://hongjungkim-dev.tistory.com/744) |
+| 2021-08-14 | DAY 13 TIL | 할게 정말 많아!                      | [링크](https://hongjungkim-dev.tistory.com/747) |
+| 2021-08-15 | DAY 14 TIL | 살려주세요                           | [링크](https://hongjungkim-dev.tistory.com/751) |
+| 2021-08-20 | TIL        | 재미있는 프로젝트, 데브코스도 꾸준히 | [링크](https://hongjungkim-dev.tistory.com/762) |
+| 2021-08-21 | TIL        | 코드리뷰는 즐거워(?)                 | [링크](https://hongjungkim-dev.tistory.com/765) |
+| 2021-08-22 | TIL        | 쉬엄쉬엄 갑시다                      | [링크](https://hongjungkim-dev.tistory.com/768) |
 
 <br/>
