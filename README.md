@@ -41,6 +41,14 @@
 - [21-08-14](https://velog.io/@sanoopark/TIL-21-08-14)
 - [21-08-15](https://velog.io/@sanoopark/TIL-21-08-15)
 
+> 3주차
+
+- [21-08-16](https://velog.io/@sanoopark/TIL-21-08-16)
+- [21-08-17](https://velog.io/@sanoopark/TIL-21-08-17)
+- [21-08-18](https://velog.io/@sanoopark/TIL-21-08-18)
+- [21-08-19](https://velog.io/@sanoopark/TIL-21-08-19)
+- [21-08-20](https://velog.io/@sanoopark/TIL-21-08-20)
+
 ### ✏️ Article 목록
 
 - [21-08-06 : 실행 컨텍스트, 어떻게 코드를 관리할까?](https://velog.io/@sanoopark/JS-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
