@@ -1,4 +1,4 @@
-# 💻 프로그래머스 웹 데브코스 TIL
+#💻 프로그래머스 웹 데브코스 TIL
 
 > "Talk is cheap. Show me the code."
 > ("말은 쉽지, 코드를 보여줘.")
@@ -18,7 +18,7 @@
 | 210804 | day03. 자료구조&알고리즘           | 학습한 자료구조와 알고리즘 + 추가학습 예정 주제                                               | [링크](https://velog.io/@rlacksals96/TIL-day03.-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)                                     |
 | 210809 | day06. DOM / Iterator           | DOM의 개념과 브라우저의 랜더링 과정 + iterator의 구조                 | [링크](https://velog.io/@rlacksals96/TIL-day06.-DOM-Iterator)                                     |
 | 210810 | day07. 고차함수와 go,pipe, curry            | 고차함수에 대한 이해, 함수형 프로그래밍 방식으로 iterator 다루기    | [링크](https://velog.io/@rlacksals96/TIL-07.-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98%EC%99%80-gopipecurry)                                     |
-| 210811 | day08. 지연함수            |   함수형 프로그래밍의 특징을 사용하여 지연함수 구현          | [링크](https://velog.io/@rlacksals96/TIL-day08-10)                                     |
+| 210811 | day08. 지연함수            |   함수형 프로그래밍의 특징을 사용하여 지연함수 구현하는 방법         | [링크](https://velog.io/@rlacksals96/TIL-day08-10)                                     |
 
 ## ✍Article✍
 
