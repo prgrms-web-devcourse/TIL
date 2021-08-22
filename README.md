@@ -48,8 +48,8 @@
 ```
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|8월 9일|TIL Day 6|HTML, CSS, DOM, 함수형 프로그래밍 기초|[링크](https://velog.io/@dorrdorr9311/TIL-Day-6)|
-|8월 10일|TIL Day 7|iterable, iterator, generator|[링크](https://velog.io/@dorrdorr9311/TIL-Day-7)|
-|8월 13일|TIL Day 10|함수형 프로그래밍 지연성|[링크](https://velog.io/@dorrdorr9311/TIL-Day-10)|
+|8월 17일|TIL Day 12|명령형 프로그래밍, 선언형 프로그래밍|[링크](https://velog.io/@dorrdorr9311/TIL-Day-12)|
+|8월 18일|TIL Day 13|alert와 렌더링, client side에서의 데이터 저장|[링크](https://velog.io/@dorrdorr9311/TIL-Day-13)|
+|8월 20일|회고 - 8월|데브코스 8월의 기록 |[링크](https://velog.io/@dorrdorr9311/%ED%9A%8C%EA%B3%A0-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-8%EC%9B%94%EC%9D%98-%EA%B8%B0%EB%A1%9D)|
 
 ```
