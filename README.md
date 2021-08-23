@@ -10,7 +10,7 @@
 </p>
 
 <p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
+  <!-- <a href="#">☕ <!-- <a href="#">☕ https://velog.io/@seungrok-yoon </a> -->  </a> -->  
 </p>
 
 <br/>
@@ -27,27 +27,28 @@
 ## 📌 배움 기록은 어떻게 하나요?
 
 **TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
-
-## 🚀 진행방법
-
-1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
-   - 백엔드 P반은 be/1/P-gitusername
-   - 프론트 A반은 fe/1/A-gitusername
-   - 프론트 B반은 fe/1/B-gitusername
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository를 `clone` 받습니다.
-4. **README.md를 작성하여 꾸밉시다.**
-5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push` 합니다.
-6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
-7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
-8. PR을 아래 양식에 맞춰 내용을 작성합니다.
-   여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
-
-```
+### **8월 첫 주차 TIL**
+>
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+|20210802|자바스크립트 기초 문법부터 다지는 알짜배기 강의|첫 수업과 그 감회를 주로 적은 TIL|[링크](https://velog.io/@seungrok-yoon/TIL-20210802)|
+|20210803|ES6의 새 기능들을 알아보자!|ES6와 클로저|[링크](https://velog.io/@seungrok-yoon/TIL-20210803)|
+|20210806|Map() 객체, .forEach(), spread 연산자 및 .flatmap() 사용법|ES6 Map객체와 새로 만난 매서드들|[링크](https://velog.io/@seungrok-yoon/TIL-20210806)|$
+
+### **8월 둘째 주 TIL**
+>
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|20210809| DOM과 HTML은 같은거야?  | DOM과 HTML |[링크](https://velog.io/@seungrok-yoon/TIL-20210809)|
+|20210810| Iterator(Iterator)...너무하잖아.....| 이터레이터(iterator)와 제너레이터(generator) |[링크](https://velog.io/@seungrok-yoon/TIL-20210810)|
+|20210811| 커리? 커링? 그거 먹는거냐  | currying이란?   |[링크](https://velog.io/@seungrok-yoon/TIL-20210811)|
+
+ ### **8월 셋째 주 TIL**
+>
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|20210819| [TIL] 8월 19일  | 모나드, 의도적인 뒤쳐짐 |[링크](https://velog.io/@seungrok-yoon/TIL-20210819)|
+|20210820| [TIL] 8월 3주차 결산 회고| 8월 3주차 회고 |[링크](https://velog.io/@seungrok-yoon/TIL-20210820)|
+|20210822| [TIL] 8월 22일  | query selector, cookies |[링크](https://velog.io/@seungrok-yoon/TIL-20210822)|
+
+ 
