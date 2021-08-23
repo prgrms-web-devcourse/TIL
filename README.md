@@ -44,3 +44,5 @@
 | 2021.08.16 | JS Article              | 자바스크립트 this                                            | [링크](https://velog.io/@younoah/js-this)                |
 | 2021.08.18 | JS Article              | 클라이언트 사이드에서 데이터 저장하기                        | [링크](https://velog.io/@younoah/js-storage)             |
 | 2021.08.19 | JS Article              | 자바스크립트의 모듈화                                        | [링크](https://velog.io/@younoah/js-module)              |
+| 2021.08.20 | JS Article              | fetchAPI                                                     | [링크](https://velog.io/@younoah/js-module)              |
+| 2021.08.13 | JS Article              | SPA - history api, hashbang                                  | [링크](https://velog.io/@younoah/js-module)              |
