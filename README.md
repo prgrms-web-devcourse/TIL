@@ -30,10 +30,10 @@
 | 21.08.11  | TIL 7 알고리즘 - 정렬                     | 정렬 알고리즘                                            | [링크](https://velog.io/@grighth12/TIL-7-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A0%AC)                                                                   |
 | 21.08.11  | TIL 8 알고리즘 - 이진 탐색                | 이진 탐색                                                | [링크](https://velog.io/@grighth12/TIL-8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89)                                                |
 | 21.08.11  | TIL 9 알고리즘 - BFS와 DFS                | DFS와 BFS                                                | [링크](https://velog.io/@grighth12/TIL-9-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-BFS%EC%99%80-DFS)                                                                     |
-| 21.08.10  | TIL 10 알고리즘 - 그리디                  | 그리디                                                   | [링크](https://velog.io/@grighth12/TIL-10-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%AC%EB%94%94)                                                         |
-| 21.08.10  | TIL 11 평가와 일급                        | 자바스크립트의 평가와 일급 개념, 일급 함수와 고차 함수   | [링크](https://velog.io/@grighth12/TIL-11-%ED%8F%89%EA%B0%80%EC%99%80-%EC%9D%BC%EA%B8%89)                                                                           |
-| 21.08.10  | TIL 12 ES6 순회와 이터러블                | ES5, ES6 순회의 차이점과 이터러블/이터레이터 프로토콜    | [링크](https://velog.io/@grighth12/TIL-12-ES6-%EC%88%9C%ED%9A%8C%EC%99%80-%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94)                                                     |
-| 21.08.10  | TIL 13 SPA & routing                      | 역사로 보는 SPA의 등장배경과 라우팅 기법                 | [링크](https://velog.io/@grighth12/TIL-13-SPA-routing)                                                                                                              |
+| 21.08.11  | TIL 10 알고리즘 - 그리디                  | 그리디                                                   | [링크](https://velog.io/@grighth12/TIL-10-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%AC%EB%94%94)                                                         |
+| 21.08.12  | TIL 11 평가와 일급                        | 자바스크립트의 평가와 일급 개념, 일급 함수와 고차 함수   | [링크](https://velog.io/@grighth12/TIL-11-%ED%8F%89%EA%B0%80%EC%99%80-%EC%9D%BC%EA%B8%89)                                                                           |
+| 21.08.12  | TIL 12 ES6 순회와 이터러블                | ES5, ES6 순회의 차이점과 이터러블/이터레이터 프로토콜    | [링크](https://velog.io/@grighth12/TIL-12-ES6-%EC%88%9C%ED%9A%8C%EC%99%80-%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94)                                                     |
+| 21.08.24  | TIL 13 SPA & routing                      | 역사로 보는 SPA의 등장배경과 라우팅 기법                 | [링크](https://velog.io/@grighth12/TIL-13-SPA-routing)                                                                                                              |
 
 <br>
 
