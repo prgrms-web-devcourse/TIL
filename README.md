@@ -40,7 +40,7 @@
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |20210809| DOM과 HTML은 같은거야?  | DOM과 HTML |[링크](https://velog.io/@seungrok-yoon/TIL-20210809)|
-|20210810| Iterator(Iterator)...너무하잖아.....| 이터레이터(iterator)와 제너레이터(generator) |[링크](https://velog.io/@seungrok-yoon/TIL-20210810)|
+|20210810| Iterator(Iterator)| 이터레이터(iterator)와 제너레이터(generator) |[링크](https://velog.io/@seungrok-yoon/TIL-20210810)|
 |20210811| 커리? 커링? 그거 먹는거냐  | currying이란?   |[링크](https://velog.io/@seungrok-yoon/TIL-20210811)|
 
  ### **8월 셋째 주 TIL**
@@ -48,7 +48,7 @@
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |20210819| [TIL] 8월 19일  | 모나드, 의도적인 뒤쳐짐 |[링크](https://velog.io/@seungrok-yoon/TIL-20210819)|
-|20210820| [TIL] 8월 3주차 결산 회고| 8월 3주차 회고 |[링크](https://velog.io/@seungrok-yoon/TIL-20210820)|
+|20210820| [TIL] 8월 3주차 결산 회고| 8월 3주차 회고  |[링크](https://velog.io/@seungrok-yoon/TIL-20210820)|
 |20210822| [TIL] 8월 22일  | query selector, cookies |[링크](https://velog.io/@seungrok-yoon/TIL-20210822)|
 
  
