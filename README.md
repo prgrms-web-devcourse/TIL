@@ -41,7 +41,7 @@
 |---|---|---|---|
 |20210809| DOM과 HTML은 같은거야?  | DOM과 HTML |[링크](https://velog.io/@seungrok-yoon/TIL-20210809)|
 |20210810| Iterator(Iterator)...너무하잖아.....| 이터레이터(iterator)와 제너레이터(generator) |[링크](https://velog.io/@seungrok-yoon/TIL-20210810)|
-|20210811| 커리? 커링? 그거 먹는거냐  | currying과 Go와 Pipe   |[링크](https://velog.io/@seungrok-yoon/TIL-20210811)|
+|20210811| 커리? 커링? 그거 먹는거냐  | currying이란?   |[링크](https://velog.io/@seungrok-yoon/TIL-20210811)|
 
  ### **8월 셋째 주 TIL**
 >
