@@ -40,5 +40,5 @@
 | 2021.08.17 | TIL 12일차 | 비동기 동시성과 지연평가가 가능한 함수 구현해보기                                    | [thstnfla.notion/TIL12](https://www.notion.so/thstnfla/12-TIL-ce324649ae424a26b5143e975e201c97) |
 | 2021.08.18 | TIL 13일차 | 바닐라 자바스크립트 투두리스트를 컴포넌트 방식으로 구현해보기                        | [thstnfla.notion/TIL13](https://www.notion.so/thstnfla/13-TIL-6956dae4fe0a43c5bc61f632fca03a6d) |
 | 2021.08.19 | TIL 14일차 | 바닐라 자바스크립트 투두리스트 API 연동해보기, Promise 학습                          | [thstnfla.notion/TIL14](https://www.notion.so/thstnfla/14-TIL-41fdf6ecd6db4ed092d087c6e89e332f) |
-| 2021.08.20 | TIL 15일차 | 14일차 컴포넌트 개념 복습, Fetch API                                                 | [thstnfla.notion/TIL15](https://www.notion.so/thstnfla/15-TIL-94fe43846e6f4bc398b4aa9e62c0118d) |
-| 2021.08.21 | TIL 16일차 | Product List 페이지에 실제 API 연동, JS 기본 개념 정리 API                           | [thstnfla.notion/TIL16](https://www.notion.so/thstnfla/16-TIL-d8d9f6894380426ba76cf00ba3ac4797) |
+| 2021.08.23 | TIL 15일차 | 14일차 컴포넌트 개념 복습, Fetch API                                                 | [thstnfla.notion/TIL15](https://www.notion.so/thstnfla/15-TIL-94fe43846e6f4bc398b4aa9e62c0118d) |
+| 2021.08.24 | TIL 16일차 | Product List 페이지에 실제 API 연동, JS 기본 개념 정리 API                           | [thstnfla.notion/TIL16](https://www.notion.so/thstnfla/16-TIL-d8d9f6894380426ba76cf00ba3ac4797) |
