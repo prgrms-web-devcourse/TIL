@@ -1,53 +1,26 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./src/images/prgms-logo.png"/>
-</p>
-<h2 align="middle">프로그래머스 웹 데브코스 TIL</h2>
-<p align="middle">Today I Leared</p>
-<p align="middle">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
-  <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
-</p>
+# TIL
 
-<p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
-</p>
+| 날짜     | 링크                                                                   |
+| -------- | ---------------------------------------------------------------------- |
+| 8월 2일  | [[TIL]🌑Front-end Day-1](https://velog.io/@goum/Front-end-TIL-Day-1)   |
+| 8월 3일  | [[TIL]🌑Front-end Day-2](https://velog.io/@goum/Front-end-TIL-Day-2)   |
+| 8월 4일  | [[TIL]🌑Front-end Day-3](https://velog.io/@goum/TILFront-end-Day-3)    |
+| 8월 6일  | [[TIL]🌑Front-end Day-5](https://velog.io/@goum/TILFront-end-Day-5)    |
+| 8월 9일  | [[TIL]🌑Front-end Day-6](https://velog.io/@goum/TILFront-end-Day-6)    |
+| 8월 10일 | [[TIL]🌑Front-end Day-7](https://velog.io/@goum/TILFront-end-Day-7)    |
+| 8월 11일 | [[TIL]🌑Front-end Day-8](https://velog.io/@goum/TILFront-end-Day-8)    |
+| 8월 12일 | [[TIL]🌑Front-end Day-9](https://velog.io/@goum/TILFront-end-Day-9)    |
+| 8월 16일 | [[TIL]🌑Front-end Day-11](https://velog.io/@goum/TILFront-end-Day-11)  |
+| 8월 17일 | [[TIL]🌑Front-end Day-12](https://velog.io/@goum/TILFront-end-Day-12)  |
+| 8월 18일 | [[TIL]🌑Front-end Day-13](https://velog.io/@goum/TILFront-end-Day-13)  |
+| 8월 21일 | [[TIL]대신 쓰는 3주차 회고](https://velog.io/@goum/TILFront-end-Week3) |
+| 8월 23일 | [[TIL]🌑Front-end Day-16](https://velog.io/@goum/TILFront-end-Day-16)  |
 
-<br/>
+# Article
 
-# 💻 프로그래머스 웹 데브코스 TIL
-
-> "Talk is cheap. Show me the code."
-> ("말은 쉽지, 코드를 보여줘.")
->
-> 리누스 토르발스(Linus Torvalds)
-
-<br/>
-
-## 📌 배움 기록은 어떻게 하나요?
-
-**TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
-
-## 🚀 진행방법
-
-1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
-   - 백엔드 P반은 be/1/P-gitusername
-   - 프론트 A반은 fe/1/A-gitusername
-   - 프론트 B반은 fe/1/B-gitusername
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository를 `clone` 받습니다.
-4. **README.md를 작성하여 꾸밉시다.**
-5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push` 합니다.
-6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
-7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
-8. PR을 아래 양식에 맞춰 내용을 작성합니다.
-   여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
-
-```
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+| 날짜     | 제목(링크)                                                                                                                                          | 설명                                                 |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 20210808 | [[OS]프로세스와 스레드](https://velog.io/@goum/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)                           | 프로세스와 스레드정의와 멀티스레드 멀티프로세스 비교 |
+| 20210815 | [[JS] 이벤트루프와 태스크큐](https://velog.io/@goum/JS-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A3%A8%ED%94%84%EC%99%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%81%90) | 자바스크립트의 이벤트큐와 테스트큐 동작 원리         |
+| 20210815 | [[JS] 변수와 Hoisting](https://velog.io/@goum/JS-%EB%B3%80%EC%88%98%EC%99%80-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85)                                  | Hoisting이 일어나는 이유와 키워드에 따른 차이        |
+| 20210815 | [[JS]스코프와 클로저](https://velog.io/@goum/JS%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80)                                    | 스코프와 클로저의 상관관계                           |
