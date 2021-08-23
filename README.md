@@ -26,3 +26,15 @@ Velog 바로가기 : [Velog Link](https://velog.io/@apparatus1)
 - [21. 8. 10(화) TIL(go, pipe, curry)](https://velog.io/@apparatus1/21.-8.-10%ED%99%94-TILgo-pipe-curry)
 - [21. 8. 11(수) TIL(지연성 함수))](https://velog.io/@apparatus1/21.-8.-11%EC%88%98-TIL%EC%A7%80%EC%97%B0%EC%84%B1-%ED%95%A8%EC%88%98)
 - [21. 8. 13(금) TIL(Promise 지연 평가, 지연성 함수의 병렬 실행))](https://velog.io/@apparatus1/21.-8.-13%EA%B8%88-TILPromise-%EC%A7%80%EC%97%B0-%ED%8F%89%EA%B0%80-%EC%A7%80%EC%97%B0%EC%84%B1-%ED%95%A8%EC%88%98%EC%9D%98-%EB%B3%91%EB%A0%AC-%EC%8B%A4%ED%96%89)
+
+<hr>
+
+#### 3주차(21-08-16 ~ 21-08-22)
+
+- [21. 8. 17(화) TIL(Javascript Object에서 함수 사용법)](https://velog.io/@apparatus1/21.-8.-17%ED%99%94-TILJavascript-Object%EC%97%90%EC%84%9C-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [21. 8. 18(수) TIL(Document, HTML 요소 관리)](https://velog.io/@apparatus1/21.-8.-18%EC%88%98-TILDocument-HTML-%EC%9A%94%EC%86%8C-%EA%B4%80%EB%A6%AC)
+- [21. 8. 19(목) TIL(Javascript 모듈, 비동기 제어)](https://velog.io/@apparatus1/21.-8.-19%EB%AA%A9-TILJavascript-%EB%AA%A8%EB%93%88-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%A0%9C%EC%96%B4)
+
+#### 4주차(21-08-23 ~ 21-08-29)
+
+- [21. 8. 23(월) TIL(API, Request, Fetch)](https://velog.io/@apparatus1/21.-8.-23%EC%9B%94-TILAPI-Request-Fetch)
