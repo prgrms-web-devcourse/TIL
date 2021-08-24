@@ -1,4 +1,4 @@
-<br/>
+
 <p align="middle" >
   <img width="200px;" src="./src/images/prgms-logo.png"/>
 </p>
@@ -11,7 +11,7 @@
 
 <p align="middle">
   <a href="https://velog.io/@hyo_o">👉 Blog</a>  
-</p>s
+</p>
 
 | 날짜    | 제목      | 설명                                                       | 링크                                                                                                                                          |
 | ------- | --------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,3 +23,11 @@
 | 2021.08.09 | TIL-006 | DOM (Document Object Model)                                         | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0809)      |
 | 2021.08.10 | TIL-007 | iterable & iterator                                         | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0810)      |
 | 2021.08.11 | TIL-008 | 프로미스 (Promise)                                     | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0811)      |
+| 2021.08.12 | TIL-009 | 지연성(Lazy Evaluation) | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0812) |
+| 2021.08.16 | TIL-011 | Promise와 Monad             | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0816) |
+| 2021.08.17 | TIL-012 | 명령형/선언형 프로그래밍    | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0817) |
+| 2021.08.18 | TIL-013 | 컴포넌트와 웹 저장소        | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0819) |
+| 2021.08.19 | TIL-014 | 병렬적 평가                 | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0817-n0pbtu5d) |
+| 2021.08.20 | TIL-015 | async/await | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0818) |
+| 2021.08.21 | TIL-016 | 이터러블 프로그래밍 응용 | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0821) |
+| 2021.08.22 | TIL-017 | module과 Promise | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0822) |
