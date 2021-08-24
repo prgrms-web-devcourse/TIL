@@ -63,9 +63,22 @@
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |2021.08.09 - 2021.08.13|KDT 프론트엔드 week2|희진이의 개발일기|[링크](https://velog.io/@chloe41297/KDT-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-week3)|
+|2021.08.09|이터러블||[링크](https://velog.io/@chloe41297/%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94iterable)|
+|2021.08.11|이터러블||[링크](https://velog.io/@chloe41297/TCP)|
+|2021.08.11|이터러블||[링크](https://velog.io/@chloe41297/TCP)|
+
 
 ## 📌 week3
 
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|2021.08.16 - 2021.08.17|KDT 프론트엔드 week3|희진이의 개발일기|[링크](https://velog.io/@chloe41297/KDT-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-week3-9m5yau7q)|
+|2021.08.16 - 2021.08.20|KDT 프론트엔드 week3|희진이의 개발일기|[링크](https://velog.io/@chloe41297/KDT-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-week3-9m5yau7q)|
+|2021.08.17|var,let,const||[링크](https://velog.io/@chloe41297/var-let-%EA%B7%B8%EB%A6%AC%EA%B3%A0-const)|
+|2021.08.17|scope와 클로저||[링크](https://velog.io/@chloe41297/scope%EC%99%80-closure)|
+
+## 📌 week4
+
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|2021.08.23 - 2021.08.24|KDT 프론트엔드 week4|희진이의 개발일기|[링크](https://velog.io/@chloe41297/KDT-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-week4)|
+|2021.08.24|TCP와 UDP||[링크](https://velog.io/@chloe41297/TCP%EC%99%80-UDP)|
