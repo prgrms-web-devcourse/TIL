@@ -64,8 +64,8 @@
 |---|---|---|---|
 |2021.08.09 - 2021.08.13|KDT 프론트엔드 week2|희진이의 개발일기|[링크](https://velog.io/@chloe41297/KDT-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-week3)|
 |2021.08.09|이터러블||[링크](https://velog.io/@chloe41297/%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94iterable)|
-|2021.08.11|이터러블||[링크](https://velog.io/@chloe41297/TCP)|
-|2021.08.11|이터러블||[링크](https://velog.io/@chloe41297/TCP)|
+|2021.08.11|TCP와 3wayhandshake||[링크](https://velog.io/@chloe41297/TCP)|
+
 
 
 ## 📌 week3
