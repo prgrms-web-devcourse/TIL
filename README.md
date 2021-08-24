@@ -34,8 +34,7 @@
 | 21.08.12  | TIL 11 평가와 일급                        | 자바스크립트의 평가와 일급 개념, 일급 함수와 고차 함수   | [링크](https://velog.io/@grighth12/TIL-11-%ED%8F%89%EA%B0%80%EC%99%80-%EC%9D%BC%EA%B8%89)                                                                           |
 | 21.08.12  | TIL 12 ES6 순회와 이터러블                | ES5, ES6 순회의 차이점과 이터러블/이터레이터 프로토콜    | [링크](https://velog.io/@grighth12/TIL-12-ES6-%EC%88%9C%ED%9A%8C%EC%99%80-%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94)                                                     |
 | 21.08.24  | TIL 13 SPA & routing                      | 역사로 보는 SPA의 등장배경과 라우팅 기법                 | [링크](https://velog.io/@grighth12/TIL-13-SPA-routing)                                                                                                              |
-
-<br>
+| 21.08.25  | TIL 14 Vanilla JS로 만드는 SPA            | 💡 SPA 프레임워크로 넘어가기 전에 반드시 알아야 할 지식  | [링크](https://velog.io/@grighth12/TIL-14-Vanilla-JS%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-TodoList)                                                                 |
 
 # 아티클
 
