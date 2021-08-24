@@ -9,6 +9,7 @@
 |2021-08-12|[TIL] 07|JS / 프로미스(Promise) |[Day9](https://velog.io/@kimin3004/TIL-062021-08-12-m5tengn4)|
 |2021-08-17|[TIL] 08|프로그래밍 패러다임 / 명령형, 선언형 프로그래밍 |[Day12](https://velog.io/@kimin3004/TIL-082021-08-17-%EB%AA%85%EB%A0%B9%ED%98%95-%EC%84%A0%EC%96%B8%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)|
 |2021-08-19|[TIL] 09|JS / 모듈(Module) |[Day14](https://velog.io/@kimin3004/TIL-082021-08-19-%EB%AA%A8%EB%93%88)|
+|2021-08-24|[TIL] 10|SPA, SSR, CSR |[Day14](https://velog.io/@kimin3004/TIL-10SPA-SSR-CSR)|
 
 
 
