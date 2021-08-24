@@ -42,3 +42,4 @@
 | 2021.08.19 | TIL 14일차 | 바닐라 자바스크립트 투두리스트 API 연동해보기, Promise 학습                          | [thstnfla.notion/TIL14](https://www.notion.so/thstnfla/14-TIL-41fdf6ecd6db4ed092d087c6e89e332f) |
 | 2021.08.20 | TIL 15일차 | 14일차 컴포넌트 개념 복습, Fetch API                                                 | [thstnfla.notion/TIL15](https://www.notion.so/thstnfla/15-TIL-94fe43846e6f4bc398b4aa9e62c0118d) |
 | 2021.08.23 | TIL 16일차 | Product List 페이지에 실제 API 연동, JS 기본 개념 정리 API                           | [thstnfla.notion/TIL16](https://www.notion.so/thstnfla/16-TIL-d8d9f6894380426ba76cf00ba3ac4797) |
+| 2021.08.24 | TIL 17일차 | 3주차 과제 구현, TodoApp 만들기 실습                                                 | [thstnfla.notion/TIL17](https://www.notion.so/thstnfla/17-TIL-a03dbcd0504b47408efce0ce7f543ae9) |
