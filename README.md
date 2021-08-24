@@ -11,7 +11,7 @@
 
 
 <p align="middle">
-  <a href="https://velog.io/@young18">✍ 0's trace</a> 
+  <a href="https://velog.io/@young18/series/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-FE-%EA%B3%BC%EC%A0%95">✍ 0's trace</a> 
 </p>
 
 <br/>
@@ -26,11 +26,11 @@
 
 | 날짜 | 제목 | 설명 | 링크 |
 | ---- | ----- | ----------------- | -------- |
-| 2021-08-02 | 자바스크립트 문법  | 변수, 연산자, 스코프, 클로저, 암호화 | [링크](https://velog.io/@young18/TIL-20210802) |
-| 2021-08-03 | 자바스크립트 문법  | 함수형 프로그래밍, 프로토타입, 모듈, 이벤트루프, 스토리지 | [링크](https://velog.io/@young18/TIL-20210803) |
-| 2021-08-04 | 자료구조  | 배열, 연결리스트, 스택, 큐, 해시테이블, 그래프 | [링크](https://velog.io/@young18/TIL-20210804) |
-| 2021-08-05 | 자료구조와 알고리즘  | 트리, 힙, 트라이, 정렬, 이진탐색, BFS/DFS, 그리디 | [링크](https://velog.io/@young18/TIL-20210805) |
-| 2021-08-06 | 알고리즘 문제 | 스택, 큐, 해시테이블, 이진탐색, DFS, 그리디 | [링크](https://velog.io/@young18/TIL-20210806) |
-| 2021-08-07 | CS스터디 1주차  | Web server와 WAS | [링크](https://velog.io/@young18/TIL-20210807-vqq4bgb7) |
-| 2021-08-09 | DOM / 함수형 프로그래밍 | HTML과 CSS, DOM, 일급함수, 이터러블/이터레이터 프로토콜, 제너레이터 | [링크](https://velog.io/@young18/TIL-20210809) |
-| 2021-08-10 | 함수형 프로그래밍 | map(), filter(), redece() 구현 및 중첩사용 | [링크](https://velog.io/@young18/TIL-20210810) |
+| 2021-08-02 ~ 03 | 자바스크립트 문법 | 스코프, 클로저, 암호화, 프로토타입, 모듈, 이벤트루프, 스토리지 + α | [링크](https://velog.io/@young18/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EC%B4%88-1ojdrte6) |
+| 2021-08-04 ~ 05 | 자료구조와 알고리즘 | 스택, 큐, 해시테이블, 이진탐색, DFS, 그리디 + α  | [링크](https://velog.io/@young18/TIL-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-by-JS-4i6x1bxi) |
+| 2021-08-06 | CS스터디 1주차 | Web server와 WAS | [링크](https://velog.io/@young18/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-CS%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0-ox6qtott) |
+| 2021-08-08 | HTML,CSS와 DOM | HTML과 CSS의 사용과 DOM 트리 렌더링 과정 | [링크](https://velog.io/@young18/TIL-HTMLCSS%EC%99%80-DOM) |
+| 2021-08-09 | 함수형 프로그래밍과 ES6+ | 이터러블/이터레이터 프로토콜, 제너레이터, go/pipe/curry 함수 구현 + α | [링크](https://velog.io/@young18/TIL-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-ES6) |
+| 2021-08-10 | 함수형 프로그래밍과 지연 평가 | 함수형 프로그래밍에서의 지연성과 지연 평가, 지연 평가 range/take 구현 | [링크](https://velog.io/@young18/TIL-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%EC%A7%80%EC%97%B0-%ED%8F%89%EA%B0%80) |
+| 2021-08-11 | 비동기/동시성 프로그래밍 | Promise, 즉시 평가/지연 평가/병렬성, async/await | [링크](https://velog.io/@young18/TIL-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-bk9l5hms) |
+| 2021-08-12 | CS스터디 2주차 | HTTPS와 SSL 인증서 | [링크](https://velog.io/@young18/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-CS-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0) |
