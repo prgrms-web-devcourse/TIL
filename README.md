@@ -35,6 +35,8 @@
 | 21.08.12  | TIL 12 ES6 순회와 이터러블                | ES5, ES6 순회의 차이점과 이터러블/이터레이터 프로토콜    | [링크](https://velog.io/@grighth12/TIL-12-ES6-%EC%88%9C%ED%9A%8C%EC%99%80-%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94)                                                     |
 | 21.08.24  | TIL 13 SPA & routing                      | 역사로 보는 SPA의 등장배경과 라우팅 기법                 | [링크](https://velog.io/@grighth12/TIL-13-SPA-routing)                                                                                                              |
 | 21.08.25  | TIL 14 Vanilla JS로 만드는 SPA            | 💡 SPA 프레임워크로 넘어가기 전에 반드시 알아야 할 지식  | [링크](https://velog.io/@grighth12/TIL-14-Vanilla-JS%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-TodoList)                                                                 |
+| 21.08.26  | TIL 15 Vanilla JS로 만드는 SPA #2         | 🚀 Vanilla JS 프로젝트 관련 지식                         | [링크](https://velog.io/@grighth12/TIL-15-Vanilla-JS%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-SPA-2)                                                                    |
+|           |
 
 # 아티클
 
