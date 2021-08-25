@@ -39,3 +39,5 @@
 | 8월19일  | 14일차 TIL | 로컬스토리지,Try&Catch,모듈                                | [링크](https://velog.io/@alajillo/Day.14-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.19)          |
 | 8월20일  | 15일차 TIL | Promise내장함수,async&await,fetchAPI                       | [링크](https://velog.io/@alajillo/Day.15-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.20)          |
 | 8월 23일 | 16일차 TIL | History API, SPA 개념                                      | [링크](https://velog.io/@alajillo/Day.16-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.23)          |
+| 8월 24일 | 17일차 TIL | 낙관적 업데이트,SSR,CSR의 차이점                           | [링크](https://velog.io/@alajillo/Day.17-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.24)          |
+| 8월 25일 | 18일차 TIL | 이벤트 버블링, 디바운스                                    | [링크](https://velog.io/@alajillo/Day.18-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.25)          |
