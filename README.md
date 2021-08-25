@@ -16,6 +16,7 @@
 
 ## Week 3
 
+- [8월 17일 TIL](https://velog.io/@kyaeim/TIL-817)
 - [[GatsbyJS] 'document is not defined' 해결하기](https://velog.io/@kyaeim/TIL-817-1)
 - [데브코스 3주차 회고](https://velog.io/@kyaeim/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [[TIL] 8/22](https://velog.io/@kyaeim/Execution-context-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
+- [8월 22일 TIL](https://velog.io/@kyaeim/Execution-context-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
