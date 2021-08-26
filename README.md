@@ -60,6 +60,12 @@
 |21.08.11|[TIL] 0811 Database 이것저것3|Database 배운 내용|[링크](https://daisy-day.tistory.com/205)|
 |21.08.12|[TIL] 0812 Database 이것저것4|Database 배운 내용|[링크](https://daisy-day.tistory.com/206)|
 |21.08.13|[TIL] 0813 Database 이것저것5|Database 배운 내용|[링크](https://daisy-day.tistory.com/207)|
+|21.08.18|[TIL] 0818 Spring 컴포넌트|Spring 컴포넌트 배운 내용|[링크](https://daisy-day.tistory.com/212)|
+|21.08.20|[TIL] 0820 우선순위를 명확하게|공부 학습방향 느낀점 작성|[링크](https://daisy-day.tistory.com/214)|
+|21.08.22|[TIL] 0822 Logger|Logger 배운 내용|[링크](https://daisy-day.tistory.com/217)|
+|21.08.23|[TIL] 0823 테스팅에 대해 알아보자|테스팅 배운 내용|[링크](https://daisy-day.tistory.com/219)|
+|21.08.25|[TIL] 0825|JDBC 외 여러개|[링크](https://velog.io/@heehee/TIL-0825)|
+
 
 ## 📕 아티클
 |이름|날짜 - 아티클제목|링크|
