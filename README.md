@@ -65,6 +65,7 @@
 |21.08.22|[TIL] 0822 Logger|Logger 배운 내용|[링크](https://daisy-day.tistory.com/217)|
 |21.08.23|[TIL] 0823 테스팅에 대해 알아보자|테스팅 배운 내용|[링크](https://daisy-day.tistory.com/219)|
 |21.08.25|[TIL] 0825|JDBC 외 여러개|[링크](https://velog.io/@heehee/TIL-0825)|
+|21.08.26|[TIL] 0826|DataBase, 트랜잭션|[링크](https://velog.io/@heehee/TIL-0826)|
 
 
 ## 📕 아티클
