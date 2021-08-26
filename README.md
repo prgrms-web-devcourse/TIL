@@ -64,6 +64,7 @@
 |21.08.20|[TIL] 0820 우선순위를 명확하게|공부 학습방향 느낀점 작성|[링크](https://daisy-day.tistory.com/214)|
 |21.08.22|[TIL] 0822 Logger|Logger 배운 내용|[링크](https://daisy-day.tistory.com/217)|
 |21.08.23|[TIL] 0823 테스팅에 대해 알아보자|테스팅 배운 내용|[링크](https://daisy-day.tistory.com/219)|
+|21.08.24|[TIL] 0824 JDBC (Java Database Connectivity)|JDBC 배운 내용|[링크](https://daisy-day.tistory.com/220)|
 |21.08.25|[TIL] 0825|JDBC 외 여러개|[링크](https://velog.io/@heehee/TIL-0825)|
 |21.08.26|[TIL] 0826|DataBase, 트랜잭션|[링크](https://velog.io/@heehee/TIL-0826)|
 
