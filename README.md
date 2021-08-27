@@ -41,3 +41,5 @@
 | 8월 23일 | 16일차 TIL | History API, SPA 개념                                      | [링크](https://velog.io/@alajillo/Day.16-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.23)          |
 | 8월 24일 | 17일차 TIL | 낙관적 업데이트,SSR,CSR의 차이점                           | [링크](https://velog.io/@alajillo/Day.17-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.24)          |
 | 8월 25일 | 18일차 TIL | 이벤트 버블링, 디바운스                                    | [링크](https://velog.io/@alajillo/Day.18-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.25)          |
+| 8월 26일 | 19일차 TIL | 노션클론코딩 소감                                          | [링크](https://velog.io/@alajillo/Day.19-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A92021.08.26)                                    |
+| 8월 27일 | 20일차 TIL | 노션클론코딩 중간완성 및 소감                              | [링크](https://velog.io/@alajillo/Day.20-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A92021.08.27)                                    |
