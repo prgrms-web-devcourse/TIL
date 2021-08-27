@@ -39,6 +39,8 @@
 |21-08-11|함수형 JS와 지연성|range, take, L.range, L.filter, L.map, L.flatten...|[Week2 - Wed](https://velog.io/@jeongs/TIL-함수형-JS와-지연성)|
 |21-08-17|Vanila JS 기본역량|this, 스코프, 클로저, 호이스팅...|[Week3 - Tue](https://velog.io/@jeongs/TIL-Vanila-JS-기본-역량)|
 |21-08-21|2 ~ 3 주차 회고|회고록|[Week3 - Sat](https://velog.io/@jeongs/1-2주차-회고)|
+|21-08-26|Vanila JS 기본역량 2|싱글 스레드, 비동기, fetch API, history API...|[Week4 - Thu](https://velog.io/@jeongs/TIL-Vanila-JS-기본-역량-2)|
+
 
 
 ## 📃 ARTICLE
@@ -48,7 +50,13 @@
 |21-08-17|가깝지만 먼 당신...this|this와 바인딩, call, apply, bind 메서드|[Week3 - Tue](https://velog.io/@jeongs/ARTICLE-가깝지만-먼-당신...-this)|
 |21-08-18|실행 컨텍스트|실행컨텍스트, 환경정보, 렉시컬 환경, 식별자 정보, 외부환경정보, 호이스팅|[Week3 - Wed](https://velog.io/@jeongs/ARTICLE-실행-컨텍스트)|
 |21-08-21|클로저|실행컨텍스트, 스코프 체이닝, 메모리 관리, 콜백함수|[Week3 - Sat](https://velog.io/@jeongs/ARTICLE-클로저)|
+|21-08-25|DOM Events|event, on 이벤트, addEventListener, event flow|[Week4 - Wed](https://velog.io/@jeongs/ARTICLE-DOM-Events)|
 ## 💻 CS STUDY
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |21-08-13|네트워크, OSI 7 계층 그림과 함께 이해하기|네트워크, OSI 7 계층, TCP/IP|[Week2 - Fri](https://velog.io/@jeongs/네트워크-OSI-7-계층-그림과-함께-이해하기)|
+
+## 👀 REVIEW
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|21-08-27|프로그래머스에서 브랜드키트 보내주셨다~!|-|[Week4 - Fri](https://velog.io/@jeongs/프로그래머스에서-브랜드키트-보내주셨다)|
