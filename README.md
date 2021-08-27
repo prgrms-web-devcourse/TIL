@@ -44,3 +44,5 @@
 | 2021.08.23 | TIL 16일차 | Product List 페이지에 실제 API 연동, JS 기본 개념 정리 API                           | [thstnfla.notion/TIL16](https://www.notion.so/thstnfla/16-TIL-d8d9f6894380426ba76cf00ba3ac4797) |
 | 2021.08.24 | TIL 17일차 | 3주차 과제 구현, TodoApp 만들기 실습                                                 | [thstnfla.notion/TIL17](https://www.notion.so/thstnfla/17-TIL-a03dbcd0504b47408efce0ce7f543ae9) |
 | 2021.08.25 | TIL 18일차 | TodoApp 만들기 실습, 텍스트 자동 저장 편집기 만들기                                  | [thstnfla.notion/TIL18](https://www.notion.so/thstnfla/18-TIL-ec30a0b676764cbcb791d222796b098d) |
+| 2021.08.26 | TIL 19일차 | 3주차 과제 리팩토리 및 디벨롭                                                        | [thstnfla.notion/TIL19](https://www.notion.so/thstnfla/19-TIL-4a2a65dd56e94a1cb687e0ad4847f797) |
+| 2021.08.27 | TIL 20일차 | 4주차 과제 Notion API Request 구현                                                   | [thstnfla.notion/TIL20](https://www.notion.so/thstnfla/20-TIL-503cb3c39799459cb8fcdbd1b6237075) |
