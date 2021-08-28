@@ -1,7 +1,6 @@
 | 날짜 | 제목  | 설명              | 링크     |
 | ---- | ----- | ----------------- | -------- |
-| 2021-08-02 | 가비지 컬렉션 | JS의 garbage collection에 대해 | [링크](https://42kim.github.io/TIL/js_garbage_collection/) |
-| 2021-08-03 | 클로저 | JS의 closure 이해하기 | [링크](https://42kim.github.io/TIL/js_closure/) |
-| 2021-08-06 | WIF | Weekly I Felt. 진짜 일기. | [링크](https://42kim.github.io/etc/W1/) |
-| 2021-08-11 | 함수형 프로그래밍 준비하기 | 함수형 프로그래밍 관련 지식 정리 | [링크](https://42kim.github.io/TIL/func_programming_1/) |
-| 2021-08-14 | WIF | Weekly I Felt 2주차 | [링크](https://42kim.github.io/etc/W2/) |
+| 2021-08-14 | this | JS의 this에 대해 | [링크](https://42kim.github.io/TIL/js_this/) |
+| 2021-08-20 | WIF | Weekly I Felt 3주차 | [링크](https://42kim.github.io/etc/W3/) |
+| 2021-08-27 | 실행 컨텍스트 | JS의 실행 컨텍스트에 대해 | [링크](https://42kim.github.io/TIL/js_executioncontext/) |
+| 2021-08-28 | WIF | Weekly I Felt 4주차 | [링크](https://42kim.github.io/etc/W4/) |
