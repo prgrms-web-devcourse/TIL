@@ -35,4 +35,4 @@
 
 - 말보단 행동을!!
 
-![3주차 TIL](https://raspy-emery-991.notion.site/3-TIL-6164658488694b35abeea4d5afb27e4e)
+이번주도 지렸다..
