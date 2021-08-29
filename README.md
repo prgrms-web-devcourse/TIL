@@ -43,3 +43,6 @@
 | 2021.08.19 | javascript    | 비동기 처리와 Promise                                 | [링크](https://velog.io/@yes3427/JavaScript-Async-and-Promise)          |
 | 2021.08.19 | javascript    | 함수 호출 방식에 의해 결정되는 this                   | [링크](https://velog.io/@yes3427/JavaScript-this)                       |
 | 2021.08.21 | CORS          | CORS가 도대체 뭐야?                                   | [링크](https://velog.io/@yes3427/What-is-CORS)                          |
+| 2021.08.29 | javascript    | 이벤트 위임과 버블링                                  | [링크](https://velog.io/@yes3427/event-delegation-bubbling)             |
+| 2021.08.29 | TIL Day4      | validation과 verification 차이                        | [링크](https://velog.io/@yes3427/TIL-DAY4-validation-verification)      |
+| 2021.08.29 | javascript    | 함수형 프로그래밍이란?                                | [링크](https://velog.io/@yes3427/JavaScript-fuctional-programming)      |
