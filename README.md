@@ -37,4 +37,4 @@
 
 |--|---|---|---|---|
 |1|210820|8월 회고|KDT 수료과정 3주차에 진행하는 회고|[링크](https://velog.io/@rlacksals96/8%EC%9B%94-%ED%9A%8C%EA%B3%A0)|
-|2|210828| 브랜드 키트 리뷰|프로그래머스 브랜드 키트 언박싱 및 리뷰|[링크](https://velog.io/@rlacksals96/%EB%A6%AC%EB%B7%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%82%A4%ED%8A%B8)
+|2|210828| 브랜드키트 리뷰|프로그래머스 브랜드 키트 언박싱 및 리뷰|[링크](https://velog.io/@rlacksals96/%EB%A6%AC%EB%B7%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%82%A4%ED%8A%B8)
