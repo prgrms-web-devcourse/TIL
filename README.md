@@ -32,3 +32,9 @@
 - 08-03 | Day 2 | 쿠키와 세션에 관심이 갑니다. | [링크](https://velog.io/@alang/TIL-Day-2)
 - 08-04 | Day 3 | 문제에 따른 자료구조 구현방식 선택의 중요성을 알았습니다. | [링크](https://velog.io/@alang/TIL-Day-3)
 - 08-05~06 | Day 4~5 | 한주가 금방 지나갔습니다. | [링크](https://velog.io/@alang/Week-1%EC%9D%84-%EB%A7%88%EB%AC%B4%EB%A6%AC%ED%95%98%EB%A9%B0)
+
+### Week 2
+
+- 08-09 | Day 1 | Generator, Iterator에 대해 처음 알았습니다 | [링크](https://velog.io/@alang/TIL-W2-Day-1)
+- 08-10~11 | Day 2~3 | 지연성의 의미를 알았습니다 | [링크](https://velog.io/@alang/TIL-W2-Day23)
+- 08-12~13 | Day 4~5 | 함수형 프로그래밍의 매력은 어마어마하네요 | [링크](https://velog.io/@alang/TIL-W2-Day45)
