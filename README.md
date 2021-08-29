@@ -34,6 +34,7 @@
 🤔 주차 별 Velog 회고
 | 날짜 | 주제 | 한 줄 내용 | Link |
 | ---- | ----- | ----------------- | -------- |
+| 8월 26일 | 🥔week4 | 4주차 회고 | [링크](https://velog.io/@minsgy/week4-%ED%94%84-%EC%A0%9D-%EC%A1%B0-%EC%95%84) |
 | 8월 19일 | 🥔week3 | 3주차 회고 | [링크](https://velog.io/@minsgy/week3-%EC%9D%B4-%ED%8C%A8%ED%84%B4%EC%9D%80-%EB%A7%B5%EB%8B%A8%EB%A7%B5%EB%8B%A8) |
 | 8월 13일 | 🥔week2 | 2주차 회고 | [링크](https://velog.io/@minsgy/week2-FP%EB%9D%BC%EB%8A%94-%EC%8B%A0%EC%84%B8%EA%B3%84) |
 | 8월 6일 | 🥔week1 | 1주차 회고 | [링크](https://velog.io/@minsgy/Week1-%EB%82%B4%EA%B0%80-%EA%B8%B0%EC%B4%88%EC%98%80%EB%8B%A4) |
