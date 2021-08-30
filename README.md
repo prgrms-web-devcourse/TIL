@@ -23,5 +23,4 @@
 | 08.15 | 폭풍전야의 2주차   | 데브코스 2주차 정리                        | [링크](https://pingpongdev.tistory.com/12) |
 | 08.15 | 함께 자라기를 읽고 | 독서 스터디 책인 함께 자라기를 읽은 독후감 | [링크](https://pingpongdev.tistory.com/9)  |
 | 08.21 | 태풍 주의보 발령   | 데브코스 3주차 정리                        | [링크](https://pingpongdev.tistory.com/15) |
-
-
+| 08.30 | 태풍과 피해복구    | 데브코스 4주차 정리                        | [링크](https://pingpongdev.tistory.com/16) |
