@@ -29,3 +29,19 @@
 
 [210819](https://velog.io/@khw970421/TIL-11%EC%9D%BC%EC%B0%A8)
 >비동기 처리 
+
+[210820](https://velog.io/@khw970421/TIL-12%EC%9D%BC%EC%B0%A8)
+>fetch 특징
+
+
+[210823](https://velog.io/@khw970421/TIL-13%EC%9D%BC%EC%B0%A8)
+>SPA / MPA , CSR / SSR
+
+[210824](https://velog.io/@khw970421/TIL-14%EC%9D%BC%EC%B0%A8)
+>이벤트 위임 / 낙관적 업데이트
+
+[210827](https://velog.io/@khw970421/TIL-15%EC%9D%BC%EC%B0%A8)
+>encodeURI / decodeURI
+
+[210828](https://velog.io/@khw970421/TIL-16%EC%9D%BC%EC%B0%A8)
+>백틱 / spread 연산자 / 디바운스
