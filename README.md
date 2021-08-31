@@ -11,6 +11,7 @@
 |2021-08-19|[TIL] 09|JS / 모듈(Module) |[Day14](https://velog.io/@kimin3004/TIL-082021-08-19-%EB%AA%A8%EB%93%88)|
 |2021-08-20|[회고]|첫번째 회고 |[Day15](https://sequoia-eggnog-96f.notion.site/c9caadbb51ce4f0eac44e55710416fa0)|
 |2021-08-24|[TIL] 10|SPA, SSR, CSR |[Day17](https://velog.io/@kimin3004/TIL-10SPA-SSR-CSR)|
+|2021-08-31|[TIL] 11|Hashbang, History API |[Day22](https://velog.io/@kimin3004/TIL-11JS-Hashbang-history-API)|
 
 
 
