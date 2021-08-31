@@ -46,9 +46,8 @@
 | 2021-08-18 | Day13 | VanillaJS (2)                                   | [링크](https://ghost4551.tistory.com/131) |
 | 2021-08-19 | Day14 | VanillaJS (3) - callback, Promise, async, await | [링크](https://ghost4551.tistory.com/134) |
 | 2021-08-20 | Day15 | VanillaJS (4) - fetch api                       | [링크](https://ghost4551.tistory.com/137) |
-
-| 2021-08-23 | Day16 | VanillaJS (5) - spa, history api | [링크](https://ghost4551.tistory.com/138) |
-| 2021-08-24 | Day17 | VanillaJS (6) - TodoApp실습(1) | [링크](https://ghost4551.tistory.com/140) |
+| 2021-08-23 | Day16 | VanillaJS (5) - spa, history api                | [링크](https://ghost4551.tistory.com/138) |
+| 2021-08-24 | Day17 | VanillaJS (6) - TodoApp실습(1)                  | [링크](https://ghost4551.tistory.com/140) |
 | 2021-08-25 | Day18 | VanillaJS (7) - 낙관적 업데이트, TodoApp실습(2) | [링크](https://ghost4551.tistory.com/141) |
 | 2021-08-26 | Day19 | VanillaJS (8) - 자동 저장 편집기 만들기 실습(1) | [링크](https://ghost4551.tistory.com/142) |
 
