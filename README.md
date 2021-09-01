@@ -11,6 +11,8 @@
 | 2021-08-17 | Day12      | 명령형과 선언형                | [링크](https://velog.io/@flareon/TIL-Day10)    |
 | 2021-08-18 | Day13      | 로컬,세션 스토리지             | [링크](https://velog.io/@flareon/TIL-Day-13)   |
 | 2021-08-19 | Day14      | Module, 비동기처리             | [링크](https://velog.io/@flareon/TIL-Day-14)   |
+| 2021-08-19 | Day19      | 개인 프로젝트 시작             | [링크](https://velog.io/@flareon/TIL-Day-19)   |
+| 2021-08-19 | Day20      | 노션 클로닝 진행중             | [링크](https://velog.io/@flareon/TIL-Day-20)   |
 
 ## 🚀 진행방법
 
