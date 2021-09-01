@@ -1,10 +1,16 @@
 # 💻 프로그래머스 웹 데브코스 김정호의 TIL
 
-| 날짜       | 제목  | 설명                 | 링크                                        |
-| ---------- | ----- | -------------------- | ------------------------------------------- |
-| 2021-08-02 | 제목1 | Hoisting에 대해      | [링크](https://velog.io/@flareon/TIL-Day-1) |
-| 2021-08-04 | 제목1 | Day3 느낀점          | [링크](https://velog.io/@flareon/TIL-DAY3)  |
-| 2021-08-06 | 제목1 | Day5 학습내용,느낀점 | [링크](https://velog.io/@flareon/TIL-Day5)  |
+| 날짜       | 제목       | 설명                           | 링크                                           |
+| ---------- | ---------- | ------------------------------ | ---------------------------------------------- |
+| 2021-08-02 | Day1       | Hoisting에 대해                | [링크](https://velog.io/@flareon/TIL-Day-1)    |
+| 2021-08-04 | Day3       | Day3 느낀점                    | [링크](https://velog.io/@flareon/TIL-DAY3)     |
+| 2021-08-06 | Day5       | Day5 학습내용,느낀점           | [링크](https://velog.io/@flareon/TIL-Day5)     |
+| 2021-08-09 | Day6       | Day6 학습내용,느낀점           | [링크](https://velog.io/@flareon/TIL-Day-6)    |
+| 2021-08-14 | 일기       | 힘들었던 2주차 느낀점          | [링크](https://velog.io/@flareon/TIL)          |
+| 2021-08-16 | 2주차 정리 | 2주차에 배운것,느낀점 간단정리 | [링크](https://velog.io/@flareon/TIL-xpdapdi6) |
+| 2021-08-17 | Day12      | 명령형과 선언형                | [링크](https://velog.io/@flareon/TIL-Day10)    |
+| 2021-08-18 | Day13      | 로컬,세션 스토리지             | [링크](https://velog.io/@flareon/TIL-Day-13)   |
+| 2021-08-19 | Day14      | Module, 비동기처리             | [링크](https://velog.io/@flareon/TIL-Day-14)   |
 
 ## 🚀 진행방법
 
