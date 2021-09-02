@@ -67,6 +67,11 @@
 |21.08.24|[TIL] 0824 JDBC (Java Database Connectivity)|JDBC 배운 내용|[링크](https://daisy-day.tistory.com/220)|
 |21.08.25|[TIL] 0825|JDBC 외 여러개|[링크](https://velog.io/@heehee/TIL-0825)|
 |21.08.26|[TIL] 0826|DataBase, 트랜잭션|[링크](https://velog.io/@heehee/TIL-0826)|
+|21.08.27|[TIL] 0827|데브코스 20일차 TIL|[링크](https://odd-twist-58c.notion.site/20-TIL-349dd1a62efa4cbea11a596d62c005d7)|
+|21.08.30|[TIL] 0830|데브코스 21일차 TIL|[링크](https://odd-twist-58c.notion.site/21-TIL-19e2137e3ab14a4a9a849e5dafd3f15a)|
+|21.08.31|[TIL] 0826|데브코스 22일차 TIL|[링크](https://odd-twist-58c.notion.site/22-TIL-715c7266ee924475a7996c26c35d3c21)|
+|21.09.01|[TIL] 0826|데브코스 23일차 TIL|[링크](https://odd-twist-58c.notion.site/23-TIL-0978bfde2fa949648ac11f9d8a7f521f)|
+|21.09.02|[TIL] 0826|데브코스 24일차 TIL|[링크](https://odd-twist-58c.notion.site/24-TIL-e73413065b92430399de46cc0ede0360)|
 
 
 ## 📕 아티클
