@@ -43,3 +43,6 @@
 | 8월 25일 | 18일차 TIL | 이벤트 버블링, 디바운스                                    | [링크](https://velog.io/@alajillo/Day.18-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B82021.08.25)          |
 | 8월 26일 | 19일차 TIL | 노션클론코딩 소감                                          | [링크](https://velog.io/@alajillo/Day.19-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A92021.08.26)                                    |
 | 8월 27일 | 20일차 TIL | 노션클론코딩 중간완성 및 소감                              | [링크](https://velog.io/@alajillo/Day.20-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A92021.08.27)                                    |
+| 8월 31일 | 22일차 TIL | 노션클론코딩 중간완성 및 소감                              | [링크](https://velog.io/@alajillo/Day.21-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A92021.08.31)                                    |
+| 9월 2일  | 24일차 TIL | 노션클론코딩 중간완성 및 소감                              | [링크](https://velog.io/@alajillo/Day.24-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A92021.09.02)                                    |
+| 9월 3일  | 25일차 TIL | 노션클론코딩 최종완성 및 소감                              | [링크](https://velog.io/@alajillo/Day.25-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A92021.09.03)                                    |
