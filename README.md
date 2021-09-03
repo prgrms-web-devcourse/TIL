@@ -16,3 +16,9 @@
 - [8월 17일](https://velog.io/@wherehows/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 - [8월 18일](https://velog.io/@wherehows/for%EB%AC%B8%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [8월 21일](https://github.com/wherehows/study/blob/master/Computer%20Science/HTTP/2%EC%9E%A5_URL%EA%B3%BC%20%EB%A6%AC%EC%86%8C%EC%8A%A4.pdf)
+
+> 4주차
+- [9월 1일](https://github.com/wherehows/study/blob/master/JAVASCRIPT/20%EC%9E%A5_strict%EB%AA%A8%EB%93%9C.pdf);
+- [9월 1일](https://github.com/wherehows/study/blob/master/JAVASCRIPT/21%EC%9E%A5_%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4.pdf);
+- [9월 1일](https://github.com/wherehows/study/blob/master/JAVASCRIPT/47%EC%9E%A5_%EC%97%90%EB%9F%AC%20%EC%B2%98%EB%A6%AC.pdf);
+- [9월 3일](https://github.com/wherehows/study/blob/master/ETC/HTML%20TAG.pdf);
