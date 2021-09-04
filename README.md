@@ -24,4 +24,4 @@
 - [9월 3일](https://github.com/wherehows/study/blob/master/ETC/HTML%20TAG.pdf);
 
 > 5주차
-- [9월 5일](https://github.com/wherehows/study/blob/master/ETC/template%26fragement%26innerHTML%26innerText%26textContent.pdf);
+- [9월 5일](https://github.com/wherehows/study/blob/master/ETC/template%26fragement%26innerHTML%26innerText%26textContent.pdf); 
