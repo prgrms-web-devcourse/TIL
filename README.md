@@ -22,3 +22,6 @@
 - [9월 1일](https://github.com/wherehows/study/blob/master/JAVASCRIPT/21%EC%9E%A5_%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4.pdf);
 - [9월 1일](https://github.com/wherehows/study/blob/master/JAVASCRIPT/47%EC%9E%A5_%EC%97%90%EB%9F%AC%20%EC%B2%98%EB%A6%AC.pdf);
 - [9월 3일](https://github.com/wherehows/study/blob/master/ETC/HTML%20TAG.pdf);
+
+> 5주차
+- [9월 5일](https://github.com/wherehows/study/blob/master/ETC/template%26fragement%26innerHTML%26innerText%26textContent.pdf);
