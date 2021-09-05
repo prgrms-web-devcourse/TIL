@@ -46,3 +46,6 @@
 | 2021.08.29 | javascript    | 이벤트 위임과 버블링                                  | [링크](https://velog.io/@yes3427/event-delegation-bubbling)             |
 | 2021.08.29 | TIL Day4      | validation과 verification 차이                        | [링크](https://velog.io/@yes3427/TIL-DAY4-validation-verification)      |
 | 2021.08.29 | javascript    | 함수형 프로그래밍이란?                                | [링크](https://velog.io/@yes3427/JavaScript-fuctional-programming)      |
+| 2021.09.04 | TIL Day4      | 하루의 조각들                                         | [링크](https://velog.io/@yes3427/TIL-DAY3-Daily-Plan)                   |
+| 2021.09.05 | 웹            | CSR과 SSR                                             | [링크](https://velog.io/@yes3427/web-CSR-SSR)                           |
+| 2021.09.05 | 문제풀이      | [프로그래머스] 올바른 괄호                            | [링크](https://velog.io/@yes3427/programmers-correct-bracket)           |
