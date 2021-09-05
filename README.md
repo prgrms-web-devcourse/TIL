@@ -30,4 +30,13 @@
 | 2021.08.19 | TIL-014 | 병렬적 평가                 | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0817-n0pbtu5d) |
 | 2021.08.20 | TIL-015 | async/await | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0818) |
 | 2021.08.21 | TIL-016 | 이터러블 프로그래밍 응용 | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0821) |
-| 2021.08.22 | TIL-017 | module과 Promise | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0822) |
+| 2021.08.22 | TIL-017 | module과 Promise                  | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0822) |
+| 2021.08.23 | TIL-018 | fetch API                         | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0823) |
+| 2021.08.24 | TIL-019 | SPA와 hashbang                    | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0824) |
+| 2021.08.25 | TIL-020 | state                             | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0825) |
+| 2021.08.26 | TIL-021 | try-catch와 new.target            | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0825-a73bnek8) |
+| 2021.08.30 | TIL-022 | 낙관적 업데이트                   | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0830) |
+| 2021.08.31 | TIL-023 | 디바운싱과 커스텀 이벤트 디스패치 | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0830-p2re5dfa) |
+| 2021.09.03 | TIL-024 | prepend                           | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0829) |
+| 2021.09.05 | TIL-025 | scope & clouser                   | [링크](https://velog.io/@hyo_o/TIL%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-0905) |
+
