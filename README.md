@@ -80,5 +80,11 @@
 
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|2021.08.23 - 2021.08.24|KDT 프론트엔드 week4|희진이의 개발일기|[링크](https://velog.io/@chloe41297/KDT-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-week4)|
+|2021.08.23 - 2021.08.27|KDT 프론트엔드 week4|희진이의 개발일기|[링크](https://velog.io/@chloe41297/KDT-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-week4)|
 |2021.08.24|TCP와 UDP|스터디 자료|[링크](https://velog.io/@chloe41297/TCP%EC%99%80-UDP)|
+
+## 📌 week5
+
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|2021.08.30 - 2021.09.03|week5 TIL|Noton cloneing project와 지금까지의 과정에 대한 회고록|[링크](https://velog.io/@chloe41297/KDT-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-week5)|
