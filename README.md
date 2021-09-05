@@ -37,6 +37,8 @@
 |2021-08-16|데브코스 WEEK2 마무리|2주차 마무리 소감| [링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-WEEK2-%EB%A7%88%EB%AC%B4%EB%A6%AC) |
 |2021-08-16|데브코스 13일차 TIL : ToDoList 웹 만들기|ToDoList 소감 및 새로 배운 내용 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-13%EC%9D%BC%EC%B0%A8-TIL-ToDoList-%EC%9B%B9-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
 |2021-08-20|데브코스 WEEK3 마무리|WEEK3 회고 및 소감|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-WEEK3-%EB%A7%88%EB%AC%B4%EB%A6%AC)|
+|2021-08-23|데브코스 16일차 TIL : history API|day 16 배운 내용 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-16%EC%9D%BC%EC%B0%A8-TIL-history-API)|
+|2021-08-24|데브코스 17일차 TIL : 잘하는 개발자|day 17 배운 내용 및 소감|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-17%EC%9D%BC%EC%B0%A8-TIL)|
 ---
 <br>
 
@@ -48,3 +50,4 @@
 |2021-08-08|데브코스 1주차 스터디: 웹 스토리지|웹스토리지와 IndexedDB|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9B%B9-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80)|
 |2021-08-15| 데브코스 2주차 스터디: 프로세스와 스레드 | 프로세스와 스레드의 정의와 웹에서의 구성방식 | [링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%84%B0%EB%94%94-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C) |
 |2021-08-22|데브코스 3주차 스터디|개발자도구의 Network탭 기능 살펴보기|[링크](https://velog.io/@te-ing/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84%EA%B5%AC-Network%ED%83%AD-%EC%B4%9D%EC%A0%95%EB%A6%AC)|
+|2021-08-29|자바스크립트 Validation && dataset|validation, dataset 정리|[링크](https://velog.io/@te-ing/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Validation-%EA%B3%BC-dataset)|
