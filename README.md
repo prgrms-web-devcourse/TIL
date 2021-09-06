@@ -13,3 +13,6 @@
 |2021.08.21|함수형 프로그래밍|go / pipe / curry, 함수형의 조합|[링크](https://velog.io/@krungy/TIL21.8.21)|
 |2021.08.22|VanillaJS|토글 버튼 만들기|[링크](https://velog.io/@krungy/TIL21.08.22)|
 |2021.08.23|VanillaJS|Simple ToDo List|[링크](https://velog.io/@krungy/TIL21.08.23)|
+|2021.08.30|VanillaJS|API, 비동기 (Promise, async / await)|[링크](https://velog.io/@krungy/TIL21.08.30)|
+|2021.08.31|VanillaJS|Fetch API|[링크](https://velog.io/@krungy/TIL21.08.31)|
+|2021.09.06|CSS|Float, Position, Flex, Grid|[링크](https://velog.io/@krungy/TIL21.09.06)|
