@@ -10,9 +10,12 @@
 |2021.08.11|함수형 프로그래밍|평가와 일급 / 고차함수, ES6 에서의 순회와 이터러블|[링크](https://velog.io/@krungy/TIL21.8.11)|
 |2021.08.17|함수형 프로그래밍|제너레이터 / 이터레이터, map / filter / reduce|[링크](https://velog.io/@krungy/TIL21.8.17)|
 |2021.08.18|VanillaJS|var / let / const, 클로저, 명령형 / 선언형 프로그래밍|[링크](https://velog.io/@krungy/TIL21.8.18)|
+|2021.08.20|회고|프로그래머스 데브코스 회고 #3주차|[링크](https://velog.io/@krungy/프로그래머스-데브코스-회고-3)|
 |2021.08.21|함수형 프로그래밍|go / pipe / curry, 함수형의 조합|[링크](https://velog.io/@krungy/TIL21.8.21)|
 |2021.08.22|VanillaJS|토글 버튼 만들기|[링크](https://velog.io/@krungy/TIL21.08.22)|
 |2021.08.23|VanillaJS|Simple ToDo List|[링크](https://velog.io/@krungy/TIL21.08.23)|
 |2021.08.30|VanillaJS|API, 비동기 (Promise, async / await)|[링크](https://velog.io/@krungy/TIL21.08.30)|
+|2021.08.31|회고|프로그래머스 데브코스 회고 #4주차|[링크](https://velog.io/@krungy/프로그래머스-데브코스-회고-4)|
 |2021.08.31|VanillaJS|Fetch API|[링크](https://velog.io/@krungy/TIL21.08.31)|
+|2021.09.05|회고|프로그래머스 데브코스 회고 #5주차|[링크](https://velog.io/@krungy/프로그래머스-데브코스-회고-5)|
 |2021.09.06|CSS|Float, Position, Flex, Grid|[링크](https://velog.io/@krungy/TIL21.09.06)|
