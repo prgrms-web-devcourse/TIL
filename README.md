@@ -17,4 +17,11 @@
 |2021-08-19|TIL-day14|비동기-callback, promise async&await|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-TIL-day14-%EB%AA%A8%EB%93%88-promiseasyncawait)|
 |2021-08-20|TIL-day15|fetch api(초간단)|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-TIL-day15-fetch-api%ED%9A%8C%EA%B3%A0)|
 |2021-08-20|TIL-day15|회고|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EA%B0%84%EC%9D%98-%ED%9A%8C%EA%B3%A0)|
-
+|2021-08-24|TIL-day16|데브코스 - day 16 history api|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-day-16-history-api)|
+|2021-08-27|TIL-day17|데브코스 til 17,18 - 마주친 버그종류 && 프로젝트 다짐|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-til-1718-%EB%A7%88%EC%A3%BC%EC%B9%9C-%EB%B2%84%EA%B7%B8%EC%A2%85%EB%A5%98-%EB%85%B8%EC%85%98%ED%81%B4%EB%A1%9C%EB%8B%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B4%EC%84%9C)|
+|2021-08-28|프로젝트-day1|데브코스 - 첫번째 프로젝트 - 노션클로닝 - 1일차|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%85%B8%EC%85%98%ED%81%B4%EB%A1%9C%EB%8B%9D-1%EC%9D%BC%EC%B0%A8-8jrz0ix0)|
+|2021-08-29|프로젝트-day2|데브코스 - 첫번째 프로젝트 - 노션클로닝 - 2일차|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%85%B8%EC%85%98%ED%81%B4%EB%A1%9C%EB%8B%9D-2%EC%9D%BC%EC%B0%A8)|
+|2021-08-30|프로젝트-day3|데브코스 - 첫번째 프로젝트 - 노션클로닝 - 3일차|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%85%B8%EC%85%98%ED%81%B4%EB%A1%9C%EB%8B%9D-3%EC%9D%BC%EC%B0%A8)|
+|2021-09-01|프로젝트-day4|데브코스 - 첫번째 프로젝트 - 노션클로닝 - 4일차|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%85%B8%EC%85%98%ED%81%B4%EB%A1%9C%EB%8B%9D-4%EC%9D%BC%EC%B0%A8)|
+|2021-09-02|프로젝트-day5|데브코스 - 첫번째 프로젝트 - 노션클로닝 - 5일차|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%85%B8%EC%85%98%ED%81%B4%EB%A1%9C%EB%8B%9D-5%EC%9D%BC%EC%B0%A8)|
+|2021-09-03|프로젝트-day6|데브코스 - 첫번째 프로젝트 - 노션클로닝 - 6일차|[링크](https://velog.io/@jzo09/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%85%B8%EC%85%98%ED%81%B4%EB%A1%9C%EB%8B%9D-6%EC%9D%BC%EC%B0%A8)|
