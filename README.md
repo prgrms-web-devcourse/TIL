@@ -30,3 +30,12 @@
 |2021.08.16|[TIL] 데브코스 W3D1|Spring vs Spring Framework vs Spring Boot|[링크](https://velog.io/@jummi10/TIL-devcourse-W3D1)|
 |2021.08.17|[TIL] 데브코스 W3D2|DDD|[링크](https://velog.io/@jummi10/TIL-devcourse-W3D2)|
 |2021.08.20|[TIL] 데브코스 W3D5|Logging|[링크](https://velog.io/@jummi10/TIL-W3D5-Logging)|
+
+### Week 4
+
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|2021.08.23|[TIL] 데브코스 W4D1|Test|[링크](https://velog.io/@jummi10/TIL-devcourse-W4D1-Test)|
+|2021.08.24|[TIL] 데브코스 W4D2|SQL Dialect|[링크](https://velog.io/@jummi10/TIL-devcourse-W4D2-SQL-Dialect)|
+|2021.08.26|[TIL] 데브코스 W4D4|NamedParameterJdbcTemplate|[링크](https://velog.io/@jummi10/TIL-W4D4-NamedParameterJdbcTemplate)|
+|2021.08.27|[TIL] 데브코스 W4D5|AOP, Transaction|[링크](https://velog.io/@jummi10/TIL-W4D5-AOP-Transaction)|
