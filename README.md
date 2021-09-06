@@ -29,6 +29,7 @@
 
 ## 🔥 TIL
 
+### 8월
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |21-08-02|JS 기초 문법|JS 기본 문법 정리|[Week1 - Mon](https://velog.io/@jeongs/TIL-JS-기초-문법)|
@@ -41,7 +42,10 @@
 |21-08-21|2 ~ 3 주차 회고|회고록|[Week3 - Sat](https://velog.io/@jeongs/1-2주차-회고)|
 |21-08-26|Vanila JS 기본역량 2|싱글 스레드, 비동기, fetch API, history API...|[Week4 - Thu](https://velog.io/@jeongs/TIL-Vanila-JS-기본-역량-2)|
 
-
+### 9월
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|21-09-01|노션 클로닝|노션 프로젝트 고뇌록|[Week5 - Wed](https://velog.io/@jeongs/TIL-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%9C%EB%8B%9D)|
 
 ## 📃 ARTICLE
 |날짜|제목|설명|링크|
@@ -50,11 +54,18 @@
 |21-08-17|가깝지만 먼 당신...this|this와 바인딩, call, apply, bind 메서드|[Week3 - Tue](https://velog.io/@jeongs/ARTICLE-가깝지만-먼-당신...-this)|
 |21-08-18|실행 컨텍스트|실행컨텍스트, 환경정보, 렉시컬 환경, 식별자 정보, 외부환경정보, 호이스팅|[Week3 - Wed](https://velog.io/@jeongs/ARTICLE-실행-컨텍스트)|
 |21-08-21|클로저|실행컨텍스트, 스코프 체이닝, 메모리 관리, 콜백함수|[Week3 - Sat](https://velog.io/@jeongs/ARTICLE-클로저)|
-|21-08-25|DOM Events|event, on 이벤트, addEventListener, event flow|[Week4 - Wed](https://velog.io/@jeongs/ARTICLE-DOM-Events)|
+
 ## 💻 CS STUDY
+### 8월
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |21-08-13|네트워크, OSI 7 계층 그림과 함께 이해하기|네트워크, OSI 7 계층, TCP/IP|[Week2 - Fri](https://velog.io/@jeongs/네트워크-OSI-7-계층-그림과-함께-이해하기)|
+|21-08-25|DOM Events|event, on 이벤트, addEventListener, event flow|[Week4 - Wed](https://velog.io/@jeongs/ARTICLE-DOM-Events)|
+
+### 9월
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|21-09-04|변수|메모리, 변수, 참조타입|[Week5 - Sat](https://velog.io/@jeongs/ARTICLE-%EB%B3%80%EC%88%98)|
 
 ## 👀 REVIEW
 |날짜|제목|설명|링크|
