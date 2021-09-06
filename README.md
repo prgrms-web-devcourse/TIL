@@ -22,3 +22,11 @@
 |2021.08.11|[TIL] 데브코스 W2D3|SELECT, GROUP BY 실습|[링크](https://velog.io/@jummi10/TIL-devcourse-W2D3)|
 |2021.08.12|[TIL] 데브코스 W2D4|INSERT, UPDATE, DELETE, JOIN 실습|[링크](https://velog.io/@jummi10/TIL-devcourse-W2D4)|
 |2021.08.13|[TIL] 데브코스 W2D5|트랜잭션, View, Stored Procedure 실습|[링크](https://velog.io/@jummi10/TIL-devcourse-W2D5)|
+
+### Week 3
+
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|2021.08.16|[TIL] 데브코스 W3D1|Spring vs Spring Framework vs Spring Boot|[링크](https://velog.io/@jummi10/TIL-devcourse-W3D1)|
+|2021.08.17|[TIL] 데브코스 W3D2|DDD|[링크](https://velog.io/@jummi10/TIL-devcourse-W3D2)|
+|2021.08.20|[TIL] 데브코스 W3D5|Logging|[링크](https://velog.io/@jummi10/TIL-W3D5-Logging)|
