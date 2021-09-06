@@ -46,6 +46,7 @@
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |21-09-01|노션 클로닝|노션 프로젝트 고뇌록|[Week5 - Wed](https://velog.io/@jeongs/TIL-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%9C%EB%8B%9D)|
+|21-09-06|CSS 심화(float, position, flex, grid)|float, position, flex, grid, BEM|[Week6 - Mon](https://velog.io/@jeongs/TIL-CSS-%EC%8B%AC%ED%99%94float-position-flex-grid)|
 
 ## 📃 ARTICLE
 |날짜|제목|설명|링크|
