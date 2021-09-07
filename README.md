@@ -29,27 +29,29 @@
 
 ## ✏TIL - 일기
 
-| 날짜       | 제목  | 설명                                            | 링크                                      |
-| ---------- | ----- | ----------------------------------------------- | ----------------------------------------- |
-| 2021-08-02 | Day1  | JS기초(1)                                       | [링크](https://ghost4551.tistory.com/119) |
-| 2021-08-03 | Day2  | JS기초(2)                                       | [링크](https://ghost4551.tistory.com/120) |
-| 2021-08-04 | Day3  | 자료구조&알고리즘(1)                            | [링크](https://ghost4551.tistory.com/121) |
-| 2021-08-05 | Day4  | 자료구조&알고리즘(2)                            | [링크](https://ghost4551.tistory.com/122) |
-| 2021-08-06 | Day5  | 자료구조&알고리즘 문제풀이                      | [링크](https://ghost4551.tistory.com/123) |
-| 2021-08-09 | Day6  | 스터디는 왜 할까?                               | [링크](https://ghost4551.tistory.com/124) |
-| 2021-08-10 | Day7  | 코드리뷰 방식 정하기,함수형프로그래밍1          | [링크](https://ghost4551.tistory.com/125) |
-| 2021-08-11 | Day8  | 함수형프로그래밍2                               | [링크](https://ghost4551.tistory.com/126) |
-| 2021-08-12 | Day9  | 함수형프로그래밍3                               | [링크](https://ghost4551.tistory.com/127) |
-| 2021-08-13 | Day10 | 과제 및 특강                                    | [링크](https://ghost4551.tistory.com/128) |
-| 2021-08-16 | Day11 | 프로젝트 관리 방법론                            | [링크](https://ghost4551.tistory.com/129) |
-| 2021-08-17 | Day12 | 특강 및 VanillaJS (1)                           | [링크](https://ghost4551.tistory.com/130) |
-| 2021-08-18 | Day13 | VanillaJS (2)                                   | [링크](https://ghost4551.tistory.com/131) |
-| 2021-08-19 | Day14 | VanillaJS (3) - callback, Promise, async, await | [링크](https://ghost4551.tistory.com/134) |
-| 2021-08-20 | Day15 | VanillaJS (4) - fetch api                       | [링크](https://ghost4551.tistory.com/137) |
-| 2021-08-23 | Day16 | VanillaJS (5) - spa, history api                | [링크](https://ghost4551.tistory.com/138) |
-| 2021-08-24 | Day17 | VanillaJS (6) - TodoApp실습(1)                  | [링크](https://ghost4551.tistory.com/140) |
-| 2021-08-25 | Day18 | VanillaJS (7) - 낙관적 업데이트, TodoApp실습(2) | [링크](https://ghost4551.tistory.com/141) |
-| 2021-08-26 | Day19 | VanillaJS (8) - 자동 저장 편집기 만들기 실습(1) | [링크](https://ghost4551.tistory.com/142) |
+| 날짜       | 제목     | 설명                                            | 링크                                      |
+| ---------- | -------- | ----------------------------------------------- | ----------------------------------------- |
+| 2021-08-02 | Day1     | JS기초(1)                                       | [링크](https://ghost4551.tistory.com/119) |
+| 2021-08-03 | Day2     | JS기초(2)                                       | [링크](https://ghost4551.tistory.com/120) |
+| 2021-08-04 | Day3     | 자료구조&알고리즘(1)                            | [링크](https://ghost4551.tistory.com/121) |
+| 2021-08-05 | Day4     | 자료구조&알고리즘(2)                            | [링크](https://ghost4551.tistory.com/122) |
+| 2021-08-06 | Day5     | 자료구조&알고리즘 문제풀이                      | [링크](https://ghost4551.tistory.com/123) |
+| 2021-08-09 | Day6     | 스터디는 왜 할까?                               | [링크](https://ghost4551.tistory.com/124) |
+| 2021-08-10 | Day7     | 코드리뷰 방식 정하기,함수형프로그래밍1          | [링크](https://ghost4551.tistory.com/125) |
+| 2021-08-11 | Day8     | 함수형프로그래밍2                               | [링크](https://ghost4551.tistory.com/126) |
+| 2021-08-12 | Day9     | 함수형프로그래밍3                               | [링크](https://ghost4551.tistory.com/127) |
+| 2021-08-13 | Day10    | 과제 및 특강                                    | [링크](https://ghost4551.tistory.com/128) |
+| 2021-08-16 | Day11    | 프로젝트 관리 방법론                            | [링크](https://ghost4551.tistory.com/129) |
+| 2021-08-17 | Day12    | 특강 및 VanillaJS (1)                           | [링크](https://ghost4551.tistory.com/130) |
+| 2021-08-18 | Day13    | VanillaJS (2)                                   | [링크](https://ghost4551.tistory.com/131) |
+| 2021-08-19 | Day14    | VanillaJS (3) - callback, Promise, async, await | [링크](https://ghost4551.tistory.com/134) |
+| 2021-08-20 | Day15    | VanillaJS (4) - fetch api                       | [링크](https://ghost4551.tistory.com/137) |
+| 2021-08-23 | Day16    | VanillaJS (5) - spa, history api                | [링크](https://ghost4551.tistory.com/138) |
+| 2021-08-24 | Day17    | VanillaJS (6) - TodoApp실습(1)                  | [링크](https://ghost4551.tistory.com/140) |
+| 2021-08-25 | Day18    | VanillaJS (7) - 낙관적 업데이트, TodoApp실습(2) | [링크](https://ghost4551.tistory.com/141) |
+| 2021-08-26 | Day19    | VanillaJS (8) - 자동 저장 편집기 만들기 실습(1) | [링크](https://ghost4551.tistory.com/142) |
+| 2021-08-26 | Day20    | VanillaJS (9) - 자동 저장 편집기 만들기 실습(2) | [링크](https://ghost4551.tistory.com/143) |
+| 2021-09-03 | Day21~25 | VanillaJS Notion_Clone 프로젝트                 | [링크](https://ghost4551.tistory.com/144) |
 
 ---
 
