@@ -23,4 +23,10 @@ ___
     - Bean 속성 설정
     - Aggregate & Entity
     - Repository 패턴
+- 20210818 TIL
+  - DI
+  - 컴포넌트 스캔
+  - Autowired
+  - Bean Scope
+  - Bean LifeCycle Callback
 ___
