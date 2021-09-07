@@ -19,3 +19,4 @@
 |2021.08.31|VanillaJS|Fetch API|[링크](https://velog.io/@krungy/TIL21.08.31)|
 |2021.09.05|회고|프로그래머스 데브코스 회고 #5주차|[링크](https://velog.io/@krungy/프로그래머스-데브코스-회고-5)|
 |2021.09.06|CSS|Float, Position, Flex, Grid|[링크](https://velog.io/@krungy/TIL21.09.06)|
+|2021.09.07|VanillaJS|프로젝트 배포 플랫폼|[링크](https://velog.io/@krungy/TIL21.09.07)|
