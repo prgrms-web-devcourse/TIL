@@ -54,5 +54,5 @@
   |W3D1|2021-08-16|SpringBoot Part 1_Day 1|[20210816 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210816%20TIL.md)|
   |W3D2|2021-08-17|SpringBoot Part 1_Day 2|[20210817 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210817%20TIL.md)|
   |W3D3|2021-08-18|SpringBoot Part 1_Day 3|[20210818 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210818%20TIL.md)|
-  |W3D4|2021-08-19|SpringBoot Part 1_Day 4|준비중 [20210819 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210819%20TIL.md)|
+  |W3D4|2021-08-19|SpringBoot Part 1_Day 4|[20210819 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210819%20TIL.md)|
   |W3D5|2021-08-20|SpringBoot Part 1_Day 5|준비중 [20210820 TIL.md](Week%203%20-%20SpringBoot%20Part%201/20210820%20TIL.md)|

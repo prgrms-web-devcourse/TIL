@@ -29,4 +29,9 @@ ___
   - Autowired
   - Bean Scope
   - Bean LifeCycle Callback
+- 20210819 TIL
+  - Enviroment Profile
+  - Properties
+  - YAML 파일로 Properties 작성
+  - Resource
 ___
