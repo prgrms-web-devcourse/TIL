@@ -39,12 +39,6 @@
 |2021-08-20|데브코스 WEEK3 마무리|WEEK3 회고 및 소감|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-WEEK3-%EB%A7%88%EB%AC%B4%EB%A6%AC)|
 |2021-08-23|데브코스 16일차 TIL : history API|day 16 배운 내용 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-16%EC%9D%BC%EC%B0%A8-TIL-history-API)|
 |2021-08-24|데브코스 17일차 TIL : 잘하는 개발자|day 17 배운 내용 및 소감|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-17%EC%9D%BC%EC%B0%A8-TIL)|
-|2021-09-03|데브코스 Notion 클로닝 TIL|모듈, fetch, SPA에 관한 내용 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-Notion-%ED%81%B4%EB%A1%9C%EB%8B%9D-%EA%B8%B0%EB%B3%B8%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%98%EB%8B%A4)|
-|2021-09-04|데브코스 특강 TIL: 어떻게 공부해야 하는가|9월 4일 특강에서 배운 내용 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-9.4-%ED%8A%B9%EA%B0%95-TIL)|
-|2021-09-05|데브코스 노션 클로닝 프로젝트 및 5주차 회고|데브코스 노션 클로닝 프로젝트 및 5주차 회고|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%9C%EB%8B%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%8F-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)|
-|2021-09-06|데브코스 26일차 TIL : CSS 심화|CSS Float, Position, Grid 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-26%EC%9D%BC%EC%B0%A8-TIL-CSS-%EC%8B%AC%ED%99%94)|
-|2021-09-07|데브코스 27일차 TIL : 호스팅|호스팅 서비스 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-27%EC%9D%BC%EC%B0%A8-TIL-%ED%98%B8%EC%8A%A4%ED%8C%85)|
-|2021-09-09|데브코스 28일차 TIL : 자바스크립트 무한스크롤 UI|무한스크롤 및 디바운스, 쓰로틀 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-28%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4-UI)|
 ---
 <br>
 
@@ -57,5 +51,3 @@
 |2021-08-15| 데브코스 2주차 스터디: 프로세스와 스레드 | 프로세스와 스레드의 정의와 웹에서의 구성방식 | [링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%84%B0%EB%94%94-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C) |
 |2021-08-22|데브코스 3주차 스터디|개발자도구의 Network탭 기능 살펴보기|[링크](https://velog.io/@te-ing/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84%EA%B5%AC-Network%ED%83%AD-%EC%B4%9D%EC%A0%95%EB%A6%AC)|
 |2021-08-29|자바스크립트 Validation && dataset|validation, dataset 정리|[링크](https://velog.io/@te-ing/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Validation-%EA%B3%BC-dataset)|
-|2021-09-04|도커, 그리고 컨테이너와 VM|컨테이너, VM, 하이퍼바이저, 도커 정리|[링크](https://velog.io/@te-ing/%EB%8F%84%EC%BB%A4%EC%99%80-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-VM)|
-|2021-09-12|디자인패턴의 정의 (feat MVC, 옵저버패턴)|디자인패턴 정리|[링크](https://velog.io/@te-ing/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)|
