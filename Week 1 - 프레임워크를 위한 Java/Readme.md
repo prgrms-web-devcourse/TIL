@@ -16,7 +16,7 @@ ___
   - 객체 지향의 특성
   - UML
   - 객체 지향 설계
-- 20210804 TIL (미완)
+- 20210804 TIL
   - Interface의 기능
     - 의존성 역전
   - Default Method
@@ -24,6 +24,7 @@ ___
   - 익명 클래스
   - 람다 표현식
   - Method Reference
+  - Generic
 - 20210805 TIL (미완)
   - Collection
   - Iterator
