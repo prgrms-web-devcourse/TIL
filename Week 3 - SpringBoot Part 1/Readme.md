@@ -32,6 +32,10 @@ ___
 - 20210819 TIL
   - Enviroment Profile
   - Properties
-  - YAML 파일로 Properties 작성
+  - YAML Properties 작성
   - Resource
+- 20210820 TIL
+  - Logging
+  - SLF4J
+  - logback
 ___
