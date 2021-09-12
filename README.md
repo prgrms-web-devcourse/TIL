@@ -58,4 +58,4 @@
 |2021-08-22|데브코스 3주차 스터디|개발자도구의 Network탭 기능 살펴보기|[링크](https://velog.io/@te-ing/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84%EA%B5%AC-Network%ED%83%AD-%EC%B4%9D%EC%A0%95%EB%A6%AC)|
 |2021-08-29|자바스크립트 Validation && dataset|validation, dataset 정리|[링크](https://velog.io/@te-ing/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Validation-%EA%B3%BC-dataset)|
 |2021-09-04|도커, 그리고 컨테이너와 VM|컨테이너, VM, 하이퍼바이저, 도커 정리|[링크](https://velog.io/@te-ing/%EB%8F%84%EC%BB%A4%EC%99%80-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-VM)|
-|2021-09-12|디자인패턴의 정의 (feat MVC, 옵저버패턴)|디자인패턴 정리|[링크](https://velog.io/@te-ing/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)|
+|2021-09-12|디자인패턴의 정의 (feat MVC, 옵저버패턴)|디자인패턴 및 MVC, 옵저버패턴 정리|[링크](https://velog.io/@te-ing/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)|
