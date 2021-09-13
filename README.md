@@ -77,3 +77,14 @@
 | 일자    | 제목     | 설명           | 링크                                                                                                                        |
 | ------- | -------- | -------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 9월 6일 | Day16~20 | 노션 클론 코딩 | [링크](https://velog.io/@dasssseul/TIL-Day16205%EC%A3%BC%EC%B0%A8-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9) |
+
+<br/>
+
+### 6주차 TIL
+
+| 일자    | 제목  | 설명                                             | 링크                                            |
+| ------- | ----- | ------------------------------------------------ | ----------------------------------------------- |
+| 9월 6일 | Day21 | CSS 심화(Float)                                  | [링크](https://velog.io/@dasssseul/TIL-Day2196) |
+| 9월 7일 | Day22 | Vercel로 배포하기                                | [링크](https://velog.io/@dasssseul/TIL-Day2297) |
+| 9월 8일 | Day23 | 무한 스크롤(Scroll Event, Intersection Observer) | [링크](https://velog.io/@dasssseul/TIL-Day2398) |
+| 9월 9일 | Day24 | Element.classList와 키보드 이벤트                | [링크](https://velog.io/@dasssseul/TIL-Day2499) |
