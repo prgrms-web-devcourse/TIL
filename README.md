@@ -24,30 +24,67 @@
 
 <br/>
 
-## 📌 배움 기록은 어떻게 하나요?
+## Today I Learned
 
-**TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
+<br/>
 
-## 🚀 진행방법
+### 1주차 TIL
 
-1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
-   - 백엔드 P반은 be/1/P-gitusername
-   - 프론트 A반은 fe/1/A-gitusername
-   - 프론트 B반은 fe/1/B-gitusername
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository를 `clone` 받습니다.
-4. **README.md를 작성하여 꾸밉시다.**
-5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push` 합니다.
-6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
-7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
-8. PR을 아래 양식에 맞춰 내용을 작성합니다.
-   여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
+| 일자    | 제목 | 설명          | 링크                                           |
+| ------- | ---- | ------------- | ---------------------------------------------- |
+| 8월 2일 | Day1 | 웹의 동작원리 | [링크](https://velog.io/@dasssseul/TIL-Day182) |
+| 8월 3일 | Day2 | 이벤트 루프   | [링크](https://velog.io/@dasssseul/TIL-Day283) |
+| 8월 4일 | Day3 | 연결 리스트   | [링크](https://velog.io/@dasssseul/TIL-Day384) |
+| 8월 5일 | Day4 | 트라이        | [링크](https://velog.io/@dasssseul/TILDay485)  |
+| 8월 6일 | Day5 | 이진탐색      | [링크](https://velog.io/@dasssseul/TILDay586)  |
 
-```
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+<br/>
+
+### 2주차 TIL
+
+| 일자     | 제목 | 설명                                  | 링크                                           |
+| -------- | ---- | ------------------------------------- | ---------------------------------------------- |
+| 8월 9일  | Day6 | 이터러블/이터레이터 프로토콜          | [링크](https://velog.io/@dasssseul/TILDay689)  |
+| 8월 10일 | Day7 | 이터러블 프로토콜을 따른 map의 다형성 | [링크](https://velog.io/@dasssseul/TILDay7810) |
+| 8월 11일 | Day8 | range와 L.range 비교를 통한 지연 평가 | [링크](https://velog.io/@dasssseul/TILDay8811) |
+| 8월 12일 | Day9 | 비동기를 값으로 만드는 Promise        | [링크](https://velog.io/@dasssseul/TILDay9812) |
+
+<br/>
+
+### 3주차 TIL
+
+| 일자     | 제목        | 설명                                  | 링크                                                                                                                                                 |
+| -------- | ----------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8월 16일 | Day10       | 자바스크립트에서의 this               | [링크](https://velog.io/@dasssseul/TILDay10816)                                                                                                      |
+| 8월 17일 | Day11       | 명령형 프로그래밍과 선언적 프로그래밍 | [링크](https://velog.io/@dasssseul/TILDay11817)                                                                                                      |
+| 8월 18일 | Day12       | 로컬 스토리지                         | [링크](https://velog.io/@dasssseul/TILDay12818)                                                                                                      |
+| 8월 19일 | Day13       | 모듈(export, import)                  | [링크](https://velog.io/@dasssseul/TILDay13819)                                                                                                      |
+| 8월 20일 | 첫번째 회고 | 3주차까지의 나를 돌아보기             | [링크](https://velog.io/@dasssseul/%ED%9A%8C%EA%B3%A0-%EB%82%98%EC%97%90%EA%B2%8C-%EC%93%B0%EB%8A%94-%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%9A%8C%EA%B3%A0) |
+
+<br/>
+
+### 4주차 TIL
+
+| 일자     | 제목  | 설명                                   | 링크                                             |
+| -------- | ----- | -------------------------------------- | ------------------------------------------------ |
+| 8월 26일 | Day14 | SPA                                    | [링크](https://velog.io/@dasssseul/TILDay14825)  |
+| 8월 27일 | Day15 | 이벤트 위임, 낙관적 업데이트, 디바운스 | [링크](https://velog.io/@dasssseul/TIL-Day15826) |
+
+<br/>
+
+### 5주차 TIL
+
+| 일자    | 제목     | 설명           | 링크                                                                                                                        |
+| ------- | -------- | -------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 9월 6일 | Day16~20 | 노션 클론 코딩 | [링크](https://velog.io/@dasssseul/TIL-Day16205%EC%A3%BC%EC%B0%A8-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9) |
+
+<br/>
+
+### 6주차 TIL
+
+| 일자    | 제목  | 설명                                             | 링크                                            |
+| ------- | ----- | ------------------------------------------------ | ----------------------------------------------- |
+| 9월 6일 | Day21 | CSS 심화(Float)                                  | [링크](https://velog.io/@dasssseul/TIL-Day2196) |
+| 9월 7일 | Day22 | Vercel로 배포하기                                | [링크](https://velog.io/@dasssseul/TIL-Day2297) |
+| 9월 8일 | Day23 | 무한 스크롤(Scroll Event, Intersection Observer) | [링크](https://velog.io/@dasssseul/TIL-Day2398) |
+| 9월 9일 | Day24 | Element.classList와 키보드 이벤트                | [링크](https://velog.io/@dasssseul/TIL-Day2499) |
