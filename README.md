@@ -29,9 +29,12 @@
 | 7          | 2021-08-16 | 바닐라 JS 시작과 프로젝트 관리 방법론 특강                        | [링크](https://limkhl.tistory.com/46) |
 | 8          | 2021-08-19 | 함수형 프로그래밍 과제와 Node.js REST api 구현                    | [링크](https://limkhl.tistory.com/47) |
 | 9          | 2021-08-20 | 3주차 회고                                                        | [링크](https://limkhl.tistory.com/49) |
-| 10 `🎇new` | 2021-08-26 | 인디스트릿 기술 스택 특강 및 local storage를 이용한 Todo app 구현 | [링크](https://limkhl.tistory.com/50) |
-| 11 `🎇new` | 2021-08-28 | 간단 Todo app 구현 과제                                           | [링크](https://limkhl.tistory.com/51) |
-| 12 `🎇new` | 2021-08-29 | 4주차 회고                                                        | [링크](https://limkhl.tistory.com/52) |
+| 10         | 2021-08-26 | 인디스트릿 기술 스택 특강 및 local storage를 이용한 Todo app 구현 | [링크](https://limkhl.tistory.com/50) |
+| 11         | 2021-08-28 | 간단 Todo app 구현 과제                                           | [링크](https://limkhl.tistory.com/51) |
+| 12         | 2021-08-29 | 4주차 회고                                                        | [링크](https://limkhl.tistory.com/52) |
+| 13 `🎇new` | 2021-09-03 | 노션 클론코딩 프로젝트 소감                                       | [링크](https://limkhl.tistory.com/53) |
+| 14 `🎇new` | 2021-09-04 | 그랩님 특강                                                       | [링크](https://limkhl.tistory.com/54) |
+| 15 `🎇new` | 2021-09-05 | 5주차 회고                                                        | [링크](https://limkhl.tistory.com/55) |
 
 <br>
 <hr>
