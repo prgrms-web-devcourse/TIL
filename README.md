@@ -20,3 +20,5 @@
 |2021.09.05|회고|프로그래머스 데브코스 회고 #5주차|[링크](https://velog.io/@krungy/프로그래머스-데브코스-회고-5)|
 |2021.09.06|CSS|Float, Position, Flex, Grid|[링크](https://velog.io/@krungy/TIL21.09.06)|
 |2021.09.07|VanillaJS|프로젝트 배포 플랫폼|[링크](https://velog.io/@krungy/TIL21.09.07)|
+|2021.09.08|VanillaJS|무한스크롤 UI 구현하기|[링크](https://velog.io/@krungy/TIL21.09.08)|
+|2021.09.12|VanillaJS|고양이 사진첩 실습|[링크](https://velog.io/@krungy/TIL21.09.12)|
