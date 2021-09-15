@@ -108,3 +108,14 @@ TIL은 <b>Today I Learn</b> 의 약어이며, 오늘 공부 한 내용을 매일
 | 2021.09.02    | TIL - Day 24 | Programmers Web Devcourse FE 1th - Day 24의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-24) |
 | 2021.09.03    | TIL - Day 25 | Programmers Web Devcourse FE 1th - Day 25의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-25) |
 | 2021.09.04~05 | TIL - Week 5 | Programmers Web Devcourse FE 1th - Week 5의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Week-5) |
+
+## ✍ Week 6
+
+| 날짜          | 제목         | 설명                                                   | 링크                                             |
+| ------------- | ------------ | ------------------------------------------------------ | ------------------------------------------------ |
+| 2021.09.06    | TIL - Day 26 | Programmers Web Devcourse FE 1th - Day 26의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-26) |
+| 2021.09.07    | TIL - Day 27 | Programmers Web Devcourse FE 1th - Day 27의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-27) |
+| 2021.09.08    | TIL - Day 28 | Programmers Web Devcourse FE 1th - Day 28의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-28) |
+| 2021.09.09    | TIL - Day 29 | Programmers Web Devcourse FE 1th - Day 29의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-29) |
+| 2021.09.10    | TIL - Day 29 | Programmers Web Devcourse FE 1th - Day 30의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-30) |
+| 2021.09.11~12 | TIL - Week 6 | Programmers Web Devcourse FE 1th - Week 6의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Week-6) |
