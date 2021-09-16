@@ -24,7 +24,7 @@
 
 <br/>
 
-8월
+8월 TIL
 | 날짜 | 제목 | 설명 | 링크 |
 | ---------- | ------------- | ----------------------------------------------------- | ----------------------------------------------------------------------- |
 | 2021.08.03 | TIL Day1 | JavaScript의 변수 선언과 HTTPS | [링크](https://velog.io/@yes3427/binary-tree-and-traversal) |
@@ -48,7 +48,7 @@
 | 2021.08.29 | TIL Day4 | validation과 verification 차이 | [링크](https://velog.io/@yes3427/TIL-DAY4-validation-verification) |
 | 2021.08.29 | javascript | 함수형 프로그래밍이란? | [링크](https://velog.io/@yes3427/JavaScript-fuctional-programming) |
 
-9월
+9월 TIL
 | 날짜 | 제목 | 설명 | 링크 |
 | ---------- | ------------- | ----------------------------------------------------- | ----------------------------------------------------------------------- |
 | 2021.09.04 | TIL Day4 | 하루의 조각들 | [링크](https://velog.io/@yes3427/TIL-DAY3-Daily-Plan) |
@@ -57,3 +57,10 @@
 | 2021.09.06 | TIL | BEM | [링크](https://velog.io/@yes3427/TIL-BEM) |
 | 2021.09.06 | 문제풀이 | [프로그래머스] 프린터 | [링크](https://velog.io/@yes3427/programmers-printer) |
 | 2021.09.06 | JS 미니 프로젝트 | 1. Colors | [링크](https://velog.io/@yes3427/JS-mini-Project-Study-Colors) |
+| 2021.09.07 | TIL | 배포 6가지 방법 | [링크](https://velog.io/@yes3427/TIL-deloy) |
+| 2021.09.07 | 문제풀이 | [프로그래머스] 가장 먼 노드 | [링크](https://velog.io/@yes3427/programmers-The-Farthest-Node) |
+| 2021.09.08 | TIL | 오늘의 고민들 | [링크](https://velog.io/@yes3427/TIL-09-08) |
+| 2021.09.09 | javascript | 디바운스와 스로틀 차이점 | [링크](https://velog.io/@yes3427/Debounce-and-Throttle) |
+| 2021.09.14 | 문제풀이 | [프로그래머스] 순위 | [링크](https://velog.io/@yes3427/programmers-ranking) |
+| 2021.09.15 | 문제풀이 | [프로그래머스] 로또의 최고 순위와 최저 순위 | [링크](https://velog.io/@yes3427/programmers-lotto) |
+| 2021.09.16 | 문제풀이 | [프로그래머스] 숫자 문자열과 영단어 | [링크](https://velog.io/@yes3427/programmers-number-and-english-word) |
