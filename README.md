@@ -59,3 +59,8 @@
 | 2021.09.06 | JS 미니 프로젝트 | 1. Colors | [링크](https://velog.io/@yes3427/JS-mini-Project-Study-Colors) |
 | 2021.09.07 | TIL | 배포 6가지 방법 | [링크](https://velog.io/@yes3427/TIL-deloy) |
 | 2021.09.07 | 문제풀이 | [프로그래머스] 가장 먼 노드 | [링크](https://velog.io/@yes3427/programmers-The-Farthest-Node) |
+| 2021.09.08 | TIL | 오늘의 고민들 | [링크](https://velog.io/@yes3427/TIL-09-08) |
+| 2021.09.09 | javascript | 디바운스와 스로틀 차이점 | [링크](https://velog.io/@yes3427/Debounce-and-Throttle) |
+| 2021.09.14 | 문제풀이 | [프로그래머스] 순위 | [링크](https://velog.io/@yes3427/programmers-ranking) |
+| 2021.09.15 | 문제풀이 | [프로그래머스] 로또의 최고 순위와 최저 순위 | [링크](https://velog.io/@yes3427/programmers-lotto) |
+| 2021.09.16 | 문제풀이 | [프로그래머스] 숫자 문자열과 영단어 | [링크](https://velog.io/@yes3427/programmers-number-and-english-word) |
