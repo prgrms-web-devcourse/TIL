@@ -48,6 +48,8 @@
 |21-09-01|노션 클로닝|노션 프로젝트 고뇌록|[Week5 - Wed](https://velog.io/@jeongs/TIL-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%9C%EB%8B%9D)|
 |21-09-06|CSS 심화(float, position, flex, grid)|float, position, flex, grid, BEM|[Week6 - Mon](https://velog.io/@jeongs/TIL-CSS-%EC%8B%AC%ED%99%94float-position-flex-grid)|
 |21-09-07|클라우드 플랫폼과 배포|IaaS, FaaS|[Week6 - Tue](https://velog.io/@jeongs/TIL-클라우드-플랫폼과-배포)|
+|21-09-11|무한스크롤 UI 구현하기|스크롤 이벤트와 intersection observer|[Week6 - Sat](https://velog.io/@jeongs/TIL-무한스크롤-UI-구현하기)|
+|21-09-16|CSS 심화(2)|Transform 3D, Columns, Filter, 변수, @supports, @media|[Week7 - Wed](https://velog.io/@jeongs/TIL-CSS-심화-2)|
 
 ## 📃 ARTICLE
 |날짜|제목|설명|링크|
@@ -68,8 +70,10 @@
 |날짜|제목|설명|링크|
 |---|---|---|---|
 |21-09-04|변수|메모리, 변수, 참조타입|[Week5 - Sat](https://velog.io/@jeongs/ARTICLE-%EB%B3%80%EC%88%98)|
+|21-09-10|비트 연산자||[Week6 - Sat](https://velog.io/@jeongs/Article-비트-연산자)|
+|21-09-16|타입 변환과 단축 평가|암묵적 타입 변환, 명시적 타입 변환, 단축평가|[Week - Thu](https://velog.io/@jeongs/ARTICLE-타입-변환과-단축-평가)|
 
 ## 👀 REVIEW
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|21-08-27|프로그래머스에서 브랜드키트 보내주셨다~!|-|[Week4 - Fri](https://velog.io/@jeongs/프로그래머스에서-브랜드키트-보내주셨다)|
+|21-08-27|프로그래머스에서 브랜드키트 보내주셨다~!||[Week4 - Fri](https://velog.io/@jeongs/프로그래머스에서-브랜드키트-보내주셨다)|
