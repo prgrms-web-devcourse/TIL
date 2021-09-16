@@ -38,4 +38,10 @@ Velog 바로가기 : [Velog Link](https://velog.io/@apparatus1)
 #### 4주차(21-08-23 ~ 21-08-29)
 
 - [21. 8. 23(월) TIL(API, Request, Fetch)](https://velog.io/@apparatus1/21.-8.-23%EC%9B%94-TILAPI-Request-Fetch)
-- 
+- [21. 8. 25(수) TIL(SPA, history API)](https://velog.io/@apparatus1/21.-8.-25%EC%88%98-TILSPA-history-API)
+
+#### 5주차 ~ 6주차(21-08-30 ~ 21-09-11)
+
+- [21. 9. 4(토) TIL(커스텀 이벤트(CustomEvent))](https://velog.io/@apparatus1/21.-9.-4%ED%86%A0-TIL%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8CustomEvent)
+- [21. 9. 6(월) TIL(CSS: float, flex / grid)](https://velog.io/@apparatus1/21.-9.-6%EC%9B%94-TILCSS-float-grid)
+- [21. 9. 7(화) TIL(배포)](https://velog.io/@apparatus1/21.-9.-7%ED%99%94-TIL%EB%B0%B0%ED%8F%AC-8ddoq65c)
