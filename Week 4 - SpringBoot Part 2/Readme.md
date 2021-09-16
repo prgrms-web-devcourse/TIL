@@ -10,4 +10,10 @@ ___
   - JUnit
   - JUnit Test Code
   - Mock Object
+- 20210824 TIL
+  - JDBC
+  - try-with-resources
+  - Timestamp, LocalDateTime
+  - SQL Injection, PreparedStatement
+  - UUID version
 ___
