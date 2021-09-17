@@ -49,7 +49,8 @@
 |21-09-06|CSS 심화(float, position, flex, grid)|float, position, flex, grid, BEM|[Week6 - Mon](https://velog.io/@jeongs/TIL-CSS-%EC%8B%AC%ED%99%94float-position-flex-grid)|
 |21-09-07|클라우드 플랫폼과 배포|IaaS, FaaS|[Week6 - Tue](https://velog.io/@jeongs/TIL-클라우드-플랫폼과-배포)|
 |21-09-11|무한스크롤 UI 구현하기|스크롤 이벤트와 intersection observer|[Week6 - Sat](https://velog.io/@jeongs/TIL-무한스크롤-UI-구현하기)|
-|21-09-16|CSS 심화(2)|Transform 3D, Columns, Filter, 변수, @supports, @media|[Week7 - Wed](https://velog.io/@jeongs/TIL-CSS-심화-2)|
+|21-09-15|CSS 심화(2)|Transform 3D, Columns, Filter, 변수, @supports, @media|[Week7 - Wed](https://velog.io/@jeongs/TIL-CSS-심화-2)|
+|21-09-17|SCSS(Sass)|내가 좋아하는데... 좋아하지 않는... 아니 좋아하는데.. 좋아하지 않는 SCSS|[Week7 - Fri](https://velog.io/@jeongs/TIL-SCSSSass)|
 
 ## 📃 ARTICLE
 |날짜|제목|설명|링크|
