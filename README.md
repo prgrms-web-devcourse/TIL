@@ -26,6 +26,12 @@
 |210831|Notion Clone Project day2| 프로젝트 구현|[링크](https://velog.io/@rlacksals96/TIL-Notion-Clone-Project-2%EC%9D%BC%EC%B0%A8)|
 |210902|Notion Clone Project day4| 프로젝트 (추가)구현, 꾸미기|[링크](https://velog.io/@rlacksals96/TIL-Notion-Clone-Project-4%EC%9D%BC%EC%B0%A8)|
 |210903|Notion Clone Project day5(마무리)| 프로젝트 마무리, README, PR작성, |[링크](https://velog.io/@rlacksals96/TIL-Notion-Clone-Project-5%EC%9D%BC%EC%B0%A8)|
+|210906|CSS - Float, Flex, Grid| CSS의 레이아웃 관련 속성에 대한 개념|[링크](https://velog.io/@rlacksals96/TIL-CSS-Float-Flex-Grid)|
+|210909|Debounce| Debounce 기법에 대한 개념과 사용하는 이유|[링크](https://velog.io/@rlacksals96/TIL-day-30.-Debounce)|
+|210910|App과 main을 분리하는 이유|JS 프로젝트시 App.js와 main.js를 나누는 이유에 대한 고찰과 실제 이유|[링크](https://velog.io/@rlacksals96/TIL-APP%EA%B3%BC-Main%EC%9D%84-%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)|
+|210914|CSS - Transform|  CSS의 애니메이션 속성 transform에 대한 개념|[링크](https://velog.io/@rlacksals96/TIL-CSS-Transform)|
+|210915|CSS - Flex vs Grid|flex, grid의 차이와 활용되는 예시|[링크](https://velog.io/@rlacksals96/TIL-Flex-vs-Grid)|
+
 
 
 ## ✍Article✍
@@ -33,7 +39,7 @@
 |--|---|---|---|
 |1|210818|Javacsript 변수와 Hoisting|javascript의 변수 선언방식의 변화와 이에 따른 호이스팅 기능의 변화와 특징을 비교|[링크](https://velog.io/@rlacksals96/Article-Javascript-%EB%B3%80%EC%88%98%EC%99%80-Hoisting)|
 |2|210825|Javascript this| 자바스크립트만 가지고 있는 This에 대한 개념을 분석하고 정리|[링크](https://velog.io/@rlacksals96/CS-Javascript-This)
-
+|3|210918|3way handshake|TCP, UDP에 대한 특징을 소개하고, 서버와 클라이언트간 TCP 방식으로 통신하는 방법인 3 way handshake에 대해 소개|[링크](https://velog.io/@rlacksals96/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-TCPUDP%EC%99%80-3way-handshake)|
 ## 🖋회고록🖋
 
 | 날짜 | 제목 | 설명 | 링크|
