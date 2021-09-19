@@ -24,8 +24,8 @@
 | 210827 | week4. TIL                         | 비동기통신 && API                                                                             | [링크](https://velog.io/@rlacksals96/TIL-week-4)                                                                                                              |
 |210830|Notion Clone Project day1| 프로젝트 설계|[링크](https://velog.io/@rlacksals96/TIL-Notion-Clone-Project-1%EC%9D%BC%EC%B0%A8)|
 |210831|Notion Clone Project day2| 프로젝트 구현|[링크](https://velog.io/@rlacksals96/TIL-Notion-Clone-Project-2%EC%9D%BC%EC%B0%A8)|
-|210902|Notion Clone Project day4| 프로젝트 구현, 꾸미기|[링크](https://velog.io/@rlacksals96/TIL-Notion-Clone-Project-4%EC%9D%BC%EC%B0%A8)|
-|210903|Notion Clone Project day5(마무리)| 프로젝트 마무리, README, PR작성|[링크](https://velog.io/@rlacksals96/TIL-Notion-Clone-Project-5%EC%9D%BC%EC%B0%A8)|
+|210902|Notion Clone Project day4| 프로젝트 (추가)구현, 꾸미기|[링크](https://velog.io/@rlacksals96/TIL-Notion-Clone-Project-4%EC%9D%BC%EC%B0%A8)|
+|210903|Notion Clone Project day5(마무리)| 프로젝트 마무리, README, PR작성, |[링크](https://velog.io/@rlacksals96/TIL-Notion-Clone-Project-5%EC%9D%BC%EC%B0%A8)|
 
 
 ## ✍Article✍
