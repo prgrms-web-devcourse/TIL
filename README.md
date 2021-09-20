@@ -50,3 +50,7 @@
 | 9월 7일  | 27일차 TIL | 배포서비스 종류                                            | [링크](https://velog.io/@alajillo/Day.27-%EB%B0%B0%ED%8F%AC%EC%84%9C%EB%B9%84%EC%8A%A42021.09.07)                                               |
 | 9월 8일  | 28일차 TIL | 무한스크롤UI                                               | [링크](https://velog.io/@alajillo/Day.28-%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4UI2021.09.08)                                             |
 | 9월 9일  | 29일차 TIL | 브레드크럼UI                                               | [링크](https://velog.io/@alajillo/Day.29%EB%B8%8C%EB%A0%88%EB%93%9C%ED%81%AC%EB%9F%BC-UI2021.09.08)                                             |
+| 9월 13일 | 31일차 TIL | CSS grid                                                   | [링크](https://velog.io/@alajillo/Day.31-CSS-grid2021.09.13)                                                                                    |
+| 9월 14일 | 32일차 TIL | CSS 심화                                                   | [링크](https://velog.io/@alajillo/Day.32-CSS-%EC%8B%AC%ED%99%942021.09.14)                                                                      |
+| 9월 14일 | 32일차 TIL | Sass(SCSS)                                                 | [링크](https://velog.io/@alajillo/Day.32-SassSCSS2021.09.14)                                                                                    |
+| 9월 15일 | 33일차 TIL | Sass(SCSS)                                                 | [링크](https://velog.io/@alajillo/Day-33)                                                                                                       |
