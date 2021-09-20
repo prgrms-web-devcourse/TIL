@@ -16,4 +16,10 @@ ___
   - Timestamp, LocalDateTime
   - SQL Injection, PreparedStatement
   - UUID version
+- 20210825 TIL
+  - DataSource
+  - HikariCP
+  - DataSource Test Instance Lifecycle
+  - JDBC Template
+  - RowMapper
 ___

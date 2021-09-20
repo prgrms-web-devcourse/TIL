@@ -98,14 +98,14 @@
   |:-:|:-:|:-:|:-:|
   |W4D1|2021-08-23|SpringBoot Part 2_Day 1|[20210823 TIL.md](Week%204%20-%20SpringBoot%20Part%202/20210823%20TIL.md)|
   |W4D2|2021-08-24|SpringBoot Part 2_Day 2|[20210824 TIL.md](Week%204%20-%20SpringBoot%20Part%202/20210824%20TIL.md)|
-  |W4D3|2021-08-25|SpringBoot Part 2_Day 3|준비중.. [20210825 TIL.md](Week%204%20-%20SpringBoot%20Part%202/20210825%20TIL.md)|
+  |W4D3|2021-08-25|SpringBoot Part 2_Day 3|[20210825 TIL.md](Week%204%20-%20SpringBoot%20Part%202/20210825%20TIL.md)|
   |W4D4|2021-08-26|SpringBoot Part 2_Day 4|준비중.. [20210826 TIL.md](Week%204%20-%20SpringBoot%20Part%202/20210826%20TIL.md)|
   |W4D5|2021-08-27|SpringBoot Part 2_Day 5|준비중.. [20210827 TIL.md](Week%204%20-%20SpringBoot%20Part%202/20210827%20TIL.md)|
 
   ## INDEX
   |Day 1|Day 2|Day 3|Day 4|Day 5|
   |-----|-----|-----|-----|-----|
-  |Software Testing<br/>- Unit Test<br/>- Integration Test<br/>JUnit<br/>JUnit Test Code<br/>Mock Object|JDBC<br/>try-with-resources<br/>Timestamp, LocalDateTime<br/>SQL Injection, PreparedStatement<br/>UUID version|
+  |Software Testing<br/>- Unit Test<br/>- Integration Test<br/>JUnit<br/>JUnit Test Code<br/>Mock Object|JDBC<br/>try-with-resources<br/>Timestamp, LocalDateTime<br/>SQL Injection, PreparedStatement<br/>UUID version|DataSource<br/>HikariCP<br/>DataSource Test Instance Lifecycle<br/>JDBC Template<br/>RowMapper|
 
 </div>
 </details>
