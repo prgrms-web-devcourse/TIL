@@ -22,4 +22,9 @@ ___
   - DataSource Test Instance Lifecycle
   - JDBC Template
   - RowMapper
+- 20210826 TIL
+  - Embedded Database
+  - NamedParameterJdbcTemplate
+  - DataAccessException
+  - Transaction
 ___
