@@ -6,8 +6,8 @@
 |2021-08-04|DAY3 🚀|자료구조1|[링크](https://velog.io/@songsong/TIL-DAY3)|
 |2021-08-05|DAY4 🚀|자료구조2 + 알고리즘1|[링크](https://velog.io/@songsong/TIL-DAY4)|
 |2021-08-05|DAY5 🚀|TIL|[링크](https://velog.io/@songsong/TIL-DAY5)|
-|2021-08-09|DAY6 🚀|이터러블 + 이터레이터|[링크](https://velog.io/@songsong/TIL-DAY8|
-|2021-08-10|DAY7 🚀|함수형프로그래밍 주요함수 설명|[링크](https://velog.io/@songsong/TIL-DAY9|
-|2021-08-11|DAY8 🚀|함수형프로그래밍 지연성 설명|[링크](https://velog.io/@songsong/TIL-DAY10|
+|2021-08-09|DAY6 🚀|이터러블 + 이터레이터|[링크](https://velog.io/@songsong/TIL-DAY8)|
+|2021-08-10|DAY7 🚀|함수형프로그래밍 주요함수 설명|[링크](https://velog.io/@songsong/TIL-DAY9)|
+|2021-08-11|DAY8 🚀|함수형프로그래밍 지연성 설명|[링크](https://velog.io/@songsong/TIL-DAY10)|
 |2021-08-12|DAY9 🚀|TIL|[링크](https://velog.io/@songsong/TIL-DAY11)|
 |2021-08-13|DAY10 🚀|TIL|[링크](https://velog.io/@songsong/TIL-DAY12)|
