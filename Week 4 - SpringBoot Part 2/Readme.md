@@ -27,4 +27,12 @@ ___
   - NamedParameterJdbcTemplate
   - DataAccessException
   - Transaction
+- 20210827 TIL
+  - AOP
+  - AOP Proxy
+  - AspectJ
+  - Annotation 생성 및 Aspect 적용
+  - Spring Transaction 관리
+  - Transaction propagation(전파)
+  - Transaction Isolation Level(격리 수준)
 ___
