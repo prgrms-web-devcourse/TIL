@@ -1,53 +1,17 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./src/images/prgms-logo.png"/>
-</p>
-<h2 align="middle">프로그래머스 웹 데브코스 TIL</h2>
-<p align="middle">Today I Leared</p>
-<p align="middle">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
-  <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
-</p>
-
-<p align="middle">
-  <!-- <a href="#">☕ 블로그 링크</a> -->  
-</p>
-
-<br/>
-
-# 💻 프로그래머스 웹 데브코스 TIL
-
-> "Talk is cheap. Show me the code."
-> ("말은 쉽지, 코드를 보여줘.")
->
-> 리누스 토르발스(Linus Torvalds)
-
-<br/>
-
-## 📌 배움 기록은 어떻게 하나요?
-
-**TIL** : TIL은 일기와 같은 거라고 생각해요. 오늘 무엇을 새롭게 알게 되었는지, 느낀점은 무엇인지 간단하게 요약해서 쓰는 것을 추천해요. 만약 새롭게 알게된 내용이 굉장히 많다면 시간을 내어 주제로 빼서 정리를 해보는 것은 어떨까요?
-
-## 🚀 진행방법
-
-1. **새로운 Branch 생성**
-   - 백엔드 C반은 be/1/C-gitusername  
-   - 백엔드 P반은 be/1/P-gitusername
-   - 프론트 A반은 fe/1/A-gitusername
-   - 프론트 B반은 fe/1/B-gitusername
-2. **TIL repo를 본인 계정에 fork**
-3. `fork`된 repository를 `clone` 받습니다.
-4. **README.md를 작성하여 꾸밉시다.**
-5. TIL소개와 url을 작성한 README.md 파일을 작성하고 `commit` `push` 합니다.
-6. **웹사이트로 본인 계정의 `fork` 된 repo를 갑니다.**
-7. **Contribute → Open pull request 로 PR을 합시다**
-   - base repo : `원본repo` base : `be/a/gitusername` ← head repo : `여러분fork한repo` compare : `여러분fork한repo`
-8. PR을 아래 양식에 맞춰 내용을 작성합니다.
-   여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.
-
-```
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-|날짜|제목1|간단한 한 줄 설명|[링크]()|
-```
+| 날짜       | 제목     | 설명                                            | 링크                                                                                                                                                        |
+| ---------- | -------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2021-08-02 | [TIL] 01 | JS / 스코프(scope) & 클로저(closure)            | [Day1](https://velog.io/@kimin3004/TIL-01-JS-%EC%8A%A4%EC%BD%94%ED%94%84scope-%ED%81%B4%EB%A1%9C%EC%A0%80closure)                                           |
+| 2021-08-03 | [TIL] 02 | JS / 객체지향과 프로토타입                      | [Day2](https://velog.io/@kimin3004/TIL-01-JS-%EC%8A%A4%EC%BD%94%ED%94%84scope-%ED%81%B4%EB%A1%9C%EC%A0%80closure)                                           |
+| 2021-08-04 | [TIL] 03 | JS / DOM, 데이터타입, Queue                     | [Day3](https://velog.io/@kimin3004/TIL-01-JS-%EC%8A%A4%EC%BD%94%ED%94%84scope-%ED%81%B4%EB%A1%9C%EC%A0%80closure)                                           |
+| 2021-08-06 | [TIL] 04 | JS / DOM, 브라우저 렌더링                       | [Day5](https://velog.io/@kimin3004/TIL-032021-08-07)                                                                                                        |
+| 2021-08-09 | [TIL] 05 | JS / Virtual DOM, Iterable                      | [Day6](https://velog.io/@kimin3004/TIL-042021-08-09-wmxy2k6q)                                                                                               |
+| 2021-08-10 | [TIL] 06 | JS / Iterable, Generator                        | [Day7](https://velog.io/@kimin3004/TIL-042021-08-09)                                                                                                        |
+| 2021-08-12 | [TIL] 07 | JS / 프로미스(Promise)                          | [Day9](https://velog.io/@kimin3004/TIL-062021-08-12-m5tengn4)                                                                                               |
+| 2021-08-17 | [TIL] 08 | 프로그래밍 패러다임 / 명령형, 선언형 프로그래밍 | [Day12](https://velog.io/@kimin3004/TIL-082021-08-17-%EB%AA%85%EB%A0%B9%ED%98%95-%EC%84%A0%EC%96%B8%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) |
+| 2021-08-19 | [TIL] 09 | JS / 모듈(Module)                               | [Day14](https://velog.io/@kimin3004/TIL-082021-08-19-%EB%AA%A8%EB%93%88)                                                                                    |
+| 2021-08-20 | [회고]   | 첫번째 회고                                     | [Day15](https://sequoia-eggnog-96f.notion.site/c9caadbb51ce4f0eac44e55710416fa0)                                                                            |
+| 2021-08-24 | [TIL] 10 | SPA, SSR, CSR                                   | [Day17](https://velog.io/@kimin3004/TIL-10SPA-SSR-CSR)                                                                                                      |
+| 2021-08-31 | [TIL] 11 | Hashbang, History API                           | [Day22](https://velog.io/@kimin3004/TIL-11JS-Hashbang-history-API)                                                                                          |
+| 2021-09-06 | [TIL] 12 | CSS / Float, Position, Flex                     | [Day26](https://velog.io/@kimin3004/TIL-12CSS-Float-Position-Flex)                                                                                          |
+| 2021-09-10 | [회고]  | 첫번째 프로젝트 notion 회고                        | [Day30](https://sequoia-eggnog-96f.notion.site/notion-3c0f9535127045faaff9d0f278b5d6d7)                                                                                          |
+| 2021-09-28 | [TIL] 13 | Vue / 기본 문법                                  | [Day35](https://velog.io/@kimin3004/TIL-13Vue-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)                                                                                          |
