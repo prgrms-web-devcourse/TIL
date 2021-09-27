@@ -7,7 +7,7 @@
 
 그리고 voucherType을 그대로 출력했을 경우, `toString()` 이 호출 되는 것을 확인 할 수 있었습니다.
 
-```
+```java
 // voucherType 수정본
 public enum VoucherType {
     PERCENTAGE("Percent"),
