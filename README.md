@@ -60,3 +60,4 @@
 | 9월 18일 | TIL 21일차 |              SCSS 조건,반복,import               | [TIL_day21](https://sunjae95.github.io/posts/TIL_21/) |
 | 9월 19일 | TIL 22일차 |                  SCSS 내장 함수                  | [TIL_day22](https://sunjae95.github.io/posts/TIL_22/) |
 | 9월 27일 | 7주차 회고 |                    7주차 회고                    |   [7week](https://sunjae95.github.io/posts/week7/)    |
+| 9월 29일 | TIL 23일차 |                     Vue 입문                     | [TIL_day23](https://sunjae95.github.io/posts/TIL_23/) |
