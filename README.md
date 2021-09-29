@@ -49,8 +49,14 @@
 | 8월 27일 | TIL 13일차 |                 SPA, historyAPI                  | [TIL_day13](https://sunjae95.github.io/posts/TIL_13/) |
 | 8월 30일 | 4주차 회고 |                    4주차 회고                    |   [4week](https://sunjae95.github.io/posts/week4/)    |
 | 9월 1일  | TIL 14일차 |                    InnerHTML                     | [TIL_day14](https://sunjae95.github.io/posts/TIL_14/) |
-| 9월 5일  | 5주차 회고 |                    5주차 회고                    |   [4week](https://sunjae95.github.io/posts/week5/)    |
+| 9월 5일  | 5주차 회고 |                    5주차 회고                    |   [5week](https://sunjae95.github.io/posts/week5/)    |
 | 9월 6일  | TIL 15일차 |               CSS float, Position                | [TIL_day15](https://sunjae95.github.io/posts/TIL_15/) |
 | 9월 7일  | TIL 16일차 |                  CSS Flex, Grid                  | [TIL_day16](https://sunjae95.github.io/posts/TIL_16/) |
 | 9월 8일  | TIL 17일차 |                    무한스크롤                    | [TIL_day17](https://sunjae95.github.io/posts/TIL_17/) |
-| 9월 12일 | 6주차 회고 |                    6주차 회고                    |   [4week](https://sunjae95.github.io/posts/week6/)    |
+| 9월 12일 | 6주차 회고 |                    6주차 회고                    |   [6week](https://sunjae95.github.io/posts/week6/)    |
+| 9월 14일 | TIL 18일차 |                    TypeCheck                     | [TIL_day18](https://sunjae95.github.io/posts/TIL_18/) |
+| 9월 16일 | TIL 19일차 |                  Grid심화, SASS                  | [TIL_day19](https://sunjae95.github.io/posts/TIL_19/) |
+| 9월 17일 | TIL 20일차 |                SCSS 재활용, 확장                 | [TIL_day20](https://sunjae95.github.io/posts/TIL_20/) |
+| 9월 18일 | TIL 21일차 |              SCSS 조건,반복,import               | [TIL_day21](https://sunjae95.github.io/posts/TIL_21/) |
+| 9월 19일 | TIL 22일차 |                  SCSS 내장 함수                  | [TIL_day22](https://sunjae95.github.io/posts/TIL_22/) |
+| 9월 27일 | 7주차 회고 |                    7주차 회고                    |   [7week](https://sunjae95.github.io/posts/week7/)    |
