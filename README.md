@@ -51,6 +51,9 @@
 |21-09-11|무한스크롤 UI 구현하기|스크롤 이벤트와 intersection observer|[Week6 - Sat](https://velog.io/@jeongs/TIL-무한스크롤-UI-구현하기)|
 |21-09-15|CSS 심화(2)|Transform 3D, Columns, Filter, 변수, @supports, @media|[Week7 - Wed](https://velog.io/@jeongs/TIL-CSS-심화-2)|
 |21-09-17|SCSS(Sass)|내가 좋아하는데... 좋아하지 않는... 아니 좋아하는데.. 좋아하지 않는 SCSS|[Week7 - Fri](https://velog.io/@jeongs/TIL-SCSSSass)|
+|21-09-18|신세계 Vue 탐험 (1)|애플리케이션, 인스턴스, 라이프사이클 훅, 템플릿문법...|[Week7 - Sat](https://velog.io/@jeongs/TIL-Vue)|
+|21-09-26|신세계 Vue 탐험 (2)|클래스/스타일 바인딩, v-if, v-show, v-cloak, 리스트렌더링, 이벤트핸들링|[Week7 - Sun](https://velog.io/@jeongs/TIL-신세계-Vue-탐험-2)|
+|21-09-28|신세계 Vue 탐험 (2)|클래스/스타일 바인딩, v-if, v-show, v-cloak, 리스트렌더링, 이벤트핸들링|[Week8 - Tue](https://velog.io/@jeongs/TIL-Vue-간단-요약)|
 
 ## 📃 ARTICLE
 |날짜|제목|설명|링크|
