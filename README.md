@@ -75,7 +75,12 @@
 |---|---|---|---|
 |21-09-04|변수|메모리, 변수, 참조타입|[Week5 - Sat](https://velog.io/@jeongs/ARTICLE-%EB%B3%80%EC%88%98)|
 |21-09-10|비트 연산자||[Week6 - Sat](https://velog.io/@jeongs/Article-비트-연산자)|
-|21-09-16|타입 변환과 단축 평가|암묵적 타입 변환, 명시적 타입 변환, 단축평가|[Week - Thu](https://velog.io/@jeongs/ARTICLE-타입-변환과-단축-평가)|
+|21-09-16|타입 변환과 단축 평가|암묵적 타입 변환, 명시적 타입 변환, 단축평가|[Week7 - Thu](https://velog.io/@jeongs/ARTICLE-타입-변환과-단축-평가)|
+
+### 10월
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|21-10-01|JS 스코프|var 키워드와 중복선언, 렉시컬 스코프, 렉시컬 네스팅|[Week 8- Fri](https://velog.io/@jeongs/ARTICLE-JS-스코프)|
 
 ## 👀 REVIEW
 |날짜|제목|설명|링크|
