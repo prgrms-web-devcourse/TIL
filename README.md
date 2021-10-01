@@ -25,3 +25,5 @@
 |2021.09.12|VanillaJS|고양이 사진첩 실습|[링크](https://velog.io/@krungy/TIL21.09.12)|
 |2021.09.13|VanillaJS|TODO APP 만들기 실습|[링크](https://velog.io/@krungy/TIL21.09.13)|
 |2021.09.13|회고|프로그래머스 데브코스 회고 #5주차|[링크](https://velog.io/@krungy/프로그래머스-데브코스-회고-6)|
+|2021.09.15|CSS|CSS 심화, SCSS (1)|[링크](https://velog.io/@krungy/TIL21.09.15)|
+|2021.09.16|CSS|SCSS (2)|[링크](https://velog.io/@krungy/TIL21.09.16)|
