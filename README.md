@@ -136,7 +136,7 @@
   |Week/Day|날짜|제목|링크|
   |:-:|:-:|:-:|:-:|
   |W8D1|2021-09-27|SpringBoot Part 4_Day 1|[20210927 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20210927%20TIL.md)|
-  |W8D2|2021-09-28|SpringBoot Part 4_Day 2|준비중.. [20210928 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20210928%20TIL.md)|
+  |W8D2|2021-09-28|SpringBoot Part 4_Day 2|[20210928 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20210928%20TIL.md)|
   |W8D3|2021-09-29|SpringBoot Part 4_Day 3|준비중.. [20210929 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20210929%20TIL.md)|
   |W8D4|2021-09-30|SpringBoot Part 4_Day 4|준비중.. [20210930 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20210930%20TIL.md)|
   |W8D5|2021-10-01|SpringBoot Part 4_Day 5|준비중.. [20211001 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20211001%20TIL.md)|
