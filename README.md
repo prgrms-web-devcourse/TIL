@@ -48,6 +48,11 @@
 |2021-09-14|데브코스 30일차 TIL : 드래그 앤 드롭과 웹워커 API|드래그 앤 드롭, 웹워커 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-day30-%EB%93%9C%EB%9E%98%EA%B7%B8-%EC%95%A4-%EB%93%9C%EB%A1%AD%EA%B3%BC-%EC%9B%B9%EC%9B%8C%EC%BB%A4-API)|
 |2021-09-17|데브코스 31일차 TIL : CSS grid, culumns, transfrom, filter, 변수선언|CSS 심화내용 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-31%EC%9D%BC%EC%B0%A8-TIL-CSS%EC%8B%AC%ED%99%94)|
 |2021-09-20|데브코스 32일차 TIL : SCSS 문법, @mixin, 내장모듈|SCSS 문법 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-32%EC%9D%BC%EC%B0%A8-TIL-SCSS-%EB%AC%B8%EB%B2%95-mixin-%EB%82%B4%EC%9E%A5%EB%AA%A8%EB%93%88)|
+|2021-09-28|데브코스 34일차 TIL : Vue 문법 [ 디렉티브, 템플릿, 라이프사이클, Proxy, watch ]|Vue 문법정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-34%EC%9D%BC%EC%B0%A8-TIL-Vue-%EB%AC%B8%EB%B2%95-%EB%94%94%EB%A0%89%ED%8B%B0%EB%B8%8C-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4-Proxy-watch)|
+|2021-09-29|데브코스 35일차 TIL : Vue 문법 [ 조건부렌더링, 리스트렌더링, $event, $emit, 폼입력 바인딩]|Vue 문법정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-35%EC%9D%BC%EC%B0%A8-TIL-Vue-%EB%AC%B8%EB%B2%95-%EC%A1%B0%EA%B1%B4%EB%B6%80%EB%A0%8C%EB%8D%94%EB%A7%81-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A0%8C%EB%8D%94%EB%A7%81-event-emit-%ED%8F%BC%EC%9E%85%EB%A0%A5-%EB%B0%94%EC%9D%B8%EB%94%A9)|
+|2021-09-30|데브코스 37일차 TIL : Vue [ parcel, webpack 개발환경 구축 및 컴포넌트, prop, ref ]|Vue 문법정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-37%EC%9D%BC%EC%B0%A8-TIL-parcel-webpack-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-prop-ref)|
+|2021-10-01|브코스 38일차 TIL : Vue [플러그인, mixin, teleport, provide/inject, store, mapping]|Vue 문법정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-38%EC%9D%BC%EC%B0%A8-TIL-Vue-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-mixin-teleport-provideinject-store-mapping)|
+
 ---
 <br>
 
@@ -63,3 +68,4 @@
 |2021-09-04|도커, 그리고 컨테이너와 VM|컨테이너, VM, 하이퍼바이저, 도커 정리|[링크](https://velog.io/@te-ing/%EB%8F%84%EC%BB%A4%EC%99%80-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-VM)|
 |2021-09-12|디자인패턴의 정의 (feat MVC, 옵저버패턴)|디자인패턴 및 MVC, 옵저버패턴 정리|[링크](https://velog.io/@te-ing/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)|
 |2021-09-20|웹워커와 서비스워커|웹워커와 서비스워커에 대한 정리|[링크](https://velog.io/@te-ing/%EC%9B%B9%EC%9B%8C%EC%BB%A4%EC%99%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9B%8C%EC%BB%A4)|
+|2021-10-03|SEO최적화|검색 우선순위를 높이는 서치엔진최적화|[링크](https://velog.io/@te-ing/%EA%B2%80%EC%83%89-%EC%83%81%EB%8B%A8%EC%97%90-%EC%98%A4%EB%A5%B4%EA%B8%B0-%EC%9C%84%ED%95%9C-SEO-%EC%B5%9C%EC%A0%81%ED%99%94)|
