@@ -10,4 +10,14 @@ ___
   - EntityManagerFactory, EntityManager
   - 영속성 컨텍스트
   - Entity Mapping
+- 20210929 TIL
+  - 연관관계 Mapping
+  - 고급 Mapping
+    - 상속관계 Mapping
+    - 싱글테이블 전략
+    - @MappedSupserclass
+    - 식별자 클래스(@EmbeddedId, @IdClass)
+  - Proxy
+  - 영속성 전이(CASCADE)
+  - 고아 객체
 ___
