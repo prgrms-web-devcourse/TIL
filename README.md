@@ -28,4 +28,5 @@
 |2021.09.15|CSS|CSS 심화, SCSS (1)|[링크](https://velog.io/@krungy/TIL21.09.15)|
 |2021.09.16|CSS|SCSS (2)|[링크](https://velog.io/@krungy/TIL21.09.16)|
 |2021.09.27|CSS|SCSS (3)|[링크](https://velog.io/@krungy/TIL21.09.27)|
-|2021.09.28|CSS|Vue 시작하기 (1)|[링크](https://velog.io/@krungy/TIL21.09.28)|
+|2021.09.28|Vue|Vue (1)|[링크](https://velog.io/@krungy/TIL21.09.28)|
+|2021.09.29|Vue|Vue (2)|[링크](https://velog.io/@krungy/TIL21.09.29)|
