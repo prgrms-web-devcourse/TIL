@@ -45,6 +45,9 @@
 |2021-09-06|데브코스 26일차 TIL : CSS 심화|CSS Float, Position, Grid 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-26%EC%9D%BC%EC%B0%A8-TIL-CSS-%EC%8B%AC%ED%99%94)|
 |2021-09-07|데브코스 27일차 TIL : 호스팅|호스팅 서비스 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-27%EC%9D%BC%EC%B0%A8-TIL-%ED%98%B8%EC%8A%A4%ED%8C%85)|
 |2021-09-09|데브코스 28일차 TIL : 자바스크립트 무한스크롤 UI|무한스크롤 및 디바운스, 쓰로틀 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-28%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4-UI)|
+|2021-09-14|데브코스 30일차 TIL : 드래그 앤 드롭과 웹워커 API|드래그 앤 드롭, 웹워커 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-day30-%EB%93%9C%EB%9E%98%EA%B7%B8-%EC%95%A4-%EB%93%9C%EB%A1%AD%EA%B3%BC-%EC%9B%B9%EC%9B%8C%EC%BB%A4-API)|
+|2021-09-17|데브코스 31일차 TIL : CSS grid, culumns, transfrom, filter, 변수선언|CSS 심화내용 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-31%EC%9D%BC%EC%B0%A8-TIL-CSS%EC%8B%AC%ED%99%94)|
+|2021-09-20|데브코스 32일차 TIL : SCSS 문법, @mixin, 내장모듈|SCSS 문법 정리|[링크](https://velog.io/@te-ing/%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-32%EC%9D%BC%EC%B0%A8-TIL-SCSS-%EB%AC%B8%EB%B2%95-mixin-%EB%82%B4%EC%9E%A5%EB%AA%A8%EB%93%88)|
 ---
 <br>
 
@@ -59,3 +62,4 @@
 |2021-08-29|자바스크립트 Validation && dataset|validation, dataset 정리|[링크](https://velog.io/@te-ing/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Validation-%EA%B3%BC-dataset)|
 |2021-09-04|도커, 그리고 컨테이너와 VM|컨테이너, VM, 하이퍼바이저, 도커 정리|[링크](https://velog.io/@te-ing/%EB%8F%84%EC%BB%A4%EC%99%80-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-VM)|
 |2021-09-12|디자인패턴의 정의 (feat MVC, 옵저버패턴)|디자인패턴 및 MVC, 옵저버패턴 정리|[링크](https://velog.io/@te-ing/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)|
+|2021-09-20|웹워커와 서비스워커|웹워커와 서비스워커에 대한 정리|[링크](https://velog.io/@te-ing/%EC%9B%B9%EC%9B%8C%EC%BB%A4%EC%99%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9B%8C%EC%BB%A4)|
