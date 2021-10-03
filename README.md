@@ -55,6 +55,12 @@
 |21-09-26|신세계 Vue 탐험 (2)|클래스/스타일 바인딩, v-if, v-show, v-cloak, 리스트렌더링, 이벤트핸들링|[Week7 - Sun](https://velog.io/@jeongs/TIL-신세계-Vue-탐험-2)|
 |21-09-28|Vue 간단 요약|Vue 키워드 정리|[Week8 - Tue](https://velog.io/@jeongs/TIL-Vue-간단-요약)|
 
+### 10월
+|날짜|제목|설명|링크|
+|---|---|---|---|
+|21-10-03|Vue Router|Vue router, mode, navigation guards, meta field|[Week8 - Sun](https://velog.io/@jeongs/Vue-Router)|
+|21-10-03|Babel, PostCSS|Babel, postCSS|[Week8 - Sun](https://velog.io/@jeongs/Babel-PostCss)|
+
 ## 📃 ARTICLE
 |날짜|제목|설명|링크|
 |---|---|---|---|
