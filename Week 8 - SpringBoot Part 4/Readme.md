@@ -20,4 +20,8 @@ ___
   - Proxy
   - 영속성 전이(CASCADE)
   - 고아 객체
+- 20210930 TIL
+  - Spring Data JPA
+    - Method Query
+    - Custom Query (JPQL)
 ___
