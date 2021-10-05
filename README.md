@@ -31,34 +31,35 @@
 
 <h2>TIL</h2>
 
-|   날짜   |    제목    |                간단한 한 줄 설명                 |                         링크                          |
-| :------: | :--------: | :----------------------------------------------: | :---------------------------------------------------: |
-| 8월 2일  | TIL 1일차  |                  JS기본과 원리                   |  [TIL_day1](https://sunjae95.github.io/posts/TIL_1/)  |
-| 8월 3일  | TIL 2일차  | 함수형프로그래밍, 객체지향 프로그래밍, 기본 동작 |  [TIL_day2](https://sunjae95.github.io/posts/TIL_2/)  |
-| 8월 4일  | TIL 3일차  |                자료구조에 대하여                 |  [TIL_day3](https://sunjae95.github.io/posts/TIL_3/)  |
-| 8월 5일  | TIL 4일차  |                   트리, 트라이                   |  [TIL_day4](https://sunjae95.github.io/posts/TIL_4/)  |
-| 8월 6일  | TIL 5일차  |                     힙, 정렬                     |  [TIL_day5](https://sunjae95.github.io/posts/TIL_5/)  |
-| 8월 10일 | TIL 6일차  |                HTML,CSS,DOM, 함수                |  [TIL_day6](https://sunjae95.github.io/posts/TIL_6/)  |
-| 8월 11일 | TIL 7일차  |            순회, 이터러블, 제너레이터            |  [TIL_day7](https://sunjae95.github.io/posts/TIL_7/)  |
-| 8월 12일 | TIL 8일차  |               함수의표현과 지연성                |  [TIL_day8](https://sunjae95.github.io/posts/TIL_8/)  |
-| 8월 15일 | TIL 9일차  |              Promise,Monad,Kleisli               |  [TIL_day9](https://sunjae95.github.io/posts/TIL_9/)  |
-| 8월 17일 | TIL 10일차 |              함수형 프로그래밍 응용              | [TIL_day10](https://sunjae95.github.io/posts/TIL_10/) |
-| 8월 19일 | TIL 11일차 |            명령형, 선언형 프로그래밍             | [TIL_day11](https://sunjae95.github.io/posts/TIL11/)  |
-| 8월 20일 | 3주차 회고 |                 3주차 나의 일기                  |   [3week](https://sunjae95.github.io/posts/week3/)    |
-| 8월 23일 | TIL 12일차 |                 모듈화, fetchAPI                 | [TIL_day12](https://sunjae95.github.io/posts/TIL_12/) |
-| 8월 27일 | TIL 13일차 |                 SPA, historyAPI                  | [TIL_day13](https://sunjae95.github.io/posts/TIL_13/) |
-| 8월 30일 | 4주차 회고 |                    4주차 회고                    |   [4week](https://sunjae95.github.io/posts/week4/)    |
-| 9월 1일  | TIL 14일차 |                    InnerHTML                     | [TIL_day14](https://sunjae95.github.io/posts/TIL_14/) |
-| 9월 5일  | 5주차 회고 |                    5주차 회고                    |   [5week](https://sunjae95.github.io/posts/week5/)    |
-| 9월 6일  | TIL 15일차 |               CSS float, Position                | [TIL_day15](https://sunjae95.github.io/posts/TIL_15/) |
-| 9월 7일  | TIL 16일차 |                  CSS Flex, Grid                  | [TIL_day16](https://sunjae95.github.io/posts/TIL_16/) |
-| 9월 8일  | TIL 17일차 |                    무한스크롤                    | [TIL_day17](https://sunjae95.github.io/posts/TIL_17/) |
-| 9월 12일 | 6주차 회고 |                    6주차 회고                    |   [6week](https://sunjae95.github.io/posts/week6/)    |
-| 9월 14일 | TIL 18일차 |                    TypeCheck                     | [TIL_day18](https://sunjae95.github.io/posts/TIL_18/) |
-| 9월 16일 | TIL 19일차 |                  Grid심화, SASS                  | [TIL_day19](https://sunjae95.github.io/posts/TIL_19/) |
-| 9월 17일 | TIL 20일차 |                SCSS 재활용, 확장                 | [TIL_day20](https://sunjae95.github.io/posts/TIL_20/) |
-| 9월 18일 | TIL 21일차 |              SCSS 조건,반복,import               | [TIL_day21](https://sunjae95.github.io/posts/TIL_21/) |
-| 9월 19일 | TIL 22일차 |                  SCSS 내장 함수                  | [TIL_day22](https://sunjae95.github.io/posts/TIL_22/) |
-| 9월 27일 | 7주차 회고 |                    7주차 회고                    |   [7week](https://sunjae95.github.io/posts/week7/)    |
-| 9월 29일 | TIL 23일차 |                     Vue 입문                     | [TIL_day23](https://sunjae95.github.io/posts/TIL_23/) |
-| 9월 30일 | TIL 24일차 |                 바인딩 및 렌더링                 | [TIL_day24](https://sunjae95.github.io/posts/TIL_24/) |
+|   날짜    |    제목    |                간단한 한 줄 설명                 |                         링크                          |
+| :-------: | :--------: | :----------------------------------------------: | :---------------------------------------------------: |
+|  8월 2일  | TIL 1일차  |                  JS기본과 원리                   |  [TIL_day1](https://sunjae95.github.io/posts/TIL_1/)  |
+|  8월 3일  | TIL 2일차  | 함수형프로그래밍, 객체지향 프로그래밍, 기본 동작 |  [TIL_day2](https://sunjae95.github.io/posts/TIL_2/)  |
+|  8월 4일  | TIL 3일차  |                자료구조에 대하여                 |  [TIL_day3](https://sunjae95.github.io/posts/TIL_3/)  |
+|  8월 5일  | TIL 4일차  |                   트리, 트라이                   |  [TIL_day4](https://sunjae95.github.io/posts/TIL_4/)  |
+|  8월 6일  | TIL 5일차  |                     힙, 정렬                     |  [TIL_day5](https://sunjae95.github.io/posts/TIL_5/)  |
+| 8월 10일  | TIL 6일차  |                HTML,CSS,DOM, 함수                |  [TIL_day6](https://sunjae95.github.io/posts/TIL_6/)  |
+| 8월 11일  | TIL 7일차  |            순회, 이터러블, 제너레이터            |  [TIL_day7](https://sunjae95.github.io/posts/TIL_7/)  |
+| 8월 12일  | TIL 8일차  |               함수의표현과 지연성                |  [TIL_day8](https://sunjae95.github.io/posts/TIL_8/)  |
+| 8월 15일  | TIL 9일차  |              Promise,Monad,Kleisli               |  [TIL_day9](https://sunjae95.github.io/posts/TIL_9/)  |
+| 8월 17일  | TIL 10일차 |              함수형 프로그래밍 응용              | [TIL_day10](https://sunjae95.github.io/posts/TIL_10/) |
+| 8월 19일  | TIL 11일차 |            명령형, 선언형 프로그래밍             | [TIL_day11](https://sunjae95.github.io/posts/TIL11/)  |
+| 8월 20일  | 3주차 회고 |                 3주차 나의 일기                  |   [3week](https://sunjae95.github.io/posts/week3/)    |
+| 8월 23일  | TIL 12일차 |                 모듈화, fetchAPI                 | [TIL_day12](https://sunjae95.github.io/posts/TIL_12/) |
+| 8월 27일  | TIL 13일차 |                 SPA, historyAPI                  | [TIL_day13](https://sunjae95.github.io/posts/TIL_13/) |
+| 8월 30일  | 4주차 회고 |                    4주차 회고                    |   [4week](https://sunjae95.github.io/posts/week4/)    |
+|  9월 1일  | TIL 14일차 |                    InnerHTML                     | [TIL_day14](https://sunjae95.github.io/posts/TIL_14/) |
+|  9월 5일  | 5주차 회고 |                    5주차 회고                    |   [5week](https://sunjae95.github.io/posts/week5/)    |
+|  9월 6일  | TIL 15일차 |               CSS float, Position                | [TIL_day15](https://sunjae95.github.io/posts/TIL_15/) |
+|  9월 7일  | TIL 16일차 |                  CSS Flex, Grid                  | [TIL_day16](https://sunjae95.github.io/posts/TIL_16/) |
+|  9월 8일  | TIL 17일차 |                    무한스크롤                    | [TIL_day17](https://sunjae95.github.io/posts/TIL_17/) |
+| 9월 12일  | 6주차 회고 |                    6주차 회고                    |   [6week](https://sunjae95.github.io/posts/week6/)    |
+| 9월 14일  | TIL 18일차 |                    TypeCheck                     | [TIL_day18](https://sunjae95.github.io/posts/TIL_18/) |
+| 9월 16일  | TIL 19일차 |                  Grid심화, SASS                  | [TIL_day19](https://sunjae95.github.io/posts/TIL_19/) |
+| 9월 17일  | TIL 20일차 |                SCSS 재활용, 확장                 | [TIL_day20](https://sunjae95.github.io/posts/TIL_20/) |
+| 9월 18일  | TIL 21일차 |              SCSS 조건,반복,import               | [TIL_day21](https://sunjae95.github.io/posts/TIL_21/) |
+| 9월 19일  | TIL 22일차 |                  SCSS 내장 함수                  | [TIL_day22](https://sunjae95.github.io/posts/TIL_22/) |
+| 9월 27일  | 7주차 회고 |                    7주차 회고                    |   [7week](https://sunjae95.github.io/posts/week7/)    |
+| 9월 29일  | TIL 23일차 |                     Vue 입문                     | [TIL_day23](https://sunjae95.github.io/posts/TIL_23/) |
+| 9월 30일  | TIL 24일차 |                 바인딩 및 렌더링                 | [TIL_day24](https://sunjae95.github.io/posts/TIL_24/) |
+| 10월 04일 | TIL 25일차 |                 Webpack / ESLint                 | [TIL_day25](https://sunjae95.github.io/posts/TIL_25/) |
