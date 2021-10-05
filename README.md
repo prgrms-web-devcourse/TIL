@@ -63,3 +63,4 @@
 | 9월 29일  | TIL 23일차 |                     Vue 입문                     | [TIL_day23](https://sunjae95.github.io/posts/TIL_23/) |
 | 9월 30일  | TIL 24일차 |                 바인딩 및 렌더링                 | [TIL_day24](https://sunjae95.github.io/posts/TIL_24/) |
 | 10월 04일 | TIL 25일차 |                 Webpack / ESLint                 | [TIL_day25](https://sunjae95.github.io/posts/TIL_25/) |
+| 10월 05일 | TIL 26일차 |                 Props / 컴포넌트                 | [TIL_day26](https://sunjae95.github.io/posts/TIL_26/) |
