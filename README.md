@@ -158,9 +158,10 @@
   |W9D2|2021-10-05|Cloud Service Part 1_Day 2|[20211005 TIL.md](Week%209%20-%20Cloud%20Service%20Part%201/20211005%20TIL.md)|
   |W9D3|2021-10-06|Cloud Service Part 1_Day 3|[20211006 TIL.md](Week%209%20-%20Cloud%20Service%20Part%201/20211006%20TIL.md)|
   |W9D4|2021-10-07|Cloud Service Part 1_Day 4|[20211007 TIL.md](Week%209%20-%20Cloud%20Service%20Part%201/20211007%20TIL.md)|
-  |W9D5|2021-10-08|Cloud Service Part 1_Day 5|준비중.. [20211008 TIL.md](Week%209%20-%20Cloud%20Service%20Part%201/20211008%20TIL.md)|
+  |W9D5|2021-10-08|Cloud Service Part 1_Day 5|[20211008 TIL.md](Week%209%20-%20Cloud%20Service%20Part%201/20211008%20TIL.md)|
 
   ## INDEX
+  ![image](https://user-images.githubusercontent.com/60170616/136707974-4279c6f4-4db2-4aba-971a-60b2a09a0a44.png)
 
 </div>
 </details>
