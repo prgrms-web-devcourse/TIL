@@ -21,4 +21,8 @@ ___
   - RDS
   - Amazon S3
   - CloudFront
+- 20211007 TIL
+  - CloudWatch
+  - ELB
+  - Lambda
 ___
