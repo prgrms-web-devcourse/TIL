@@ -15,4 +15,10 @@ ___
     - 네트워크 인터페이스
   - Linux
   - Linux 명령어
+- 20211006 TIL
+  - vi / vim
+  - shell
+  - RDS
+  - Amazon S3
+  - CloudFront
 ___
