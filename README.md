@@ -119,7 +119,7 @@
   |W5D1|2021-08-30|SpringBoot Part 3_Day 1|[20210830 TIL.md](Week%205%20-%20SpringBoot%20Part%203/20210830%20TIL.md)|
   |W5D2|2021-08-31|SpringBoot Part 3_Day 2|[20210831 TIL.md](Week%205%20-%20SpringBoot%20Part%203/20210831%20TIL.md)|
   |W5D3|2021-09-01|SpringBoot Part 3_Day 3|[20210901 TIL.md](Week%205%20-%20SpringBoot%20Part%203/20210901%20TIL.md)|
-  |W5D4|2021-09-02|SpringBoot Part 3_Day 4|준비중.. [20210902 TIL.md](Week%205%20-%20SpringBoot%20Part%203/20210902%20TIL.md)|
+  |W5D4|2021-09-02|SpringBoot Part 3_Day 4|[20210902 TIL.md](Week%205%20-%20SpringBoot%20Part%203/20210902%20TIL.md)|
   |W5D5|2021-09-03|SpringBoot Part 3_Day 5|준비중.. [20210903 TIL.md](Week%205%20-%20SpringBoot%20Part%203/20210903%20TIL.md)|
 
   ## INDEX
