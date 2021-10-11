@@ -11,4 +11,8 @@ ___
   - Spring MVC 흐름
   - Setup
   - Thymeleaf
+- 20210901 TIL
+  - WebApplicationContext
+  - REST API
+  - @RestController
 ___
