@@ -22,4 +22,6 @@ ___
     - CORS 기본 흐름
     - CORS 동작 방식
     - CORS 해결 방법
+- 20210903 TIL
+  - AutoConfiguration
 ___
