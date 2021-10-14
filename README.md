@@ -139,10 +139,11 @@ TIL은 <b>Today I Learn</b> 의 약어이며, 오늘 공부 한 내용을 매일
 
 ## ✍ Week 8
 
-| 날짜       | 제목         | 설명                                                   | 링크                                             |
-| ---------- | ------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| 2021.09.27 | TIL - Day 36 | Programmers Web Devcourse FE 1th - Day 36의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-36) |
-| 2021.09.28 | TIL - Day 37 | Programmers Web Devcourse FE 1th - Day 37의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-37) |
-| 2021.09.29 | TIL - Day 38 | Programmers Web Devcourse FE 1th - Day 38의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-38) |
-| 2021.09.30 | TIL - Day 39 | Programmers Web Devcourse FE 1th - Day 39의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-39) |
-| 2021.10.01 | TIL - Day 40 | Programmers Web Devcourse FE 1th - Day 40의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-40) |
+| 날짜          | 제목         | 설명                                                   | 링크                                             |
+| ------------- | ------------ | ------------------------------------------------------ | ------------------------------------------------ |
+| 2021.09.27    | TIL - Day 36 | Programmers Web Devcourse FE 1th - Day 36의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-36) |
+| 2021.09.28    | TIL - Day 37 | Programmers Web Devcourse FE 1th - Day 37의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-37) |
+| 2021.09.29    | TIL - Day 38 | Programmers Web Devcourse FE 1th - Day 38의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-38) |
+| 2021.09.30    | TIL - Day 39 | Programmers Web Devcourse FE 1th - Day 39의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-39) |
+| 2021.10.01    | TIL - Day 40 | Programmers Web Devcourse FE 1th - Day 40의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Day-40) |
+| 2021.10.02~03 | TIL - Week 8 | Programmers Web Devcourse FE 1th - Week 8의 TIL을 기록 | [링크](https://velog.io/@codenmh0822/TIL-Week-8) |
