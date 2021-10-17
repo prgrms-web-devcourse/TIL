@@ -54,3 +54,12 @@
 | 9월 14일 | 32일차 TIL | CSS 심화                                                   | [링크](https://velog.io/@alajillo/Day.32-CSS-%EC%8B%AC%ED%99%942021.09.14)                                                                      |
 | 9월 14일 | 32일차 TIL | Sass(SCSS)-1/2                                             | [링크](https://velog.io/@alajillo/Day.32-SassSCSS2021.09.14)                                                                                    |
 | 9월 15일 | 33일차 TIL | Sass(SCSS)-2/2                                             | [링크](https://velog.io/@alajillo/Day-33)                                                                                                       |
+|10월 6일|React TIL|JSX|[링크](https://velog.io/@alajillo/JSX)|
+|10월 6일|React TIL|prop-types|[링크](https://velog.io/@alajillo/prop-types)|
+|10월 6일|React TIL|useState|[링크](https://velog.io/@alajillo/useState)|
+|10월 6일|React TIL|useEffect 와 Hook|[링크](https://velog.io/@alajillo/useEffect-%EC%99%80-Hook)|
+|10월 6일|React TIL|useRef|[링크](https://velog.io/@alajillo/useRef)|
+|10월 8일|React TIL|Style|[링크](https://velog.io/@alajillo/Style)|
+|10월 8일|React TIL|useMemo && React.memo|[링크](https://velog.io/@alajillo/useMemo-React.memo)|
+|10월 8일|React TIL|useCallback|[링크](https://velog.io/@alajillo/useCallback)|
+|10월 8일|React TIL|Custom Hook|[링크](https://velog.io/@alajillo/Custom-Hook)|
