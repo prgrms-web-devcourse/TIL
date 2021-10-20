@@ -140,9 +140,10 @@
   |W8D2|2021-09-28|SpringBoot Part 4_Day 2|[20210928 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20210928%20TIL.md)|
   |W8D3|2021-09-29|SpringBoot Part 4_Day 3|[20210929 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20210929%20TIL.md)|
   |W8D4|2021-09-30|SpringBoot Part 4_Day 4|[20210930 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20210930%20TIL.md)|
-  |W8D5|2021-10-01|SpringBoot Part 4_Day 5|준비중.. [20211001 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20211001%20TIL.md)|
+  |W8D5|2021-10-01|SpringBoot Part 4_Day 5|[20211001 TIL.md](Week%208%20-%20SpringBoot%20Part%204/20211001%20TIL.md)|
 
   ## INDEX
+  ![image](https://user-images.githubusercontent.com/60170616/138064522-6e327645-3102-4d1d-9b6e-2e5abf389dcb.png)
 
 </div>
 </details>
