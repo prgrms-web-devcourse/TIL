@@ -38,3 +38,10 @@
 |2021.10.12|React|React (3)|[링크](https://velog.io/@krungy/TIL21.10.12)|
 |2021.10.13|React|React (4)|[링크](https://velog.io/@krungy/TIL21.10.13)|
 |2021.10.14|React|React (5) & React (6)|[링크](https://velog.io/@krungy/TIL21.10.14)|
+|2021.10.19|React|React (7) & React (8)|[링크](https://velog.io/@krungy/TIL21.10.19)|
+|2021.10.20|React|React (9)|[링크](https://velog.io/@krungy/TIL21.10.20)|
+|2021.11.04|React|React 심화|[링크](https://velog.io/@krungy/TIL21.11.04)|
+|2021.11.05|React|TypeScript TODO / Redux|[링크](https://velog.io/@krungy/TIL21.11.05)|
+|2021.11.09|React|SSR / Next.js|[링크](https://velog.io/@krungy/TIL21.11.09)|
+|2021.11.12|D3.js|데이터 시각화|[링크](https://velog.io/@krungy/TIL21.11.12)|
+|2021.11.15|D3.js|D3 Selection|[링크](https://velog.io/@krungy/TIL21.11.15)|
