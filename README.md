@@ -64,3 +64,4 @@
 | 2021.09.14 | 문제풀이 | [프로그래머스] 순위 | [링크](https://velog.io/@yes3427/programmers-ranking) |
 | 2021.09.15 | 문제풀이 | [프로그래머스] 로또의 최고 순위와 최저 순위 | [링크](https://velog.io/@yes3427/programmers-lotto) |
 | 2021.09.16 | 문제풀이 | [프로그래머스] 숫자 문자열과 영단어 | [링크](https://velog.io/@yes3427/programmers-number-and-english-word) |
+| 2021.09.17 | SCSS | SCSS의 개념과 변수 | [링크](https://velog.io/@yes3427/SCSS-variable) |
