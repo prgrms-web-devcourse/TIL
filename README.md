@@ -177,7 +177,7 @@
   |Week/Day|날짜|제목|링크|
   |:-:|:-:|:-:|:-:|
   |W15D1|2021-11-11|Spring Security Part 1_Day 1|[20211111 TIL.md](Week%2015%20-%20Spring%20Security%20Part%201/20211111%20TIL.md)|
-  |W15D2|2021-11-12|Spring Security Part 1_Day 2|[준비중.. 20211112 TIL.md](Week%2015%20-%20Spring%20Security%20Part%201/20211112%20TIL.md)|
+  |W15D2|2021-11-12|Spring Security Part 1_Day 2|[20211112 TIL.md](Week%2015%20-%20Spring%20Security%20Part%201/20211112%20TIL.md)|
   |W15D3|2021-11-15|Spring Security Part 1_Day 3|[준비중.. 20211115 TIL.md](Week%2015%20-%20Spring%20Security%20Part%201/20211115%20TIL.md)|
   |W15D4|2021-11-16|Spring Security Part 1_Day 4|[준비중.. 20211116 TIL.md](Week%2015%20-%20Spring%20Security%20Part%201/20211116%20TIL.md)|
   |W15D5|2021-11-17|Spring Security Part 1_Day 5|[준비중.. 20211117 TIL.md](Week%2015%20-%20Spring%20Security%20Part%201/20211117%20TIL.md)|
