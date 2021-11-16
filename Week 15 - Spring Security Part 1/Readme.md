@@ -13,4 +13,8 @@ ___
   - Anonymous Authentication Filter
   - Exception Translation Filter
   - 대칭 키 암호화, RSA 암호화
+- 20211115 TIL
+  - Thread Per Request 모델, ThreadLocal
+  - SecurityContextHolder, SecurityContext, Authentication
+  - 인증 처리 과정
 ___
