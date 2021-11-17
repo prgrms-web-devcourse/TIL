@@ -46,3 +46,4 @@
 |2021.11.12|D3.js|데이터 시각화|[링크](https://velog.io/@krungy/TIL21.11.12)|
 |2021.11.15|D3.js|D3 Selection|[링크](https://velog.io/@krungy/TIL21.11.15)|
 |2021.11.16|D3.js|D3 method|[링크](https://velog.io/@krungy/TIL21.11.16)|
+|2021.11.17|D3.js|D3 데이터 조인|[링크](https://velog.io/@krungy/TIL21.11.17)|
