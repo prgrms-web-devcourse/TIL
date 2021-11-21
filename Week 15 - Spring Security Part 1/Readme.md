@@ -17,4 +17,8 @@ ___
   - Thread Per Request 모델, ThreadLocal
   - SecurityContextHolder, SecurityContext, Authentication
   - 인증 처리 과정
+- 20211116 TIL
+  - Remember-Me
+  - 세션 처리
+  - 인가 처리
 ___
