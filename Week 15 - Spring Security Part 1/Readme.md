@@ -21,4 +21,9 @@ ___
   - Remember-Me
   - 세션 처리
   - 인가 처리
+- 20211117 TIL
+  - Spring Security 인증 이벤트
+  - Header Writer Filter
+  - Csrf Filter
+  - Web Async Manager Integration Filter
 ___
