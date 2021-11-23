@@ -7,4 +7,8 @@ ___
   - Spring Security DB 연동
   - DB 기반 인증 처리 (JDBC)
   - DB 기반 인증 처리 (JPA)
+- 20211119 TIL
+  - 3-Tier Architecture
+  - Session Cluster
+  - Spring Session
 ___
