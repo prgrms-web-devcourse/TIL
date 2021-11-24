@@ -11,4 +11,7 @@ ___
   - 3-Tier Architecture
   - Session Cluster
   - Spring Session
+- 20211122 TIL
+  - Stateful vs Stateless
+  - JWT
 ___
