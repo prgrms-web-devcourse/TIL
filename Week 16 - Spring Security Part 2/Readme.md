@@ -1,6 +1,6 @@
 ___
-# Week 9
-- Cloud Service Part 1
+# Week 16
+### Spring Security Part 2
 
 ## 📌INDEX
 - 20211118 TIL
@@ -14,4 +14,7 @@ ___
 - 20211122 TIL
   - Stateful vs Stateless
   - JWT
+- 20211123 TIL
+  - REST API with JWT
+  - JWT Authentication
 ___
