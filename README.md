@@ -41,6 +41,21 @@
 ## 10 月 ~ 11 月
 | 날짜 | 제목 | 설명 | 링크 |
 | --- | --- | --- | --- | 
+| 211202 | TIL | Axios interceptor, Next.js environment variables setting, 타입스크립트 추론 | [링크]() | 
+| 211130 ~ 211201 | TIL | next/image | [링크]() | 
+| 211129 | TIL | Next.js SSG vs SSR, 협업 이후 깨달은 점, Git fetch | [링크](https://nonstop-fender-e38.notion.site/211129-32b81a5bb236480c990ca4e75f55b5d6) | 
+| 211126 | TIL | GraphQL + Apollo, MOSCOW, StyleLint v14 | [링크](https://nonstop-fender-e38.notion.site/211126-b6c34f369e8f4518950f64754ecc9f38) | 
+| 211124 | TIL | PWA, SSG, Tree shaking | [링크]() | 
+| 211123 | TIL | D3 차트, 협업 커뮤니케이션 | [링크](https://nonstop-fender-e38.notion.site/211123-79faf509d1834a5aba3abd6d712fb043) | 
+| 211122 | TIL | Closure 심화, yarn berry, husky | [링크](https://nonstop-fender-e38.notion.site/211122-ccd71260a947459d91494d989d875e89) | 
+| 211121 | TIL | WebRTC, graphQL, PWA | [링크](https://nonstop-fender-e38.notion.site/211121-e7da757ef48e45c9bb9114d541350838) | 
+| 211118 | TIL | Git cherry-pick, react-refresh-webpack-plugin | [링크](https://nonstop-fender-e38.notion.site/211118-1828f2b163ba48979730864d447d9d60) | 
+| 211117 | TIL | D3 라이브러리 뜯어보기, git rebase conflict | [링크](https://nonstop-fender-e38.notion.site/211117-4d27724736b04ad78764db9729093d0f) | 
+| 211116 | TIL | D3 조인, 웹 소켓, SOLID 원칙 | [링크](https://nonstop-fender-e38.notion.site/211116-f6fbaf0b8752469fb5b37b35f5eb18fa) | 
+| 211115 | Article | Git remote rename, useEffect를 통한 React redirect 대체 | [링크](https://nonstop-fender-e38.notion.site/211115-3e3c1c32589f4e4d8ea6c665afddaf42) | 
+| 211114 | TIL | TS + React + ESLint + Webpack boilerplate | [링크](https://nonstop-fender-e38.notion.site/211114-ec8641bbe6a348ac951246d4fc4744ce) | 
+| 211113 | TIL | Map, hexademical RGBA, e.target.files | [링크](https://nonstop-fender-e38.notion.site/211113-f575c05282cf4863b1ce471de636fde2) | 
+| 211112 | 회고 | (구) 달리팀 회고 | [링크](https://nonstop-fender-e38.notion.site/211112-5d269bff92274cd488643fb15b6679f5) | 
 | 211111 | TIL | Next.js link styled-component not working issue, D3 기초 강의 등 | [211111](https://www.notion.so/211111-031e2fee9cde4e84a8d01b9f1efc969e) | 
 | 211110 | TIL | Next.js란, useParams destructuring type issue, react-router v6에서의 변화로 인한 이슈, redux-thunk 등 | [211110](https://www.notion.so/211110-fd5e511eb2ff48fc9759fc455264e77d) | 
 | 211109 | TIL, TWL | Git 커밋 합치기, inline style 미적용 issue, yarn 주요 커맨드, `redux-toolkit` 등 | [211109](https://www.notion.so/211109-325746ae41fb43a1b47a1d591d639933) | 
