@@ -71,9 +71,7 @@
 | 211007 | TIL | `prop`, 커스텀 이벤트, `slot`, 컴포넌트, 믹스인, 플러그인 등 | [211007](https://www.notion.so/211007-c6e9d96b62674bf397c711216238c5b9) |
 | 211006 | TIL | 이벤트 핸들링, 폼 입력 바인딩, 컴포넌트 등, 브라우저 favicon 탐색 등 | [211006](https://www.notion.so/211006-2be3a39610da47ffb3b6380c5d24198a) |
 | 211005 | TIL | `BEM` 관련, `Sass` `@error` & `@use`, `vue` 리스트 렌더링 등 | [211005](https://www.notion.so/211005-3eb4e0c0063d41b18053bbd4f68c20d8) |
-
-| 211004 | TIL | `vue` 템플릿 문법, 조건부 렌더링, 스타일 바인딩 등 | [211004](https://www.notion.so/211004-16c9112f10f045f5807f50567a1a56ac) |
-
+| 211004 | TIL | `vue` 템플릿 문법, 조건부 렌더링, 스타일 바인딩 등  | [211004](https://www.notion.so/211004-16c9112f10f045f5807f50567a1a56ac) |
 | 211003 | TIL | `vue` 템플릿 문법, Data Methods 등 | [211003](https://www.notion.so/211003-f3e238e54c124c5aa748ae101f2150c7) |
 
 
