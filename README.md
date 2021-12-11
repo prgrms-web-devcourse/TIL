@@ -38,10 +38,18 @@
 ---
 # 💪🏻 TIL
 
+## 12 月
+| 날짜 | 제목 | 설명 | 링크 |
+| --- | --- | --- | --- | 
+| 211209 ~ 211210 | TIL | `Firebase` X `Next.js` deployment, Next.js initialization in Next.d.ts, Axios interceptor, Mocky, Binary Search, padStart | [링크](https://nonstop-fender-e38.notion.site/211209-211210-34d5355f9afa41a588fd596596cbb6e3) | 
+| 211208 | TIL | ISR, git squash, Next.js SSG, SSR, CSR | [링크](https://nonstop-fender-e38.notion.site/211208-9f37458a30ca4e3db13ac3ac51d10380) | 
+| 211206 ~ 211207 | TIL | Emotion CSS Prop is not equal with Style Attribute, Array vs Tuple in TS  | [링크](https://www.notion.so/211206-211207-029875a9ae654f02a953940716c5e25c) | 
+| 211204 ~ 211205 | TIL | TypeScript Dynamic Tag + emotion에 적용하기, Styled-component Type 명시하는 방법, 인덱스 시그니처 속성 | [링크](https://www.notion.so/211204-121205-89d0cdaf789f424e921ac533d4044dfc) | 
+| 211202 | TIL | Axios interceptor, Next.js environment variables setting, 타입스크립트 추론 | [링크](https://www.notion.so/211202-5b9ae4d035c0417b928df268a068e778) | 
+
 ## 10 月 ~ 11 月
 | 날짜 | 제목 | 설명 | 링크 |
 | --- | --- | --- | --- | 
-| 211202 | TIL | Axios interceptor, Next.js environment variables setting, 타입스크립트 추론 | [링크]() | 
 | 211130 ~ 211201 | TIL | next/image | [링크]() | 
 | 211129 | TIL | Next.js SSG vs SSR, 협업 이후 깨달은 점, Git fetch | [링크](https://nonstop-fender-e38.notion.site/211129-32b81a5bb236480c990ca4e75f55b5d6) | 
 | 211126 | TIL | GraphQL + Apollo, MOSCOW, StyleLint v14 | [링크](https://nonstop-fender-e38.notion.site/211126-b6c34f369e8f4518950f64754ecc9f38) | 
