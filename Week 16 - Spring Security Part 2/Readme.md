@@ -17,4 +17,10 @@ ___
 - 20211123 TIL
   - REST API with JWT
   - JWT Authentication
+- 20211124 TIL
+  - OAuth2.0
+    - Authorization Code Grant
+    - Implicit Grant
+    - Client Credentials Grant
+    - Resource Owner Password Credentials Grant
 ___
