@@ -200,9 +200,10 @@
   |W16D2|2021-11-19|Spring Security Part 2_Day 2|[20211119 TIL.md](Week%2016%20-%20Spring%20Security%20Part%202/20211119%20TIL.md)|
   |W16D3|2021-11-22|Spring Security Part 2_Day 3|[20211122 TIL.md](Week%2016%20-%20Spring%20Security%20Part%202/20211122%20TIL.md)|
   |W16D4|2021-11-23|Spring Security Part 2_Day 4|[20211123 TIL.md](Week%2016%20-%20Spring%20Security%20Part%202/20211123%20TIL.md)|
-  |W16D5|2021-11-24|Spring Security Part 2_Day 5|[준비중.. 20211124 TIL.md](Week%2016%20-%20Spring%20Security%20Part%202/20211124%20TIL.md)|
+  |W16D5|2021-11-24|Spring Security Part 2_Day 5|[20211124 TIL.md](Week%2016%20-%20Spring%20Security%20Part%202/20211124%20TIL.md)|
 
   ## INDEX
+  ![image](https://user-images.githubusercontent.com/60170616/154229785-53a65cd4-22df-4682-88b8-f9565e788815.png)
   
 </div>
 </details>
