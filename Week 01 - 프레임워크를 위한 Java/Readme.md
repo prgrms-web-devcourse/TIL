@@ -25,7 +25,7 @@ ___
   - 람다 표현식
   - Method Reference
   - Generic
-- 20210805 TIL (미완)
+- 20210805 TIL
   - Collection
   - Iterator
   - Stream
