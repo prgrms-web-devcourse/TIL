@@ -30,9 +30,4 @@ ___
   - Iterator
   - Stream
   - Optional
-- 20210806 TIL (미완)
-  - Dependency
-  - 프로젝트 설계
-  - 프로젝트 구현 엔진 레이어
-  - 프로젝트 구현 어플리케이션 레이어
 ___
