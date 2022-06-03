@@ -47,3 +47,5 @@
 | 2021.08.19 | JS Article              | 자바스크립트의 모듈화                                        | [링크](https://velog.io/@younoah/js-module)              |
 | 2021.08.20 | JS Article              | fetchAPI                                                     | [링크](https://velog.io/@younoah/js-module)              |
 | 2021.08.23 | JS Article              | SPA - history api, hashbang                                  | [링크](https://velog.io/@younoah/js-module)              |
+
+수정
