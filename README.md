@@ -29,6 +29,7 @@
 | 2021.08.16 | 20210816 - this에 대해서        | 자바스크립트의 this에 대해서 알아보자.            | [링크](https://velog.io/@younoah/TIL-20210816) |
 | 2021.08.17 | 20210817 TIL                    | 컴포넌트 프로그래밍 방식과 특강                   | [링크](https://velog.io/@younoah/TIL-20210817) |
 | 2021.08.19 | 20210819 TIL                    | 멘토링, 모듈화, 비동기                            | [링크](https://velog.io/@younoah/TIL-20210819) |
+| 2021.08.19 | 20210906 TIL                    | flex와 grid                                       | [링크](https://velog.io/@younoah/TIL-20210906) |
 
 ### 💧Article
 
@@ -46,3 +47,5 @@
 | 2021.08.19 | JS Article              | 자바스크립트의 모듈화                                        | [링크](https://velog.io/@younoah/js-module)              |
 | 2021.08.20 | JS Article              | fetchAPI                                                     | [링크](https://velog.io/@younoah/js-module)              |
 | 2021.08.23 | JS Article              | SPA - history api, hashbang                                  | [링크](https://velog.io/@younoah/js-module)              |
+
+수정
